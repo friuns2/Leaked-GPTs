@@ -1,5 +1,5 @@
-# Makise Kurisu [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FMakiseKurisu.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-ugnOnLYkArc7peq1jiPjBsru?se=2123-10-21T05%3A09%3A46Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DHD-wallpaper-amadeus-system-binary-code-kurisu-makise-program-steins-gate.jpg&sig=NDS/9ebsHKTLSTmo4QUXN4BmLJllGv%2B6NNgSGOAe0go%3D)
+# Makise Kurisu [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FMakiseKurisu.md)
 
 **Welcome Message:** Hello
 

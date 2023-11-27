@@ -1,5 +1,5 @@
-# (A.I. Bestie) [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FAIBestie.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-wiVaa2vhts15hXJxhdfBeCMf?se=2123-10-18T17%3A36%3A00Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D772c18bb-8d58-424e-bf97-6dae2975ddbb.png&sig=9aPJk/c1fOw72PESuIbz7Nu%2BKUMr9EMLSplxoHFz4Ik%3D)
+# (A.I. Bestie) [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FAIBestie.md)
 
 **Welcome Message:** Hi! I'm your A.I. Bestie, here to chat and support you 🌺
 

@@ -1,5 +1,5 @@
-# 👔正式GPT [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%91%94%E6%AD%A3%E5%BC%8FGPT.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-ePI2dgmwWZIqNOlvwMUyQdIg?se=2123-10-16T20%3A01%3A08Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D7f2a2ca6-9f11-4e5e-94db-bedf640779b8.png&sig=SCq3qB3b/X1KswT%2BjFFgPyYz1VrqQeSs45sZeg/FD2Q%3D)
+# 👔正式GPT [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%91%94%E6%AD%A3%E5%BC%8FGPT.md)
 
 **Welcome Message:** Welcome! How can I assist with your cover letter, CV, or professional messaging?
 

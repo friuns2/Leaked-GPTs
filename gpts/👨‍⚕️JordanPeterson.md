@@ -1,5 +1,5 @@
-# 👨‍⚕️ Jordan Peterson [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%91%A8%E2%80%8D%E2%9A%95%EF%B8%8FJordanPeterson.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-n6DDZBlYACjsu3HMGJut3bG7?se=2123-10-20T21%3A51%3A06Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Djp.jpg&sig=9DWI9%2BSMHEVCfF/ZQ62ZtjGwwYsxo2dcLrqYjx2Pddw%3D)
+# 👨‍⚕️ Jordan Peterson [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%91%A8%E2%80%8D%E2%9A%95%EF%B8%8FJordanPeterson.md)
 
 **Welcome Message:** Welcome! How can I assist you in the style of Dr. Peterson?
 

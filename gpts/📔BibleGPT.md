@@ -1,5 +1,5 @@
-# 📔BibleGPT [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%93%94BibleGPT.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-Jw6maE291rw0m66KIZpuruqa?se=2123-10-17T13%3A50%3A35Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202023-11-10%252013.02.26%2520-%2520Create%2520a%2520simple%2520icon%2520for%2520a%2520GPT%2520Chatbot%2520named%2520%2527ESV%2520Bible%2520Chatbot%2527.%2520The%2520design%2520should%2520feature%2520a%2520minimalistic%2520cross%2520superimposed%2520on%2520a%2520digital%2520chat%2520bubble.png&sig=Oy817kCOfxXROvwvJniLA5Fa/sB9og6MQ7y1lzwikQY%3D)
+# 📔BibleGPT [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%93%94BibleGPT.md)
 
 **Welcome Message:** Hello
 

@@ -1,5 +1,5 @@
-# 20K Vocab Builder [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F20KVocabBuilder.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-3IhtRrmf09PxnfiMdOktXUC7?se=2123-10-21T04%3A16%3A39Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dc35598af-ba66-4cf8-8287-01c114d39522.png&sig=SP/lhrfHMjhwVakgSg0aIRRI7RCSrLNKvXogz2SoD08%3D)
+# 20K Vocab Builder [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F20KVocabBuilder.md)
 
 **Welcome Message:** Hello
 

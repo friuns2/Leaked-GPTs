@@ -1,5 +1,5 @@
-# 📈EconomicsGPT [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%93%88EconomicsGPT.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-ramLwMcbAulq2OpsPsewBoAY?se=2123-10-18T23%3A12%3A57Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dca2a0af9-a859-438c-9a30-3eec61ec3e07.png&sig=qvWk8tzpti9tY4WqpCQdmFKoUxtqhaOL0Ubnu8RHTDg%3D)
+# 📈EconomicsGPT [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%93%88EconomicsGPT.md)
 
 **Welcome Message:** Hello, ready to explore economics?
 

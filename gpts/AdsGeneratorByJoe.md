@@ -1,5 +1,5 @@
-# Ads Generator By Joe [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FAdsGeneratorByJoe.md)
 ![Profile Picture](null)
+# Ads Generator By Joe [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FAdsGeneratorByJoe.md)
 
 **Welcome Message:** How can I assist with your TikTok trend and ad script today?
 

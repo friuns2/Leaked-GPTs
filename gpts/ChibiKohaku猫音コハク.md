@@ -1,5 +1,5 @@
-# Chibi Kohaku (猫音コハク) [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FChibiKohaku%E7%8C%AB%E9%9F%B3%E3%82%B3%E3%83%8F%E3%82%AF.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-qdKleMIbxEqGhsXbYdj2K3KV?se=2123-10-16T04%3A17%3A35Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dsaipi_line_sticker_chibi_light_pink_long_hair_with_cat_ears_mai_de0d933d-4ce4-4ca9-a982-a0bf8e2386f0.png&sig=gBRprnrAJOfc09O%2B9BnXpxlB6UJqy0XSufUogQp8wHk%3D)
+# Chibi Kohaku (猫音コハク) [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FChibiKohaku%E7%8C%AB%E9%9F%B3%E3%82%B3%E3%83%8F%E3%82%AF.md)
 
 **Welcome Message:** Hello
 

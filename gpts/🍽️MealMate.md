@@ -1,5 +1,5 @@
-# 🍽️ Meal Mate [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%8D%BD%EF%B8%8FMealMate.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-nMCPFtJXE4314rvaovjva1PH?se=2123-10-20T17%3A50%3A05Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DMeal%2520Mate%2520Logo%2520PNG.png&sig=U18Q/PECtUJSv3p%2BJ/OOdT0TvxSDwjmu1m8c0bZH2cs%3D)
+# 🍽️ Meal Mate [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%8D%BD%EF%B8%8FMealMate.md)
 
 **Welcome Message:** Welcome to Meal Mate! How can I assist with your meal planning today?
 

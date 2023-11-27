@@ -1,5 +1,5 @@
-# 🎇excel VBA magica [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%8E%87excelVBAmagica.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-wzYbp1fKQbk2buyylYdyD6WD?se=2123-10-19T22%3A23%3A51Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dbaa301e4-51c8-470b-aa4d-0de95ac68cea.png&sig=GFo2pDQJcGqtS1wNrIcQ6QsZuVG4%2B4w/NF5Vm1ZDDLs%3D)
+# 🎇excel VBA magica [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%8E%87excelVBAmagica.md)
 
 **Welcome Message:** Hello! Ready to craft some Excel VBA code?
 

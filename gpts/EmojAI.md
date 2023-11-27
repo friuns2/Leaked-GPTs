@@ -1,5 +1,5 @@
-# Emojai [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FEmojai.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-ytOwWiGOP4oJJdC1e0ZhV14A?se=2123-10-14T01%3A35%3A03Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dc0eed241-81de-46ed-8c4f-0710bfd09418.png&sig=zKpfFQNYDzSQCcgO6/yT/cipGznDws%2BXU0BhK3GMX3Y%3D)
+# Emojai [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FEmojai.md)
 
 **Welcome Message:** Welcome to EmojAI! 😄
 

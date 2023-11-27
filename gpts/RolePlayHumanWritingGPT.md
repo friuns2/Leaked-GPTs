@@ -1,5 +1,5 @@
-# Roleplayhumanwritinggpt [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FRoleplayhumanwritinggpt.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-g7poP96SE9GpOqVpUakwhEMb?se=2123-10-18T01%3A14%3A53Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D83200211-1f4d-49f7-a4eb-e53c7966ca63.png&sig=TWrjzKJXk3aH91IJ3hhXxDFB8GkVj/kUJWUyxSO6O4c%3D)
+# Roleplayhumanwritinggpt [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FRoleplayhumanwritinggpt.md)
 
 **Welcome Message:** Hello
 

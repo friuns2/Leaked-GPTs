@@ -1,5 +1,5 @@
-# 🎬 Film Developer [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%8E%ACFilmDeveloper.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-zf2WOEf42BgKD2LhF9mKHpec?se=2123-10-18T20%3A19%3A34Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D6f0ee041-177a-45ac-907f-482037972818.png&sig=9UF1pzpGTeeyorLD014vL4K3p9WUamMVzUpMp62PwGQ%3D)
+# 🎬 Film Developer [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%8E%ACFilmDeveloper.md)
 
 **Welcome Message:** Hello! Let's bring your story to life with words and art!
 

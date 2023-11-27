@@ -1,5 +1,5 @@
-# 💛 Manifestation Coach [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%92%9BManifestationCoach.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-MCvIC9dxmH4djUDkXnvIShBg?se=2123-10-22T03%3A03%3A28Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D5fe3315c-f36d-4b10-ba9c-0c2dbcabda90.png&sig=1m6Pf%2ByZRHWpcbbRrgqZhTbJftOKKc6Fc%2B9gWqR%2BrJw%3D)
+# 💛 Manifestation Coach [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%92%9BManifestationCoach.md)
 
 **Welcome Message:** Welcome! Ready to manifest wealth, love, or resolve dilemmas? How can I assist you?
 

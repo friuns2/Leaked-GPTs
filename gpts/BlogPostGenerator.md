@@ -1,5 +1,5 @@
-# Blog Post Generator [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FBlogPostGenerator.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-2D9JHlIDi0uix15rHsqkyQxD?se=2123-10-16T20%3A30%3A48Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D69e22aab-8a12-46af-860e-716e2efe6051.png&sig=rDOpFMNZIIUF2IjAR2pBUOgH5UXTf3TC8bSI1xOcsLg%3D)
+# Blog Post Generator [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FBlogPostGenerator.md)
 
 **Welcome Message:** Hello! Ready to write some engaging content?
 

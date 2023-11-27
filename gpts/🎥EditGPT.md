@@ -1,5 +1,5 @@
-# 🎥EditGPT [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%8E%A5EditGPT.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-aOezcIIdx5z8XP3B28mMszQd?se=2123-10-18T03%3A25%3A13Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D9d6a7398-6194-4e63-82a3-49f7ac714f0e.png&sig=iPXrj3wbsa0D7JyVzJP2AyGdMbxSn/m0QXSG/dlGnx8%3D)
+# 🎥EditGPT [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%8E%A5EditGPT.md)
 
 **Welcome Message:** Hi there, I'm EditGPT, your friendly video editing buddy! 
 

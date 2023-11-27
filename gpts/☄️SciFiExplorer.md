@@ -1,5 +1,5 @@
-# ☄️ Sci-Fi Explorer [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%E2%98%84%EF%B8%8FSciFiExplorer.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-IckkBQyCSWAb4OP9aa7oEzqa?se=2123-10-21T17%3A46%3A40Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D74a87e53-77f0-4e47-a1c4-069591c458f3.png&sig=6MG79nvvsLNNRbLoBfHOYrYpyIT%2BQzevz9nuTf2rpbE%3D)
+# ☄️ Sci-Fi Explorer [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%E2%98%84%EF%B8%8FSciFiExplorer.md)
 
 **Welcome Message:** Embark on a sci-fi journey across all subgenres. Ready?
 

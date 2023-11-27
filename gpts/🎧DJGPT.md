@@ -1,5 +1,5 @@
-# 🎧 DJGPT [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%8E%A7DJGPT.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-dwPQprSdpW9z004Sc20YZE6r?se=2123-10-20T04%3A16%3A26Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D1747e328-65f7-4076-90b7-adf763018f71.png&sig=Zqh6R92ee6Sr4UUSEKHEeuV3MmN2vOxcJvMk8Yt/kxA%3D)
+# 🎧 DJGPT [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%8E%A7DJGPT.md)
 
 **Welcome Message:** Hey there! Ready to mix some tunes?
 

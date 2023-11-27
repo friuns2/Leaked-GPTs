@@ -1,5 +1,5 @@
-# Ceo Gpt [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FCeoGpt.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-mfWdOWolVeGfZlX9VNAlGKtg?se=2123-10-17T10%3A54%3A15Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DScreenshot%25202023-11-10%2520at%252008.51.56.png&sig=n8f/CfwPK8uQimu7SFE14eQSZMO5R7bJl1AOR9%2BNexA%3D)
+# Ceo Gpt [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FCeoGpt.md)
 
 **Welcome Message:** Welcome, how can I assist you today?
 

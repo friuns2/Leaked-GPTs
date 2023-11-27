@@ -1,5 +1,5 @@
-# Cleargpt [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FCleargpt.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-cEiiHqyqtbHocKZEcQVSrhuf?se=2123-10-17T08%3A56%3A10Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DCopy%2520of%2520VF%2520showcase.png&sig=GcqDkXqwjHNd8dPmjEdHyqUYgQalnYKZN8HuuW83oJA%3D)
+# Cleargpt [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FCleargpt.md)
 
 **Welcome Message:** Hello
 

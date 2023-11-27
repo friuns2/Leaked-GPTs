@@ -1,5 +1,5 @@
-# Leetcode Problem Solver [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FLeetcodeProblemSolver.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-jhj174jMVZpoVEWMo9LNVO3R?se=2123-10-18T21%3A49%3A36Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D0c32795b-76f8-4738-9f55-f3dd38fd91b7.png&sig=cO4SL5V/vTTOIA64J1UqQZrDj8sokDvE7vCg35En30k%3D)
+# Leetcode Problem Solver [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FLeetcodeProblemSolver.md)
 
 **Welcome Message:** Hello! Ready to tackle some LeetCode problems? I'll guide you through each step.
 

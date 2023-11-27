@@ -1,5 +1,5 @@
-# The Shaman [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FTheShaman.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-6XZ0FsFEkzmqINb1mYW3paXX?se=2123-10-18T00%3A18%3A48Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D38c327ac-f9cb-44c6-8afa-bc417f6f3f19.png&sig=SPBpEU80zIH2LDbdGFFVf5T/gQb3fihI0Xn3UoPqBa8%3D)
+# The Shaman [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FTheShaman.md)
 
 **Welcome Message:** Welcome, traveler. What name may I call you by?
 

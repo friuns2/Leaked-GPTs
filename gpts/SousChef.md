@@ -1,5 +1,5 @@
-# Sous Chef [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FSousChef.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-w4J3XQ5bnIbssMVHKXZskSJB?se=2123-10-13T00%3A56%3A45Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DSousChef.jpg&sig=0SOuTgsd12ovY7zAHHfi84iLDi4wTFI0Qf%2Bv8nA%2B9No%3D)
+# Sous Chef [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FSousChef.md)
 
 **Welcome Message:** Hello
 

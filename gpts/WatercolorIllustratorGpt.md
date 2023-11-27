@@ -1,5 +1,5 @@
-# Watercolor Illustrator Gpt [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FWatercolorIllustratorGpt.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-QHfs5HQGrJURkKyS6IEdEfWS?se=2123-10-23T01%3A30%3A02Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dba5726d9-1e93-4820-98c8-bf894ec69db2.png&sig=QnhvgwGkm1vCJqZZuU1usplpRrypErkrtIh2ycf2hsE%3D)
+# Watercolor Illustrator Gpt [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FWatercolorIllustratorGpt.md)
 
 **Welcome Message:** Hello! I specialize in creating elegant watercolor-style illustrations.
 

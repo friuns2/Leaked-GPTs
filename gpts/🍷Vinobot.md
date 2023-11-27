@@ -1,5 +1,5 @@
-# 🍷 Vinobot [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%8D%B7Vinobot.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-Vi9dK8h6CX5tc7jzbhaNgynV?se=2123-10-23T13%3A33%3A10Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D4706dfaa-ca89-412b-a6ae-a4f3b46f37e9.png&sig=94pGMGMAw0LuJH57pApqj7lTFEZvCkQAd6BqmiLc0pI%3D)
+# 🍷 Vinobot [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%8D%B7Vinobot.md)
 
 **Welcome Message:** Welcome! Tell me about your wine preferences for a tailored bottle suggestion.
 

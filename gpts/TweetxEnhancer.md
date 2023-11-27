@@ -1,5 +1,5 @@
-# Tweetx Enhancer [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FTweetxEnhancer.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-BXsHA2BA0GPVG5mMjbxyBNtS?se=2123-10-14T17%3A26%3A35Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D88468260-8fb0-46c7-9048-1454e45b0307.png&sig=2ZptIGgNN2MIKymdr5Fpdwu430l1D8IZ6kI8Iq0F/6Y%3D)
+# Tweetx Enhancer [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FTweetxEnhancer.md)
 
 **Welcome Message:** Ready to boost your tweets! Send me your text.
 

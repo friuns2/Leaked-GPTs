@@ -1,5 +1,5 @@
-# 🤝 Execu-LI Post Companion [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%A4%9DExecuLIPostCompanion.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-2KgxVJ6YwmbECQFWHsBKqDY5?se=2123-10-17T16%3A27%3A14Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D83495db3-0427-4b62-857f-a6a7a7a5f12c.png&sig=Ck42IigHPsylfqtTvqYJraGLQmHxnZ9UIPU2tK4ti14%3D)
+# 🤝 Execu-LI Post Companion [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%A4%9DExecuLIPostCompanion.md)
 
 **Welcome Message:** Hello, ready to craft your LinkedIn post?
 

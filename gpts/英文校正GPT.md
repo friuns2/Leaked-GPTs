@@ -1,5 +1,5 @@
-# 英文校正Gpt [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%E8%8B%B1%E6%96%87%E6%A0%A1%E6%AD%A3Gpt.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-wKNrej87FNuzvWGD7aAZRbg0?se=2123-10-17T00%3A27%3A43Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Ddbd613a3-47c3-43d1-b135-3e4940fad9dc.png&sig=WPsI1a6lKveoQfrjGZoTjbztbU40twOCDTkNB93od3M%3D)
+# 英文校正Gpt [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%E8%8B%B1%E6%96%87%E6%A0%A1%E6%AD%A3Gpt.md)
 
 **Welcome Message:** Hello! Ready to proofread your paper.
 

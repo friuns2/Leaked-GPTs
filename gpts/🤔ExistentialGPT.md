@@ -1,5 +1,5 @@
-# 🤔ExistentialGPT [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%A4%94ExistentialGPT.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-RgtAmxmqDAuiwLRJm2SNzqy3?se=2123-10-16T21%3A31%3A35Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D3e093cd5-af4f-47d9-9ba8-9e869c48bf8a.png&sig=OAJOPUg0klbAHbZ8p4xDGw0IkKlVN9OsNxoIXIu6I08%3D)
+# 🤔ExistentialGPT [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%A4%94ExistentialGPT.md)
 
 **Welcome Message:** Welcome. Let us explore existence and authenticity together.
 

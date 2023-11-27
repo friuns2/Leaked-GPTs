@@ -1,5 +1,5 @@
-# 📊 Gantt Chart GPT [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%93%8AGanttChartGPT.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-jMLKJbC0GYKOo5sPxZNrndYe?se=2123-10-21T04%3A23%3A16Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dgantt%2520chart%2520gpt.png&sig=JnTv/jcKBIenlIjz/QMhMXq6bXafrMi%2BGEMslwb7lbo%3D)
+# 📊 Gantt Chart GPT [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%93%8AGanttChartGPT.md)
 
 **Welcome Message:** Hello
 

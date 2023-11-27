@@ -1,5 +1,5 @@
-# Youtubegpt [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FYoutubegpt.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-uu6q0VmhoLqflagSC0VCUsa9?se=2123-10-19T06%3A19%3A50Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dc2a2304a-4158-4c93-800d-1e33a3ee7280.png&sig=Jb524hg2r7ift0Ooe3DhapkbQLIbGDGhWnPyN3NbE%2B4%3D)
+# Youtubegpt [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FYoutubegpt.md)
 
 **Welcome Message:** Hi! Ask me about any YouTube video.
 

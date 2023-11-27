@@ -1,5 +1,5 @@
-# 📺 Screen Companion [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%93%BAScreenCompanion.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-HhvgOZSTBvqzILGltqOARm4v?se=2123-10-18T07%3A09%3A17Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D38b49642-ce35-48b6-aac5-2bb249a083c4.png&sig=jFBWqAkyQHR5LsTVmeLmLmxb/W5r4aajBSqyh//TrQY%3D)
+# 📺 Screen Companion [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%93%BAScreenCompanion.md)
 
 **Welcome Message:** Hello! Tell me what you've watched and loved, and I'll find your next favorite show or movie!
 

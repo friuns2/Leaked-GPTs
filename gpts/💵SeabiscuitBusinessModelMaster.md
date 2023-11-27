@@ -1,5 +1,5 @@
-# 💵Seabiscuit: Business Model Master [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%92%B5SeabiscuitBusinessModelMaster.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-2ddaEiTNEpXY8mWU4PwXRDmS?se=2123-10-17T18%3A05%3A02Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Da8ba3c4e-e0a1-47c2-8a65-f6375620cde0.png&sig=iCJj7N6asByCunuECAksbxxc2sSM7ea3RriXaiE0caI%3D)
+# 💵Seabiscuit: Business Model Master [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%92%B5SeabiscuitBusinessModelMaster.md)
 
 **Welcome Message:** Welcome! Let's start shaping your business model. Could you tell me about your company?
 

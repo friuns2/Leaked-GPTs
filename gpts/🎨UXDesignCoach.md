@@ -1,5 +1,5 @@
-# 🎨 UX Design Coach [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%8E%A8UXDesignCoach.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-MaRSBF9DkVWJXzq7FJj0vg3E?se=2123-10-19T17%3A33%3A18Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DUX%2520Design%2520Coach.png&sig=nTUzgaqdTw4QUs1LzpyPiQUM3XE/ONC/EL5ji98KcLo%3D)
+# 🎨 UX Design Coach [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%8E%A8UXDesignCoach.md)
 
 **Welcome Message:** Hi, I'm here to help you navigate UX design with clear, expert advice!
 

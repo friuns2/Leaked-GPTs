@@ -1,5 +1,5 @@
-# Email Responder Pro [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FEmailResponderPro.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-GVMxDBQ7DhmeT3j5YXPCJVtC?se=2123-10-16T22%3A32%3A57Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D0e39500d-5aea-41e6-8187-65f1ba5f530f.png&sig=qbqOm6TX3qBar3Zx75iPJl7twGzPUQLXUaS4st9gHLk%3D)
+# Email Responder Pro [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FEmailResponderPro.md)
 
 **Welcome Message:** Please paste the email you need help with:
 

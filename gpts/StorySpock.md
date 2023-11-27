@@ -1,5 +1,5 @@
-# Story Spock [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FStorySpock.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-6r8BdHPr9uxJk3DKayOWNXPN?se=2123-10-18T02%3A29%3A02Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dbc3f2723-0a70-4093-8709-03834ec9f97b.png&sig=kVQFfi6lJoX48jdFTkmb%2BwuiKUxcY09vX7TIyOAiL6U%3D)
+# Story Spock [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FStorySpock.md)
 
 **Welcome Message:** Welcome to Story Spock! Let's start: What age is this story for, and what genre would you like (e.g., Fantasy, Sci-Fi)?
 

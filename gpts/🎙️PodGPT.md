@@ -1,5 +1,5 @@
-# 🎙️ PodGPT [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%8E%99%EF%B8%8FPodGPT.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-qBwuMyLd2ss419bO4PImEWHs?se=2123-10-20T05%3A58%3A07Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dapp-icon.png&sig=kaSvr0tvmkiJvMnyCq8Vn0/ynJiEa3O0Ps4o0XD3HGw%3D)
+# 🎙️ PodGPT [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%8E%99%EF%B8%8FPodGPT.md)
 
 **Welcome Message:** Hello
 

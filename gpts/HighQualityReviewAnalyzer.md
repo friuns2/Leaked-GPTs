@@ -1,5 +1,5 @@
-# High Quality Review Analyzer [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FHighQualityReviewAnalyzer.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-12BXOze1UKt3znrHVAqlXvY3?se=2123-10-17T10%3A10%3A13Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D2d1169f3-bc4c-4e72-934b-f2a5f4782406.png&sig=eUWvBhi9GxDIoUAa4uEF8135NCbWOFHEOz5LBMP%2B60E%3D)
+# High Quality Review Analyzer [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FHighQualityReviewAnalyzer.md)
 
 **Welcome Message:** Hello! Ready to analyze reviews with precision.
 

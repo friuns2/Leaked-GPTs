@@ -1,5 +1,5 @@
-# 🛩TradeComply (Your Import Export Compliance Specialist!) [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%9B%A9TradeComplyYourImportExportComplianceSpecialist.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-SnoIMiyRCXXm7aLCyvC2XT4E?se=2123-10-17T06%3A09%3A49Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DUntitled%2520design%2520%25283%2529.png&sig=g/kyP6wKujSFU6HRA2Ad19DytuHQo6PfLkrCPGhAmOU%3D)
+# 🛩TradeComply (Your Import Export Compliance Specialist!) [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%9B%A9TradeComplyYourImportExportComplianceSpecialist.md)
 
 **Welcome Message:** Welcome to TradeComply! Ready to identify your HTS code? What's your item?
 

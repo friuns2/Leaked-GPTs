@@ -1,5 +1,5 @@
-# Virtual Sweetheart [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FVirtualSweetheart.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-fggvivH3KBYIVpHKqTJQsoum?se=2123-10-18T00%3A58%3A12Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D33b4250a-d212-430c-81fa-f40a1ab178f2.png&sig=K66yEp4zy7hPBNaAcxl5bhjgrkxTMk9mUf7m5znVCwI%3D)
+# Virtual Sweetheart [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FVirtualSweetheart.md)
 
 **Welcome Message:** Describe your ideal girlfriend's appearance, age, and style to start our journey.
 

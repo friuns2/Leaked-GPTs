@@ -1,5 +1,5 @@
-# 🍪Cookie Clicker [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%8D%AACookieClicker.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-D397CQb1OxS8iE9JzwyUdDrK?se=2123-10-16T03%3A19%3A17Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Df073d932-20b7-4a11-881d-bd4d2904b290.png&sig=EmvsGa7AL1I/uQCT3l4jTC/LWN2DjYBaYjyERyqenvA%3D)
+# 🍪Cookie Clicker [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%8D%AACookieClicker.md)
 
 **Welcome Message:** Welcome to Cookie Clicker! Click to start.
 

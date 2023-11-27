@@ -1,5 +1,5 @@
-# Hot Mods [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FHotMods.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-wOlP7l6RXZJ4YvZq3pUAqLOY?se=2123-10-13T04%3A59%3A43Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DHotMods.png&sig=eayebboHdkASOIpNoSeDCqC9o5/XYCmjaV/oYy2%2BsmQ%3D)
+# Hot Mods [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FHotMods.md)
 
 **Welcome Message:** Hello
 

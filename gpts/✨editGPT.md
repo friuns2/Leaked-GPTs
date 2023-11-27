@@ -1,5 +1,5 @@
-# ✨ editGPT [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%E2%9C%A8editGPT.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-rtnaGVkL7cbKKvFKj4W3IIma?se=2123-10-19T16%3A47%3A43Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dandroid-chrome-192x192.png&sig=8IBMna9myk44fzf873z/OFp9oS8kflbVjN9T/xwRvw8%3D)
+# ✨ editGPT [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%E2%9C%A8editGPT.md)
 
 **Welcome Message:** Hello! Ready to proofread your document with precision.
 

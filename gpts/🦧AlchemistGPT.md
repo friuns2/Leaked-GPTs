@@ -1,5 +1,5 @@
-# 🦧 Alchemist GPT [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%A6%A7AlchemistGPT.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-iqQg5fHN5SI0Uxz1BbvyP3RN?se=2123-10-17T23%3A18%3A36Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D1-artnow-september-2022-Benji-Friedman.jpg&sig=t/2NLxlD1oaMV%2BeWqVU18LcezyJT4AAoGqwwMO3alXg%3D)
+# 🦧 Alchemist GPT [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%A6%A7AlchemistGPT.md)
 
 **Welcome Message:** Welcome to the realm of symbolic alchemy. How may I assist you in unraveling the mysteries?
 

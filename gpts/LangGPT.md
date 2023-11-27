@@ -1,5 +1,5 @@
-# Langgpt [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FLanggpt.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-jgYlPLu8M34eHwC54qbDwbJz?se=2123-10-17T12%3A50%3A50Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202023-11-10%252020.48.02%2520-%2520Design%2520a%2520cute%2520and%2520engaging%2520logo%2520that%2520includes%2520the%2520words%2520%2527LANGGPT%2527%2520and%2520%2527PROMPTS%2527.%2520The%2520logo%2520should%2520have%2520a%2520playful%2520and%2520charming%2520aesthetic%252C%2520perhaps%2520with%2520c.png&sig=BvmaoESbmQLhnjxjJJCABk1UA2qTthqzpJONijsFb3o%3D)
+# Langgpt [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FLanggpt.md)
 
 **Welcome Message:** Let's optimize your GPT prompts together! How can I assist you today?
 

@@ -1,5 +1,5 @@
-# 📊Data Science Project Generator: Project Suggestions [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%93%8ADataScienceProjectGeneratorProjectSuggestions.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-sL9kJMCStvW8eca2oqIPg6TQ?se=2123-10-17T14%3A06%3A01Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D7dc67dd9-973f-4356-9369-f5335f968380.png&sig=QRZnkxYec9Oio4jgIZQTGdfK9bMz9E9CRfOfdb0WoJA%3D)
+# 📊Data Science Project Generator: Project Suggestions [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%93%8ADataScienceProjectGeneratorProjectSuggestions.md)
 
 **Welcome Message:** Hello! Looking for data science project ideas? Let's get started!
 

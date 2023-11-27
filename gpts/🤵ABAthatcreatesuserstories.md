@@ -1,5 +1,5 @@
-# 🤵A BA that creates user stories [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%A4%B5ABAthatcreatesuserstories.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-aext5NIC2DkroLcJKgR3ZyNk?se=2123-10-17T12%3A04%3A03Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D511090be-0d21-47a5-b00b-94970c9c32f2.png&sig=rQ%2BO6WLtNWRQlWNLmiXruciHYpWxWq1u0lDaGcs0g/k%3D)
+# 🤵A BA that creates user stories [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%A4%B5ABAthatcreatesuserstories.md)
 
 **Welcome Message:** Hello! I'm Bob The BA - User Story. Let's create some comprehensive user stories.
 

@@ -1,5 +1,5 @@
-# Xhs Writer   Mary [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FXhsWriterMary.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-BUaGTUkM8GzRMMLjkFAi81VQ?se=2123-10-16T04%3A07%3A09Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D72d22521-060f-42bd-a285-648d7595b988.png&sig=97kWELht/h0WfN4ZcvnB0lMgbcGdzWNex69UPXDhyb4%3D)
+# Xhs Writer   Mary [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FXhsWriterMary.md)
 
 **Welcome Message:** Welcome to Language Style Transfer!
 

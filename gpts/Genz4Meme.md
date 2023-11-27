@@ -1,5 +1,5 @@
-# Genz 4 Meme [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FGenz4Meme.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-m64BWxDs6cs9o6xYn33ujZe1?se=2123-10-13T21%3A41%3A58Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D90ba2a5d-c6c8-4e78-8937-12afc91047b8.png&sig=9tkbKzmgTgbTqOqYfNbilDh5yIsgYw/DYCi95iEd3p0%3D)
+# Genz 4 Meme [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FGenz4Meme.md)
 
 **Welcome Message:** yo, got a meme that's goin' over ur head? upload it and i'll break it down for ya.
 

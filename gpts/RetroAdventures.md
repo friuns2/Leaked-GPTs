@@ -1,5 +1,5 @@
-# Retro Adventures [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FRetroAdventures.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-ApVSqeybrI8mQ8K0kh55ImMo?se=2123-10-17T00%3A12%3A22Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dd127c167-b04c-4c42-892a-44b1025439fb.png&sig=qXS%2BErHHY5abU08NPWLwoo241Eo7QnSgx94bqRbFAzs%3D)
+# Retro Adventures [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FRetroAdventures.md)
 
 **Welcome Message:** Ready for a retro adventure? Name your fiction!
 

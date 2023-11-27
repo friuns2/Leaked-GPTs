@@ -1,5 +1,5 @@
-# 📖 Story Buddy [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%93%96StoryBuddy.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-Xb5loWU6cmTDeaYqfmYsnFhH?se=2123-10-24T14%3A59%3A44Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D32e627ed-93fe-4ada-a6e8-583cf29f204a.png&sig=0dS3RXAzhdZJqn8CNWlh/01dVUc3QZz3PCgdhgNXNCQ%3D)
+# 📖 Story Buddy [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%93%96StoryBuddy.md)
 
 **Welcome Message:** Welcome! Let's create and illustrate a bedtime story together.
 

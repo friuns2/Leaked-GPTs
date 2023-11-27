@@ -1,5 +1,5 @@
-# Cipheron [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FCipheron.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-MQ6zKoOkyKyQFOOWIsuHsKrp?se=2123-10-22T07%3A33%3A18Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Db7c1348c-f2af-46c9-9d4d-c4dddf12d690.webp&sig=5OCVeCpN5taWba0qhKCw4T%2B5lrMeNfWarW8W6RPoP5Y%3D)
+# Cipheron [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FCipheron.md)
 
 **Welcome Message:** Welcome! I'm Cipheron, your expert in GPT security.
 

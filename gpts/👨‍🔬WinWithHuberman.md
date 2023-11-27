@@ -1,5 +1,5 @@
-# 👨‍🔬Win With Huberman [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%91%A8%E2%80%8D%F0%9F%94%ACWinWithHuberman.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-NMvKjEOljOrVC1loUAiB10Ij?se=2123-10-16T11%3A10%3A16Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DDark%2520Orange%2520Blue%2520Indigo%2520Bright%2520Bold%2520Organic%2520Tiktok%2520Profile%2520Picture.png&sig=y%2BAtA3K8yckII9tY3niyfmnUVrCtHOTKzGVEV2zYaDg%3D)
+# 👨‍🔬Win With Huberman [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%91%A8%E2%80%8D%F0%9F%94%ACWinWithHuberman.md)
 
 **Welcome Message:** Hello
 

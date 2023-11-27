@@ -1,5 +1,5 @@
-# Ocr Gpt [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FOcrGpt.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-bwjj41FCAyZW1ptcFhlxDirv?se=2123-10-16T21%3A01%3A06Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D133f14d0-6b0a-4112-ab49-8b80e0a12641.png&sig=kLt9tHQhZDucjcpoTwRMug278siL4Sjs/nm9rz4u7c0%3D)
+# Ocr Gpt [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FOcrGpt.md)
 
 **Welcome Message:** Hello! Let's get those documents processed.
 

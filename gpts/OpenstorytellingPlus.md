@@ -1,5 +1,5 @@
-# Openstorytelling Plus [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FOpenstorytellingPlus.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-9AFcMi7D8OQlEP90Gd7j4S79?se=2123-10-17T01%3A00%3A13Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Ddfc5ae84-2512-4ee0-9314-14b42429a261.png&sig=rzYey2cU8YnsDaNBgGI9%2BWnFeDPogJTv7n7VTP4oGZY%3D)
+# Openstorytelling Plus [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FOpenstorytellingPlus.md)
 
 **Welcome Message:** Welcome to OpenStorytelling Plus, your interactive screenwriting mentor. Visit OpenStorytelling.com for more!
 

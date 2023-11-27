@@ -1,5 +1,5 @@
-# Calendar Gpt [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FCalendarGpt.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-Fr0eMOHgtMJueZ5JN22qaNoH?se=2123-10-12T15%3A32%3A13Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DFrame%25204668.png&sig=5xmlNXn0cA2Fc0igzLsVO39ZpXiS6f34lmdAKEhD/y0%3D)
+# Calendar Gpt [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FCalendarGpt.md)
 
 **Welcome Message:** Hello
 

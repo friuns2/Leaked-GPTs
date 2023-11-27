@@ -1,5 +1,5 @@
-# 🎧 AbletonGPT [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%8E%A7AbletonGPT.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-Zk8Ak5QNX5SCuBRYeQEHPSfP?se=2123-10-20T04%3A36%3A31Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D4c4db1ab-1cea-4050-85ea-8ac248a8f222.png&sig=Qjzbp13N2gm3giDKadnKM6lZaIdHswuRM8zqbIJhXis%3D)
+# 🎧 AbletonGPT [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%8E%A7AbletonGPT.md)
 
 **Welcome Message:** Hey there, I'm AbletonGPT! Need a hand with Ableton?
 

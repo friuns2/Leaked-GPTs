@@ -1,5 +1,5 @@
-# 🧙‍♂️ Meme Magic [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8FMemeMagic.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-vncK9dQN0AXUSfKHmrtl6hvT?se=2123-10-22T14%3A11%3A23Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D755a6b17-ae59-4802-b268-df4b79ce4f95.png&sig=ifExOrkY/9hMKowISmrk7Jt374UuvSVptTR%2B8uLWFOw%3D)
+# 🧙‍♂️ Meme Magic [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8FMemeMagic.md)
 
 **Welcome Message:** Welcome to Meme Magic! Ready to create some laughs?
 

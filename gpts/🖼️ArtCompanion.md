@@ -1,5 +1,5 @@
-# 🖼️ Art Companion [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%96%BC%EF%B8%8FArtCompanion.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-SqbjNNodx3A9ViHcXXGwtF9E?se=2123-10-21T09%3A49%3A13Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DIMG_4613.jpg&sig=1E46V73cNXHSIGVDt0ZT/hc0DCWZIBSI/sYy8KFTkoQ%3D)
+# 🖼️ Art Companion [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%96%BC%EF%B8%8FArtCompanion.md)
 
 **Welcome Message:** Welcome! Let's explore the world of abstract art together.
 

@@ -1,5 +1,5 @@
-# All In Gpt [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FAllInGpt.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-3YIuYv1kN20I0Lznp7N9Oo7g?se=2123-10-17T08%3A04%3A24Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D0275c442-b304-4db7-8028-eb81e538050f.webp&sig=TqghcEePP/k1BKGi7dVp12n/TjYuGVWULy5D2hfgjjA%3D)
+# All In Gpt [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FAllInGpt.md)
 
 **Welcome Message:** Welcome to All-in GPT! Ask me anything about the All-in Podcast.
 

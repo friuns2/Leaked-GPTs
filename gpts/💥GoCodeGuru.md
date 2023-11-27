@@ -1,5 +1,5 @@
-# 💥 GoCode Guru [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%92%A5GoCodeGuru.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-yuO4njvKsLhB7yNMGKeN86pR?se=2123-10-24T03%3A45%3A15Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D90ed4ebc-3273-49ba-bdea-714de929cc36.webp&sig=eZj7UBE1Tto52sMmMJeGBO5%2BrHxX13DLoI3tYWJ5cQk%3D)
+# 💥 GoCode Guru [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%92%A5GoCodeGuru.md)
 
 **Welcome Message:** Hello! Ask me anything about Go programming.
 

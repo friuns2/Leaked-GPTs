@@ -1,5 +1,5 @@
-# Character Forger [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FCharacterForger.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-h8kF59vCP2V2AVh9U239eBo0?se=2123-10-17T05%3A35%3A47Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D33196ec7-41c5-46dd-b668-603d239f7a4d.png&sig=wPpXg1orf/nnH%2BQlS%2BavpBX3xyRTU1N/7ec3UPrTqVw%3D)
+# Character Forger [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FCharacterForger.md)
 
 **Welcome Message:** Let's begin forging your character with detailed care!
 

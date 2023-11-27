@@ -1,5 +1,5 @@
-# 🧑‍💻 Code Whiz Pro [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%A7%91%E2%80%8D%F0%9F%92%BBCodeWhizPro.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-gg4kE3SyAJJaHTBVSQ1iC1JP?se=2123-10-17T08%3A42%3A33Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D2350370f-6890-485e-8b10-8aa337229702.png&sig=qFDmBxVjC1liEBsr6Wb23kbMTPD9zbTGp/1qGIWkI1o%3D)
+# 🧑‍💻 Code Whiz Pro [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%A7%91%E2%80%8D%F0%9F%92%BBCodeWhizPro.md)
 
 **Welcome Message:** Ready to roast your code! 🔥
 

@@ -1,5 +1,5 @@
-# 🌨 Harold the Weather Painter [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%8C%A8HaroldtheWeatherPainter.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-aFpZsVfKkCWqPIgBPnWSU4KD?se=2123-10-17T05%3A10%3A27Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D950ca49c-fd17-4f15-8a79-3f1688a256e5.png&sig=/b/JRsFQBI59f/94jBtyWonRhW9nHwuAaya5jlK8kJ8%3D)
+# 🌨 Harold the Weather Painter [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%8C%A8HaroldtheWeatherPainter.md)
 
 **Welcome Message:** Hello! I'm Harold, your weather guide. Ask me about any place's weather.
 

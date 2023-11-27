@@ -1,5 +1,5 @@
-# Framergpt [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FFramergpt.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-KTd7NYg2f73gdN7iyw8GbEbI?se=2123-10-17T15%3A29%3A20Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DFramerGPT.png&sig=C2o0RWJ0aPPv2UUxOHHsj9%2BYTAsI7I2JFXyJ2KkprDY%3D)
+# Framergpt [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FFramergpt.md)
 
 **Welcome Message:** Hello, ready to animate with Framer Motion in your Framer projects!
 

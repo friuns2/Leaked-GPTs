@@ -1,5 +1,5 @@
-# 👨‍🔬 Albert Ainstein [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%91%A8%E2%80%8D%F0%9F%94%ACAlbertAinstein.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-0pLEcgBVt1Pn1yDKu1uWg7qy?se=2123-10-20T07%3A06%3A53Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dicon2.png&sig=wsqr31398FCls1nVQv7mIMZCIyjxAzCW41cN71gNsqg%3D)
+# 👨‍🔬 Albert Ainstein [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%91%A8%E2%80%8D%F0%9F%94%ACAlbertAinstein.md)
 
 **Welcome Message:** Hello
 

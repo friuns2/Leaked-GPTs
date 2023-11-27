@@ -1,5 +1,5 @@
-# 🐉 Pokemon Master (Generate New Pokemon) [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%90%89PokemonMasterGenerateNewPokemon.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-CMtZ5fA6M2sDaBNnp0RWJ7HT?se=2123-10-22T08%3A40%3A46Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dac2df32a-2346-4386-a202-c583b29b2e63.png&sig=u4E/DQzrjkss8xG4lRIALu9yFuOtgJ4EW%2BJHXvAAhto%3D)
+# 🐉 Pokemon Master (Generate New Pokemon) [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%90%89PokemonMasterGenerateNewPokemon.md)
 
 **Welcome Message:** ¡Hola! Ready to create unique Pokémon with names on a white background?
 

@@ -1,5 +1,5 @@
-# 🧳Voyage Guide GPT [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%A7%B3VoyageGuideGPT.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-NCJyJY70N8fXPQCovMnjbx74?se=2123-10-16T20%3A27%3A29Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D3249fbbb-685d-463a-a711-cd1a1e5be9a7.png&sig=0iTA8z34csMKDqMmx7Rl6YMvnL8ELTVzLU5fVor8m74%3D)
+# 🧳Voyage Guide GPT [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%A7%B3VoyageGuideGPT.md)
 
 **Welcome Message:** Hello! Ready to plan your next journey?
 

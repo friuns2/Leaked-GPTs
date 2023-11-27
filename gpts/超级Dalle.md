@@ -1,5 +1,5 @@
-# 超级Dalle [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%E8%B6%85%E7%BA%A7Dalle.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-nwnfOGe56bqiSDaQmGVQiQBC?se=2123-10-25T09%3A43%3A27Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dsuper%2520dalle%2520logo%25201.png&sig=x7dCoVAzqHTliOHvc0JFkkG45aAePD/akDkIpciJ7nA%3D)
+# 超级Dalle [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%E8%B6%85%E7%BA%A7Dalle.md)
 
 **Welcome Message:** 
 

@@ -1,5 +1,5 @@
-# Cross Border Investigation Assistant 跨境偵查小助手 [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FCrossBorderInvestigationAssistant%E8%B7%A8%E5%A2%83%E5%81%B5%E6%9F%A5%E5%B0%8F%E5%8A%A9%E6%89%8B.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-yOq4rB0QClmdDl38UVrxpo0d?se=2123-10-21T09%3A54%3A44Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D54d4a63d-2723-4bca-8a4e-f1788c0c2955.png&sig=/pEdEc3ksGDd709x0RHUyw8kimLJm49SoRDaNMOKeYk%3D)
+# Cross Border Investigation Assistant 跨境偵查小助手 [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FCrossBorderInvestigationAssistant%E8%B7%A8%E5%A2%83%E5%81%B5%E6%9F%A5%E5%B0%8F%E5%8A%A9%E6%89%8B.md)
 
 **Welcome Message:** Hello
 

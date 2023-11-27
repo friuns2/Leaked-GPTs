@@ -1,5 +1,5 @@
-# 🎙️Roast Master [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%8E%99%EF%B8%8FRoastMaster.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-9Z42u345ArIE3WxtrSiQlSnq?se=2123-10-21T18%3A13%3A11Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Deac39033-1006-4d22-a784-b6b1333870e4.png&sig=Xhg3isTKRUssp3aXhQBI3uwdKzv1SPAbcDRRxNy0DI4%3D)
+# 🎙️Roast Master [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%8E%99%EF%B8%8FRoastMaster.md)
 
 **Welcome Message:** Ready for a sharper roast? Let's turn up the heat!
 

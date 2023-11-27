@@ -1,5 +1,5 @@
-# 💯CourseCreatorGPT [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%92%AFCourseCreatorGPT.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-sJuiM1EqenQKKCa84r0omOFC?se=2123-10-17T16%3A04%3A05Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D18edb513-e9ec-49a0-b169-00c1271be931.png&sig=rtAYpQb1n3zvBuY64rpUGloqn8qLXAUbWRrxbb2QJ/8%3D)
+# 💯CourseCreatorGPT [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%92%AFCourseCreatorGPT.md)
 
 **Welcome Message:** Hi there! Let's confirm your course topic and start creating!
 

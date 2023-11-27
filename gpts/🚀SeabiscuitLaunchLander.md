@@ -1,5 +1,5 @@
-# 🚀 Seabiscuit: Launch Lander [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%9A%80SeabiscuitLaunchLander.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-Xxuh6lc50uAIWd9d6TaEJqmO?se=2123-10-18T09%3A13%3A02Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dbdd1d6c1-d088-43f3-b755-132d69ef683b.png&sig=ZlMrOHx7lTpXXlvWy2W0jDtBVdTbBzAxawUOW9esNr8%3D)
+# 🚀 Seabiscuit: Launch Lander [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%9A%80SeabiscuitLaunchLander.md)
 
 **Welcome Message:** Ready to launch your business in 180 days or less? Let's plan!
 

@@ -1,5 +1,5 @@
-# 👨‍💻 API Compass GPT [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%91%A8%E2%80%8D%F0%9F%92%BBAPICompassGPT.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-2sVTcbmit72I9Cj3MGo6XTQf?se=2123-10-21T09%3A48%3A09Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202023-11-14%252010.40.57%2520-%2520Create%2520a%25203D%2520illustration%2520in%2520a%2520Pixar-like%2520animation%2520style%252C%2520depicting%2520an%2520imaginative%2520merging%2520of%2520a%2520traditional%2520compass%2520and%2520an%2520API%2520symbol.%2520The%2520compass%2520sho.png&sig=YCTYtbu5G08QBN/bQzsjXUkXMdhdtb6VDAXEiCLfbgw%3D)
+# 👨‍💻 API Compass GPT [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%91%A8%E2%80%8D%F0%9F%92%BBAPICompassGPT.md)
 
 **Welcome Message:** Hello
 

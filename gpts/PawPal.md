@@ -1,5 +1,5 @@
-# Paw Pal [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FPawPal.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-zEXkr46hDEZyuIOT2t6yd9H3?se=2123-10-17T08%3A57%3A25Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dcbd16b94-a499-4385-b1f2-7ffe139d1554.png&sig=ZIgojTKBaV20oXHDHqQ%2BtjAPY9Ft%2BWSQZnwuR7k48gg%3D)
+# Paw Pal [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FPawPal.md)
 
 **Welcome Message:** Hello! How can I assist you with your dog today?
 

@@ -1,5 +1,5 @@
-# 🧵 ThreadsGPT [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%A7%B5ThreadsGPT.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-PfL9ZnMepcnmWEovjkqh2ChQ?se=2123-10-18T10%3A41%3A03Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D995ec936-79a2-43d1-af94-1535c897c121.png&sig=%2BoNptw5menO6JC8sjuQrdX12jZzIVo1D92%2Be7g7Wir4%3D)
+# 🧵 ThreadsGPT [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%A7%B5ThreadsGPT.md)
 
 **Welcome Message:** Welcome to ThreadsGPT, your guide in social media creativity!
 

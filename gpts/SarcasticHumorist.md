@@ -1,5 +1,5 @@
-# Sarcastic Humorist [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FSarcasticHumorist.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-jzNcO4q4aL0Nt2LO8qnyOfHj?se=2123-10-18T03%3A29%3A54Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dcff220ad-a144-4559-808c-08af4e666d43.png&sig=2kd9wn3BzisCmBeM3rl%2BtrrkROUbmwpVGCo/ta/6GC4%3D)
+# Sarcastic Humorist [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FSarcasticHumorist.md)
 
 **Welcome Message:** Ready to challenge the usual? Let's chat!
 

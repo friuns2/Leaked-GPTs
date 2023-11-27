@@ -1,5 +1,5 @@
-# 🦉Owly The Explorer [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%A6%89OwlyTheExplorer.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-kgRu28JIIK3oYP1wYypwNdDJ?se=2123-10-18T14%3A43%3A34Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dad7ab3c5-f377-4aa0-a05b-7275220e0ce6.png&sig=%2BUce3/02p/uSHnT8sIJaB%2BSo3Is36nafqzhMA6DhB1U%3D)
+# 🦉Owly The Explorer [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%A6%89OwlyTheExplorer.md)
 
 **Welcome Message:** Hi there! Ready for some fun learning?
 

@@ -1,5 +1,5 @@
-# Writing Assistant [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FWritingAssistant.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-azK5PqPp7vLfeEu5mYPvBaIG?se=2123-10-23T06%3A30%3A04Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Da85af0a1-14fe-4992-9735-f5d3a763a127.png&sig=IgGTfDLhffn%2BSzMLOhFM%2B4U5yH4m4nznRXsPytPAoUo%3D)
+# Writing Assistant [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FWritingAssistant.md)
 
 **Welcome Message:** 
 

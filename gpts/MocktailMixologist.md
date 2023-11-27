@@ -1,5 +1,5 @@
-# Mocktail Mixologist [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FMocktailMixologist.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-bRpq5C5YwRMtQGO7xFa3nT40?se=2123-10-13T19%3A41%3A29Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dmocktails.png&sig=8us63D/Hx%2BsAn8u99rsbW5BoihTQQD1eP/jFb6C1KNs%3D)
+# Mocktail Mixologist [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FMocktailMixologist.md)
 
 **Welcome Message:** Hello
 

@@ -1,5 +1,5 @@
-# ⏳ From Another Time  [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%E2%8F%B3FromAnotherTime.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-bZgj1yi1Nn5TF25zJtrM98Su?se=2123-10-18T20%3A25%3A58Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Db9c32a77-2343-455d-bb25-b4bdcad6f0ff.png&sig=Uv6vUbwPYuuiJpYfJKxfjJwvPsrg%2Bi1G6Hshgh9JWdk%3D)
+# ⏳ From Another Time  [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%E2%8F%B3FromAnotherTime.md)
 
 **Welcome Message:** Experience history visually and conversationally with Time Travel Visualizer!
 

@@ -1,5 +1,5 @@
-# 📊 GoogleAnalytics Guru [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%93%8AGoogleAnalyticsGuru.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-vEFZ1BwGSTLDXQkEq6HQSSpZ?se=2123-10-22T09%3A49%3A36Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D4e939d33-c148-4131-9d2f-7cac4f5b1e6e.png&sig=vMe6ALtr14s4F9vJcvp8KhsIADdTEJHnvC/EnerMluo%3D)
+# 📊 GoogleAnalytics Guru [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%93%8AGoogleAnalyticsGuru.md)
 
 **Welcome Message:** 
 

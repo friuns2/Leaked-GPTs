@@ -1,5 +1,5 @@
-# ⚡FastGPT [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%E2%9A%A1FastGPT.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-F5ose3FUuDyuI12dRbryeW5t?se=2123-10-18T22%3A29%3A05Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D1be993af-fb51-4aa4-a85d-ba39c13fbbc7.png&sig=85di54rdb64KrbItoB/fNmfXvYsWtU0Jq86/45kC6jg%3D)
+# ⚡FastGPT [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%E2%9A%A1FastGPT.md)
 
 **Welcome Message:** Hi, I'm FastGPT! Quick answers, fast!
 

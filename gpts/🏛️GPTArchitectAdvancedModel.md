@@ -1,5 +1,5 @@
-# 🏛️ GPT Architect (Advanced Model) [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%8F%9B%EF%B8%8FGPTArchitectAdvancedModel.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-Oz0yX2PZlcuhJJBeSpJSGkCC?se=2123-10-18T19%3A01%3A39Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D5f8aa2f0-2a0a-4dbd-8c54-861e7625b8fe.png&sig=511Iyj7EEljUU8Zbv2dRFKDCyWNXuQJRQ49EBFBv6d0%3D)
+# 🏛️ GPT Architect (Advanced Model) [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%8F%9B%EF%B8%8FGPTArchitectAdvancedModel.md)
 
 **Welcome Message:** Welcome! Let's architect your perfect GPT prompt.
 

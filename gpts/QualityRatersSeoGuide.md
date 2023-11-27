@@ -1,5 +1,5 @@
-# Quality Raters Seo Guide [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FQualityRatersSeoGuide.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-aVFAZasEr90Kb4RkLbBZ6zyO?se=2123-10-16T18%3A31%3A06Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dcda34fff-7e00-41d2-b01c-0fccce4d41bb.png&sig=mEeTCkMJSCVfo9MuKMxGEKiz%2Bi8IAsAOwHB5v/T390Q%3D)
+# Quality Raters Seo Guide [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FQualityRatersSeoGuide.md)
 
 **Welcome Message:** Welcome! How can I assist you with quality rating guidelines today?
 

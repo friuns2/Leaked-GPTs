@@ -1,5 +1,5 @@
-# Curatorgpt [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FCuratorgpt.md)
 ![Profile Picture](null)
+# Curatorgpt [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FCuratorgpt.md)
 
 **Welcome Message:** Hello
 

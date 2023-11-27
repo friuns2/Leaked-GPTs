@@ -1,5 +1,5 @@
-# 🚀 Brand Sprint Facilitator [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%9A%80BrandSprintFacilitator.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-OcKlwwD4kT6IOUPLz2l4qbDS?se=2123-10-18T17%3A11%3A05Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DSprint%2520Facilitator.png&sig=a7o%2BM%2BTtzuwEVC9r4ZCezI5pwETSzN7/0xyjCpufBRA%3D)
+# 🚀 Brand Sprint Facilitator [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%9A%80BrandSprintFacilitator.md)
 
 **Welcome Message:** Hello
 

@@ -1,5 +1,5 @@
-# 🔢 Math to LaTeX [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%94%A2MathtoLaTeX.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-VntaHd3Kp7XG7N5967ApPFoo?se=2123-10-17T15%3A37%3A07Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DScreenshot%25202023-11-10%2520at%252015.36.50.png&sig=0Kd1q/1UrgfX0khsQUlEVnbW4RJByaSoHvmPbit4tH0%3D)
+# 🔢 Math to LaTeX [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%94%A2MathtoLaTeX.md)
 
 **Welcome Message:** Hello! Upload a math formula image, and I'll convert it to LaTeX code.
 

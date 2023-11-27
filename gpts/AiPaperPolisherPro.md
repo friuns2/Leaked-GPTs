@@ -1,5 +1,5 @@
-# Ai Paper Polisher Pro [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FAiPaperPolisherPro.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-JY7FZ2U8SZ5THLlSrYDL7cQS?se=2123-10-17T07%3A59%3A21Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D7bb3411d-c6b7-476a-aae4-9a12a35a7478.png&sig=v8GEb34jLK9MiaOUHkMALRsyoD%2B0ZFqMEzioGrzfUM0%3D)
+# Ai Paper Polisher Pro [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FAiPaperPolisherPro.md)
 
 **Welcome Message:** Hello! Ready to refine your academic paper?
 

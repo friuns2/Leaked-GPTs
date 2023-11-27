@@ -1,5 +1,5 @@
-# Nomad List [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FNomadList.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-im84MvuVQwJ1MN5dINxeYiNI?se=2123-10-17T19%3A54%3A31Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dlogo-1024px.png&sig=aonpPwVAkzz/A8u3WTnu0Nh1xTg7DMBEH536hOjOr94%3D)
+# Nomad List [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FNomadList.md)
 
 **Welcome Message:** Hello
 

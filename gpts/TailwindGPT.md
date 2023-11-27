@@ -1,5 +1,5 @@
-# Tailwindgpt [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FTailwindgpt.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-qPvWToCaoTjX4albxSNzwKxi?se=2123-10-19T21%3A40%3A17Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dtailwindcss.jpeg&sig=%2B5IajopakB0J/516uTPpCoplgmAwl4YzyO1Ueg%2BLRHY%3D)
+# Tailwindgpt [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FTailwindgpt.md)
 
 **Welcome Message:** Hello, I'm TailwindGPT! Let's create your Tailwind CSS design.
 

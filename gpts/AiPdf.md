@@ -1,5 +1,5 @@
-# Ai Pdf [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FAiPdf.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-9XepYndxfvemsnkdZ6cnT5em?se=2123-10-13T20%3A40%3A38Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dlogo.png&sig=iLNHnnlyyia9R%2BqHCe3A09us9866vp3s4byPzVRT7qo%3D)
+# Ai Pdf [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FAiPdf.md)
 
 **Welcome Message:** Hello
 

@@ -1,5 +1,5 @@
-# 🍬CarbSmart Slim GPT [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%8D%ACCarbSmartSlimGPT.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-G2iPkBEuDJFfsGpvrQt0KPpU?se=2123-10-19T02%3A41%3A06Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Ddbb63fc5-744a-4ec0-bef4-18693fbb9a0f.png&sig=vC17OHgLI77Nzab0KYaLocn0i6DkQuo0vKybBfo5YLc%3D)
+# 🍬CarbSmart Slim GPT [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%8D%ACCarbSmartSlimGPT.md)
 
 **Welcome Message:** Hi there! Let's create some healthy and beautiful recipes together!
 

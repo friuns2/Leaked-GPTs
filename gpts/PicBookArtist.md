@@ -1,5 +1,5 @@
-# Pic Book Artist [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FPicBookArtist.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-HM0cjTEJ7dQg2kK0oSUyOktn?se=2123-10-17T04%3A20%3A58Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dhead512-2.jpg&sig=NbynS1LLkXj8rcouPzTPzM139NPP/NQqDnaiKGRRa5Q%3D)
+# Pic Book Artist [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FPicBookArtist.md)
 
 **Welcome Message:** Hello, I am a genius picture book artist ready to help you create the best picture book. Please choose between Novice Mode and Expert Mode, so I can select the appropriate way to collaborate with you.
 

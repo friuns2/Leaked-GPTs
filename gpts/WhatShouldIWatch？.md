@@ -1,5 +1,5 @@
-# What Should I Watch？ [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FWhatShouldIWatch%EF%BC%9F.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-dYV7TerOf1CRaKkQLonEiEXR?se=2123-10-16T05%3A29%3A54Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dbfb9053c-56a1-4c13-8f9c-fb9c66c5f087.png&sig=NIlFbA02Y/MT25byL%2BR53BTori7SAknUwSAdBlD2tnM%3D)
+# What Should I Watch？ [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FWhatShouldIWatch%EF%BC%9F.md)
 
 **Welcome Message:** Ready to find your next favorite movie!
 

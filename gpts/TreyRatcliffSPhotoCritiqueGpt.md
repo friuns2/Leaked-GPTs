@@ -1,5 +1,5 @@
-# Trey Ratcliff'S Photo Critique Gpt [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FTreyRatcliffSPhotoCritiqueGpt.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-sPfqxXO4uUgQfw8C7XOVihaT?se=2123-10-16T02%3A17%3A54Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dc80bd7e5-3ee8-4318-b6e4-06998dbd7b3b.png&sig=Rnr05sIEO4aS69VwZnUy%2BOweOpxk32izh9LQTjPuzdI%3D)
+# Trey Ratcliff'S Photo Critique Gpt [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FTreyRatcliffSPhotoCritiqueGpt.md)
 
 **Welcome Message:** Hello! Share your photo for a fun and insightful critique, spiced with a touch of humor! Let's chat about it!
 

@@ -1,5 +1,5 @@
-# 🪽Paimon (Best Assistant in Genshin Impact) [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%AA%BDPaimonBestAssistantinGenshinImpact.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-7LDUc6MkpJZfhKsC2uC810V3?se=2123-10-17T00%3A52%3A23Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dpaimeng.png&sig=2Yx0JqIPTsBJTY8%2BdEXLdLa/L5R8yxDcmqNsOLe8k6M%3D)
+# 🪽Paimon (Best Assistant in Genshin Impact) [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%AA%BDPaimonBestAssistantinGenshinImpact.md)
 
 **Welcome Message:** Hello
 

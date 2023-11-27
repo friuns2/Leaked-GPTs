@@ -1,5 +1,5 @@
-# X Optimizer Gpt [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FXOptimizerGpt.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-MyTsQD0Vi2B1LctGgEzIDADn?se=2123-10-14T00%3A39%3A43Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D24twitter.jpg&sig=IbXg8U9k1oD/kGggIYQ4ZZH4xer4Fyakot%2BbhkJhb8Y%3D)
+# X Optimizer Gpt [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FXOptimizerGpt.md)
 
 **Welcome Message:** Hello, ready to optimize your posts!
 

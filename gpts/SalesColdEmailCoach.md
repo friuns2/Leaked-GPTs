@@ -1,5 +1,5 @@
-# Sales Cold Email Coach [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FSalesColdEmailCoach.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-0GJ4mm0WmH7bbHhm4pl8a7KU?se=2123-10-17T01%3A08%3A52Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202023-11-09%252020.07.58%2520-%2520A%2520full-body%2520portrait%2520of%2520a%2520confident%2520sales%2520guru%2520standing%2520in%2520a%2520corporate%2520office%2520environment.%2520The%2520guru%2520is%2520a%2520middle-aged%2520Caucasian%2520man%252C%2520dressed%2520in%2520a%2520tailo.png&sig=XZUQjzclsXVYKW7QbBiqHJpD/w7tWiABhQnWXCDHuyw%3D)
+# Sales Cold Email Coach [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FSalesColdEmailCoach.md)
 
 **Welcome Message:** Hello
 

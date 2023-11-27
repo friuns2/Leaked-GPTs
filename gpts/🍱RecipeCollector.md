@@ -1,5 +1,5 @@
-# 🍱 Recipe Collector [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%8D%B1RecipeCollector.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-utlOozCsyrPa1guygrB3IPBc?se=2123-10-21T22%3A02%3A23Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Drecipe-logo-5-nosharp.png&sig=Aj9igZ3O0H7GYn53zzwQtweAdz4NPxQHh0IXoLvzMI8%3D)
+# 🍱 Recipe Collector [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%8D%B1RecipeCollector.md)
 
 **Welcome Message:** Hello
 

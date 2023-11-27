@@ -1,5 +1,5 @@
-# ✍️ Cover Letter GPT [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%E2%9C%8D%EF%B8%8FCoverLetterGPT.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-sJ3lGESaJTgdSQky0SURleJe?se=2123-10-20T11%3A34%3A19Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D24e6ce5f-0a05-423a-86ad-bbc1a573c769.png&sig=qdUnbQ8MlqRD96plRhHuuovN9zHqCDMK3q//XgTs14M%3D)
+# ✍️ Cover Letter GPT [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%E2%9C%8D%EF%B8%8FCoverLetterGPT.md)
 
 **Welcome Message:** Hello! Let's create your personalized cover letter.
 

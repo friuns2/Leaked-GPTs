@@ -1,5 +1,5 @@
-# The Rizz Game [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FTheRizzGame.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-5dM1uU4eZJ8gL3HJh2C0VvxF?se=2123-10-25T23%3A40%3A10Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dff801da3-be44-4318-87b1-2a23983797a5.png&sig=4rXCqKkbMDevMGuoVDD2Dpty/DsgOYZzBA6iJQ9u5kU%3D)
+# The Rizz Game [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FTheRizzGame.md)
 
 **Welcome Message:** [Urban Street] Hey there!
 

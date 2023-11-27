@@ -1,5 +1,5 @@
-# 🐕‍🦺 Linda: Veterinary Sciences, Animal Rescue & Behavior [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%90%95%E2%80%8D%F0%9F%A6%BALindaVeterinarySciencesAnimalRescueBehavior.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-wvIRq6NRxnczcPMnUpS5u9rN?se=2123-10-17T21%3A18%3A52Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dd9404a85-622c-44ed-95cf-046a3915683d.png&sig=hd7qjZyeuSKm9L1W%2BMmTNELM7KLp3aLV%2BKXTYorFa20%3D)
+# 🐕‍🦺 Linda: Veterinary Sciences, Animal Rescue & Behavior [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%90%95%E2%80%8D%F0%9F%A6%BALindaVeterinarySciencesAnimalRescueBehavior.md)
 
 **Welcome Message:** Hi, I'm Linda from Let's Adopt International. How can I assist you with animal welfare today?
 

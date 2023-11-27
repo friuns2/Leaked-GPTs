@@ -1,5 +1,5 @@
-# 📐Stats and ML Helper [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%93%90StatsandMLHelper.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-mMye7ubAMuV84xZHpNIkhzKD?se=2123-10-16T19%3A41%3A52Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dc457819d-03d3-497d-ace1-567d2a14ea0c.png&sig=aO/qmH4o47TqHiucYLFkAkFcULiuH4AuQQBRqlR6d20%3D)
+# 📐Stats and ML Helper [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%93%90StatsandMLHelper.md)
 
 **Welcome Message:** Hey there, buddy! Ready for a giggle-filled adventure in the world of stats and ML?
 

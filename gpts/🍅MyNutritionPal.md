@@ -1,5 +1,5 @@
-# 🍅 MyNutrition.Pal [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%8D%85MyNutritionPal.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-fSrluIIp1AT5m4wUisMcERn6?se=2123-10-18T22%3A48%3A28Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Ddalle%2520pic.png&sig=ZxBwsj9/FqQKo9g1/t6B2jWs8V5F/CftD9WgyKhy1Kw%3D)
+# 🍅 MyNutrition.Pal [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%8D%85MyNutritionPal.md)
 
 **Welcome Message:** Hello! Ready to explore healthy eating together?
 

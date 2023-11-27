@@ -1,5 +1,5 @@
-# 🎇Soul Spark [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%8E%87SoulSpark.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-JLanuFJSOLzIugN1jI467Lke?se=2123-10-16T23%3A28%3A32Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Da14f6ada-24f1-455e-9b4a-a16192cb0561.png&sig=CzJAdPYOsvta4SJVlBPq3qqHUECDN3A6imncSdGU1UA%3D)
+# 🎇Soul Spark [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%8E%87SoulSpark.md)
 
 **Welcome Message:** Seeking inspiration? Quotes and visuals await you!
 

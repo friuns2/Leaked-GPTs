@@ -1,5 +1,5 @@
-# 📈 Crypto Compass GPT [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%93%88CryptoCompassGPT.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-5XJ1wG4YmjHTde6PuFpJK7pd?se=2123-10-21T14%3A51%3A32Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202023-11-14%252015.51.25%2520-%2520A%25203D%2520illustration%2520emulating%2520Pixar%2527s%2520animation%2520style%252C%2520showcasing%2520a%2520whimsical%2520and%2520vibrant%2520scene%2520with%2520a%2520cryptocurrency%2520coin%2520and%2520a%2520compass.%2520The%2520coin%2520shoul.png&sig=5qRC3pljySOyv%2BZvnL5jvF82kMt8izLoF31cRNaSfQE%3D)
+# 📈 Crypto Compass GPT [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%93%88CryptoCompassGPT.md)
 
 **Welcome Message:** Welcome to Crypto Compass GPT, your expert guide in the world of cryptocurrency.
 

@@ -1,5 +1,5 @@
-# Muskgpt [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FMuskgpt.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-UaeVLUe0aq0tFtKaONbwPl6o?se=2123-10-17T09%3A01%3A46Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DCopy%2520of%2520Copy%2520of%2520VF%2520showcase.png&sig=KhrcYt97n/bGVgaHCc5OmevVZWvHTOnOVPAMCDt6eEI%3D)
+# Muskgpt [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FMuskgpt.md)
 
 **Welcome Message:** Hi there, ready to channel some Musk energy?
 

@@ -1,5 +1,5 @@
-# Domainsgpt [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FDomainsgpt.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-JCUr3OjSsI65IzI54SJziruh?se=2123-10-17T19%3A09%3A28Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dlogo.png&sig=Wp89SjWqzKMUhPaMEFcpy/y9W%2B3FXIpd6ie0rnFGC20%3D)
+# Domainsgpt [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FDomainsgpt.md)
 
 **Welcome Message:** Hi, I'm Domains GPT, your branding expert!
 

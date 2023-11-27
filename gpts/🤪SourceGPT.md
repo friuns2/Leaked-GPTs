@@ -1,5 +1,5 @@
-# 🤪 SourceGPT [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%A4%AASourceGPT.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-HQjlnVVE9TrluUufW3ubpcho?se=2123-10-20T15%3A00%3A34Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Db8e60814-cd51-47f4-a022-d3d432d7556b.png&sig=Qzqm17hsNd/IO/R6FqbZMGE3Z9H6pXi2Ys8hGZm9VoI%3D)
+# 🤪 SourceGPT [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%A4%AASourceGPT.md)
 
 **Welcome Message:** Hello! How can I assist you in finding a source today?
 

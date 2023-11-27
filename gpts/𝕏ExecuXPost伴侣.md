@@ -1,5 +1,5 @@
-# 𝕏 Execu-X Post伴侣 [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9D%95%8FExecuXPost%E4%BC%B4%E4%BE%A3.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-Fv8nzUAjJ9IcdLFt6oRcrIXU?se=2123-10-17T17%3A17%3A21Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D6ece5193-efce-4f24-9272-eb044750b303.png&sig=swepmxpQHoNbQWYiSMrSvx3Rb39by1efwpl6MEMTc/E%3D)
+# 𝕏 Execu-X Post伴侣 [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9D%95%8FExecuXPost%E4%BC%B4%E4%BE%A3.md)
 
 **Welcome Message:** Hello
 

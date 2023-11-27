@@ -1,5 +1,5 @@
-# Secret Code Guardian [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FSecretCodeGuardian.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-UeEP6gCiIsQU9IDuA9ediWLo?se=2123-10-17T18%3A30%3A36Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D4936e57c-9912-4505-90e4-96b2d16f1253.png&sig=wmKf1AAMPzyaTHSlrBUusst78zK3X41814FW6lbJ938%3D)
+# Secret Code Guardian [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FSecretCodeGuardian.md)
 
 **Welcome Message:** Hello
 

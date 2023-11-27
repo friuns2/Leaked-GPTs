@@ -1,5 +1,5 @@
-# 🌶️ Spicy Question master (Have an interesting evening with friends) [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%8C%B6%EF%B8%8FSpicyQuestionmasterHaveaninterestingeveningwithfriends.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-3Iy8LQCVVX2tEhkhl6sQ4Rbj?se=2123-10-18T11%3A45%3A48Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D27e14720-4573-4468-8c25-0a71fc98791f.png&sig=eZLupBvBJEtfV3PWU3aBIZ5XKq3%2BLjj4CQ8rg/aG2jQ%3D)
+# 🌶️ Spicy Question master (Have an interesting evening with friends) [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%8C%B6%EF%B8%8FSpicyQuestionmasterHaveaninterestingeveningwithfriends.md)
 
 **Welcome Message:** Enter the realm of 'Spicy QuestionMaster' - where desires reign!
 

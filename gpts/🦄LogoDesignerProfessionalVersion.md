@@ -1,5 +1,5 @@
-# 🦄Logo Designer (Professional Version) [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%A6%84LogoDesignerProfessionalVersion.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-iDIkMwyAjb4rd3r6EiFC5WaD?se=2123-10-16T09%3A37%3A14Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dc7ec0846-b506-4546-8b3e-684c538303a6.png&sig=MJQA44fbV6F8e7gx%2BuWep1foN/I08Z%2BGn9S2OzXh5lQ%3D)
+# 🦄Logo Designer (Professional Version) [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%A6%84LogoDesignerProfessionalVersion.md)
 
 **Welcome Message:** Hello
 

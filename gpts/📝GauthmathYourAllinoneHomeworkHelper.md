@@ -1,5 +1,5 @@
-# 📝Gauthmath (Your All-in-one Homework Helper) [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%93%9DGauthmathYourAllinoneHomeworkHelper.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-R2bxfjU5JL8Eez1PONJrSzMf?se=2123-10-17T09%3A28%3A28Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D%25E4%25B8%258B%25E8%25BD%25BD%2520%25282%2529.png&sig=75/94XnkCvq/D31d/xb8vHLPM9orGWh12nSgrkCtB2Y%3D)
+# 📝Gauthmath (Your All-in-one Homework Helper) [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%93%9DGauthmathYourAllinoneHomeworkHelper.md)
 
 **Welcome Message:** Hey there! Need help with math?
 

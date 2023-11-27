@@ -1,5 +1,5 @@
-# Openapi Builder [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FOpenapiBuilder.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-Ck7dX9fpeF6ddMp2mjN7ay3D?se=2123-10-17T14%3A55%3A42Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D4f6aadf3-26b0-40af-a22d-b6395806037a.png&sig=WzlBanOC9/PeZLAz3sizIAZ/zEvCTbvatBwmmjmyB7M%3D)
+# Openapi Builder [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FOpenapiBuilder.md)
 
 **Welcome Message:** Hello, I'm OpenAPI Builder, ready to transform your APIs into OpenAPI Schemas. How can I assist you?
 

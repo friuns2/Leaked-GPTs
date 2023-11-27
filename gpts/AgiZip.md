@@ -1,5 +1,5 @@
-# Agi.Zip [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FAgiZip.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-y5B52TwwYRrwZePZGDAXMEQz?se=2123-10-13T22%3A41%3A09Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DIMG_0462.WEBP&sig=FXI5e1T8kSWWm1r1s5K2pfq4PCwv3P6PVY/WACO%2BIRg%3D)
+# Agi.Zip [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FAgiZip.md)
 
 **Welcome Message:** Hello
 

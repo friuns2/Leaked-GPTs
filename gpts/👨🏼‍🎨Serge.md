@@ -1,5 +1,5 @@
-# 👨🏼‍🎨 Serge [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%91%A8%F0%9F%8F%BC%E2%80%8D%F0%9F%8E%A8Serge.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-1IdHFYaQgvW15c934Hh92P1Y?se=2123-10-21T16%3A31%3A10Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D8bc9d2fa-8c1e-471c-a6ba-14f7bd457f75.png&sig=cTLZGIsDenMc2v487WuF2qz9sJws8sygqWB4kHgSkSM%3D)
+# 👨🏼‍🎨 Serge [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%91%A8%F0%9F%8F%BC%E2%80%8D%F0%9F%8E%A8Serge.md)
 
 **Welcome Message:** Ah, another face for my art! Let's see what we can create.
 

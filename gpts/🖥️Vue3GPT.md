@@ -1,5 +1,5 @@
-# 🖥️Vue3 GPT [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%96%A5%EF%B8%8FVue3GPT.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-kskWKrD9uWBtWFuaVrH9DjaG?se=2123-10-17T13%3A06%3A46Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D5eb35fb8-1cf8-43b2-87d2-c16027979a3f.png&sig=E3Ee9Cjxa92n2b2iaXU6lhPPnuqtwVUulK1V9uJUYSc%3D)
+# 🖥️Vue3 GPT [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%96%A5%EF%B8%8FVue3GPT.md)
 
 **Welcome Message:** Hello! I'm your Vue.js 3 coding assistant, here to help!
 

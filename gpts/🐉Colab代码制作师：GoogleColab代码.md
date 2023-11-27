@@ -1,5 +1,5 @@
-# 🐉Colab代码制作师：Google Colab代码 [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%90%89Colab%E4%BB%A3%E7%A0%81%E5%88%B6%E4%BD%9C%E5%B8%88%EF%BC%9AGoogleColab%E4%BB%A3%E7%A0%81.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-OXkFsP0mYX1wDQR1OMRg3m80?se=2123-10-15T22%3A32%3A18Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D96c53af6-1e9e-4c16-9db5-e4288bf3f1b2.png&sig=75T2YPAEeNfhPzItOPpAtga%2B8zppxv2hG/737pQs78M%3D)
+# 🐉Colab代码制作师：Google Colab代码 [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%90%89Colab%E4%BB%A3%E7%A0%81%E5%88%B6%E4%BD%9C%E5%B8%88%EF%BC%9AGoogleColab%E4%BB%A3%E7%A0%81.md)
 
 **Welcome Message:** Ready to craft your Colab-compatible script!
 

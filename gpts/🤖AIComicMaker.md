@@ -1,5 +1,5 @@
-# 🤖AI Comic Maker [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%A4%96AIComicMaker.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-8glhcc0fCylSrOmVnQXNJRWg?se=2123-10-19T05%3A21%3A53Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dcbdf89e0-744e-40b9-8d4d-57959f65b601.png&sig=gVPlgIb7kgzL8m2zJHIVSuvpIHI88nZlr3CY6rbVntQ%3D)
+# 🤖AI Comic Maker [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%A4%96AIComicMaker.md)
 
 **Welcome Message:** Ready to create some amazing comics together!
 

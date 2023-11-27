@@ -1,5 +1,5 @@
-# 🐍Python Tutor: Example-Focused Learning [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%90%8DPythonTutorExampleFocusedLearning.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-5aw9EiQLrPaY7As7U9bu9wmQ?se=2123-10-17T14%3A26%3A37Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D89dfc48e-2022-4599-a73e-9f1ef5acaef7.webp&sig=17d15hsrWIVIip0BfcCXZtbRgAWPkpNuS7xl/fasio8%3D)
+# 🐍Python Tutor: Example-Focused Learning [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%90%8DPythonTutorExampleFocusedLearning.md)
 
 **Welcome Message:** Hi, let's learn Python! What can I help you with today?
 

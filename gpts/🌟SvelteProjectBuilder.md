@@ -1,5 +1,5 @@
-# 🌟 Svelte Project Builder [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%8C%9FSvelteProjectBuilder.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-p9E7mjvfxr1uuTPzcDub4A3X?se=2123-10-20T18%3A43%3A01Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dicons8-svelte-600.png&sig=7RylznTMq32VPG1NZp6f0ODXHPxuUQwmDGQafyLQJmM%3D)
+# 🌟 Svelte Project Builder [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%8C%9FSvelteProjectBuilder.md)
 
 **Welcome Message:** Hello
 

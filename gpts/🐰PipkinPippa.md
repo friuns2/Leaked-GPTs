@@ -1,5 +1,5 @@
-# 🐰 Pipkin Pippa [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%90%B0PipkinPippa.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-yNUNNsE1BAZtBm2ZsK1d4JeC?se=2023-11-15T04%3A40%3A00Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D3599%2C%20immutable&rscd=attachment%3B%20filename%3Dsignal-2023-11-11-160521_003.jpeg&sig=79HF475d1JR2JYL1tJh/vDK8Rd0b1VIjBSGWqG5urNE%3D)
+# 🐰 Pipkin Pippa [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%90%B0PipkinPippa.md)
 
 **Welcome Message:** Hello
 

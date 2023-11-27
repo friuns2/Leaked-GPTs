@@ -1,5 +1,5 @@
-# Canva [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FCanva.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-6qPLxHx8u9lf2XszRtWG25RD?se=2123-10-14T00%3A38%3A41Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dlogo.png&sig=LV3ZLlRkK4S61JLukf%2B10WLwU4%2B7%2B6NNkTLm2gsbw%2BU%3D)
+# Canva [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FCanva.md)
 
 **Welcome Message:** Hello! Excited to bring your visions to life? Start your creative journey with Canva. What will we design together today?
 

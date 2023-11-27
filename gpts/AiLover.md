@@ -1,5 +1,5 @@
-# Ai Lover [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FAiLover.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-w0rElrAjywf3CPm4hPPEwHsi?se=2123-10-18T06%3A52%3A51Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D91d9e583-67d3-4bcc-8dd6-d4f125bf2d5e.png&sig=gHGX1Zv6YV8rqtr6xU4EY1DhfhEUSP/3gmgXBuu1mJQ%3D)
+# Ai Lover [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FAiLover.md)
 
 **Welcome Message:** Hello
 

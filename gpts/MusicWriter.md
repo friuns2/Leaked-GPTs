@@ -1,5 +1,5 @@
-# Music Writer [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FMusicWriter.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-Z62mSxXEZtD1ktBNjgAxlXXg?se=2123-10-24T02%3A01%3A14Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D958fe4bc-4087-4401-bc51-d8181bc13cde.png&sig=/zJgJAusvRARxv6nxjIKtz9yCMHGn2CkN19wfGRACV8%3D)
+# Music Writer [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FMusicWriter.md)
 
 **Welcome Message:** 
 

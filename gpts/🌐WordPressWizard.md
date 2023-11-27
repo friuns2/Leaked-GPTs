@@ -1,5 +1,5 @@
-# 🌐 WordPress Wizard [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%8C%90WordPressWizard.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-wp9AJMMNpiGVopP1RevXT1Eg?se=2123-10-18T16%3A44%3A23Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D406510ef-9d17-4d3e-b1ec-4bfb905fa525.png&sig=GIxavL/HqSYknwFOne5fXhOddIfbqRfJGlPvDC4LV%2Bo%3D)
+# 🌐 WordPress Wizard [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%8C%90WordPressWizard.md)
 
 **Welcome Message:** Hi! Let's discuss how to create your ideal WordPress website.
 

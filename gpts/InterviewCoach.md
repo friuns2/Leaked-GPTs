@@ -1,5 +1,5 @@
-# Interview Coach [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FInterviewCoach.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-74vUNQgsJdhYhb8aES1uc6XH?se=2123-10-15T23%3A10%3A37Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Df2b6a5b5-89f7-43d5-8678-560dd8b16af2.png&sig=MtrSKXMNq6/SxRIMWINpGlZ7awaBQSIhEWkjWiw5Ol8%3D)
+# Interview Coach [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FInterviewCoach.md)
 
 **Welcome Message:** Welcome! Ready for interview coaching?
 

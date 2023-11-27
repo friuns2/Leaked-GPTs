@@ -1,5 +1,5 @@
-# 🤯 An Emoji GPT [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%A4%AFAnEmojiGPT.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-hkEzuMmGTkwoT9jb7kLdA2i9?se=2123-10-16T22%3A48%3A16Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D37c06617-51fa-41d1-9137-9903e238eb57.png&sig=Yp6PUAzxl/MxGM0aRGwo/tZZlhliZkh60PMcd4Ai/10%3D)
+# 🤯 An Emoji GPT [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%A4%AFAnEmojiGPT.md)
 
 **Welcome Message:** Send me a statement and I'll add the perfect emoji!
 

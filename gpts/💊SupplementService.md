@@ -1,5 +1,5 @@
-# 💊 Supplement Service [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%92%8ASupplementService.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-VycPjUD88HOospMOc4IYpbJy?se=2123-10-19T01%3A07%3A27Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D8a16da81-26e8-4740-abdc-758cf28379d5.png&sig=j8TRlyjEYQKUzV80jRI7sldVWEOmIxqIViKYhGx%2Bcpo%3D)
+# 💊 Supplement Service [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%92%8ASupplementService.md)
 
 **Welcome Message:** Welcome to Supplement Service! Ready to explore nutrients in-depth?
 

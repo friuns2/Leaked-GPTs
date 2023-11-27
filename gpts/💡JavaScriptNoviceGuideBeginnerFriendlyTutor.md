@@ -1,5 +1,5 @@
-# 💡JavaScript Novice Guide: Beginner-Friendly Tutor [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%92%A1JavaScriptNoviceGuideBeginnerFriendlyTutor.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-QqPBV0Yl5uDnsAC91brPstoE?se=2123-10-17T14%3A19%3A42Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D80158f88-10c0-4e72-a13d-ee6c26b2afcb.png&sig=3Qx7YLCa59YYTKKTj3YL9JaHrRZ2ifitR5RK8tBnw5A%3D)
+# 💡JavaScript Novice Guide: Beginner-Friendly Tutor [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%92%A1JavaScriptNoviceGuideBeginnerFriendlyTutor.md)
 
 **Welcome Message:** Hello! Ready to dive into JavaScript?
 

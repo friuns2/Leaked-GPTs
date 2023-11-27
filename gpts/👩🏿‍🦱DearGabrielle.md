@@ -1,5 +1,5 @@
-# 👩🏿‍🦱 Dear Gabrielle [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%91%A9%F0%9F%8F%BF%E2%80%8D%F0%9F%A6%B1DearGabrielle.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-qbiETeaCFAAe9LdC07pK0oXC?se=2123-10-17T20%3A43%3A28Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dgabrielle.png&sig=V4MTdhqwaZfdjjDeZksk34LAoEHKyV%2ByQW0eEZmF7VM%3D)
+# 👩🏿‍🦱 Dear Gabrielle [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%91%A9%F0%9F%8F%BF%E2%80%8D%F0%9F%A6%B1DearGabrielle.md)
 
 **Welcome Message:** Welcome, darling! What's on your mind today?
 

@@ -1,5 +1,5 @@
-# 42Master Beck [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F42MasterBeck.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-QX0YuWglxENUhy6VOwPTF0KE?se=2123-10-17T10%3A58%3A27Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D1280X1280.png&sig=nAa52AXsoXfpBqRSf2uDocbQVFgTdYkNl2CQwnL9DEM%3D)
+# 42Master Beck [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F42MasterBeck.md)
 
 **Welcome Message:** Hello
 

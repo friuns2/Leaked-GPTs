@@ -1,5 +1,5 @@
-# Consistency Crafter 2024 [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FConsistencyCrafter2024.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-EdAJwcqB0A7MOg84Egg1gTQ8?se=2123-10-23T15%3A16%3A39Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D58d50a29-3a73-47c4-ab0b-d0927036ce61.png&sig=9JmwGxaKHvpe7yUT9ar0LXHu0TT2vIe8gaLfoUQoCAw%3D)
+# Consistency Crafter 2024 [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FConsistencyCrafter2024.md)
 
 **Welcome Message:** Ready to craft consistency!
 

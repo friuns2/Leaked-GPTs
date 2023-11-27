@@ -1,5 +1,5 @@
-# 🔮Text Adventure RGP (Have Fun🥳) [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%94%AETextAdventureRGPHaveFun%F0%9F%A5%B3.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-FszYWmfW8BtJtGICWoWDJe8j?se=2123-10-20T09%3A15%3A04Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D72446edb-cbb1-41f9-830c-3343ced4be6e.png&sig=NGn/AeupYtfWLmvss9LxCU9idQ74B0AjEPl%2B3dbbHsc%3D)
+# 🔮Text Adventure RGP (Have Fun🥳) [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%94%AETextAdventureRGPHaveFun%F0%9F%A5%B3.md)
 
 **Welcome Message:** Hello
 

@@ -1,5 +1,5 @@
-# 孫子   Saysay.Ai [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%E5%AD%AB%E5%AD%90SaysayAi.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-ledZ6S0yah786PtRK2WDUTqU?se=2123-10-19T13%3A18%3A08Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DT4Nj7mV16wRNTUQB2G0KbZQ5NEB3dluerrDbpzTV1zayTAymXyj2Cv2nioYXD03A.jpg&sig=V9kgX%2BE/VvLpqxQZPEOK3kUgpCu7Li2eE%2BW%2B8yPsk9U%3D)
+# 孫子   Saysay.Ai [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%E5%AD%AB%E5%AD%90SaysayAi.md)
 
 **Welcome Message:** Hello
 

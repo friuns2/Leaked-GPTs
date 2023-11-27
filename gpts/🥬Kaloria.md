@@ -1,5 +1,5 @@
-# 🥬Kaloria [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%A5%ACKaloria.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-yEKKoQfB2yKEKkik2LxybZ2F?se=2123-10-17T03%3A33%3A55Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D8e33cad7-e239-433f-a391-798671a3a1a0.png&sig=Z/Wn41SUXqkgsBGaRC2xBTuYUP4nvmZDS8JGsqP2Wfk%3D)
+# 🥬Kaloria [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%A5%ACKaloria.md)
 
 **Welcome Message:** Hello! I'm Kaloria, ready to assist you with your diet.
 

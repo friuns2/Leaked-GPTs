@@ -1,5 +1,5 @@
-# Cauldron [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FCauldron.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-6JBpIWIAdGcUO6YMF8NsQ9wu?se=2123-10-22T00%3A40%3A59Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%2520Witch%2527s%2520Hut%2520Scene%2520copy.png&sig=lombcGAZZ3x%2BL3OZ3j3V2DWM8fv6jacrGOhjwRlZuV4%3D)
+# Cauldron [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FCauldron.md)
 
 **Welcome Message:** Hello
 

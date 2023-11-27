@@ -1,5 +1,5 @@
-# Take Code Captures [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FTakeCodeCaptures.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-kgic5ueBA08pCnOjzAcsh5ha?se=2123-10-14T21%3A00%3A19Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dlogo.png&sig=P9MrEUh5PMDpN8uICnfb1oAMiO8floG%2BAoUtIawNRAI%3D)
+# Take Code Captures [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FTakeCodeCaptures.md)
 
 **Welcome Message:** Hi! Send me a Python concept and I'll render an example code for it.
 

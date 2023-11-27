@@ -1,5 +1,5 @@
-# Diffusion Master [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FDiffusionMaster.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-CT63ITf7nzexqZNczFqIvvKN?se=2123-10-16T01%3A56%3A37Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Df3b920fc-98c8-4a8f-95bf-52c8bd63b5fa.png&sig=2VDMGGVTcEWwZ9TgDNwtZalDoVB/9yKe6emRNwUANeA%3D)
+# Diffusion Master [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FDiffusionMaster.md)
 
 **Welcome Message:** Crafting award-winning Stable Diffusion prompts.
 

@@ -1,5 +1,5 @@
-# ❤️BraceletGPT [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%E2%9D%A4%EF%B8%8FBraceletGPT.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-384JUVX8VJpFBmbersXZUQxD?se=2123-10-21T17%3A15%3A26Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dlogo-large.png&sig=NgA3C2UPLNyMjMfytSxESH%2Blk7lnfp1GOdOD4CItL8Q%3D)
+# ❤️BraceletGPT [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%E2%9D%A4%EF%B8%8FBraceletGPT.md)
 
 **Welcome Message:** Hello
 

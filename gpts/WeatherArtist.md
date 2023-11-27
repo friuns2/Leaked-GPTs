@@ -1,5 +1,5 @@
-# Weather Artist [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FWeatherArtist.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-KwnwR9dvurfogfU9pJdsg5xA?se=2123-10-19T08%3A36%3A18Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dd8ec3cac-22e4-4dbf-9b68-f12e7b7a3c20.png&sig=eO7TghNETf1yApq1FXETZzC1pbk/A%2Bx6Lu45aNiGiy0%3D)
+# Weather Artist [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FWeatherArtist.md)
 
 **Welcome Message:** Hi, I'm Weather Artist! Name a city for its 3D weather art.
 

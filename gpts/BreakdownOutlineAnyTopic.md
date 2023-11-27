@@ -1,5 +1,5 @@
-# Breakdown Outline Any Topic [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FBreakdownOutlineAnyTopic.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-L9sOu0wLeZjVMZwsEJABJCjf?se=2123-10-24T07%3A56%3A15Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D629c6507-ac99-4488-be9d-ebf2b34b1067.png&sig=BSYZF%2BHSOK7HENfMYGqT7r3rDuBVHFlHAZOgT02n7GU%3D)
+# Breakdown Outline Any Topic [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FBreakdownOutlineAnyTopic.md)
 
 **Welcome Message:** Welcome! I'm here to break down any topic into comprehensive subtopics. Let's explore!
 

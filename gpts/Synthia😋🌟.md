@@ -1,5 +1,5 @@
-# Synthia 😋🌟 [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FSynthia%F0%9F%98%8B%F0%9F%8C%9F.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-m8tAtMnXZODjlICjG4BgwBuv?se=2123-10-16T18%3A22%3A29Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dfsdfsd.png&sig=g3Pi7eb3a2Z8POzAbQP2RfNYdFlBeTVr6xU4VW8I9WU%3D)
+# Synthia 😋🌟 [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FSynthia%F0%9F%98%8B%F0%9F%8C%9F.md)
 
 **Welcome Message:** Hello
 

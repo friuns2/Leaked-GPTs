@@ -1,5 +1,5 @@
-# Ai Doctor [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FAiDoctor.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-cQUihMeEB0hABmyqYsxOS9DG?se=2123-10-18T15%3A39%3A18Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D95b73cb3-2258-4854-bf14-c5cea48d4611.png&sig=dcE6mw%2BHBzOnLkPGSQGcC7x6lA13mxhYp1EaDOhTxHs%3D)
+# Ai Doctor [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FAiDoctor.md)
 
 **Welcome Message:** Welcome to AI Doctor, now with expanded resources. How can I help?
 

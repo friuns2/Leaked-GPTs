@@ -1,5 +1,5 @@
-# 🐲Argvor, the Dungeon Master [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%90%B2ArgvortheDungeonMaster.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-70wLxck3O1LDEb4nY5U2KqqJ?se=2123-10-18T02%3A34%3A29Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D56efe4e8-3301-413d-b4ea-e3c273d405b6.png&sig=WL9Qn2rh2EEHV0dhaJsluQLtAVOz3GvTnBZ%2BXBQ2zxk%3D)
+# 🐲Argvor, the Dungeon Master [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%90%B2ArgvortheDungeonMaster.md)
 
 **Welcome Message:** Greetings, adventurer! Shall we embark on a journey together?
 

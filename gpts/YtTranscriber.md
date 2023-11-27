@@ -1,5 +1,5 @@
-# Yt Transcriber [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FYtTranscriber.md)
 ![Profile Picture](https://files.oaiusercontent.com/file-eOYDbOuGRNjtdBXs31SfcG1b?se=2123-10-14T04%3A47%3A26Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D2d8df13c-e3d9-4ab7-9bda-9a4fc6e13b60.png&sig=STaOJZ3ABmOkAtSsYh6Unq6LrGKWNeNh9VyLkydNVv8%3D)
+# Yt Transcriber [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2FYtTranscriber.md)
 
 **Welcome Message:** Hello
 
