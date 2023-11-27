@@ -1,4 +1,4 @@
-# CyberMonday GPTs Prompts Leaked
+# Cyber Monday GPTs Prompts Leaked
  Leaked GPTs System Prompts, Bypass the 25 message limit, use GPTs without plus subscription
 
 - [🌨 Harold the Weather Painter](gpts/🌨HaroldtheWeatherPainter.md)
