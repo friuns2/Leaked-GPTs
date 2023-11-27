@@ -1,21 +1,21 @@
 # CyberMonday GPTs Prompts Leaked
  Leaked GPTs System Prompts, Bypass the 25 message limit, use GPTs without plus subscription
+- [genz 4 meme](gpts/genz%204%20meme.md) by ChatGPT
+- [Math Mentor](gpts/Math%20Mentor.md) by ChatGPT
+- [Interview Coach](gpts/Interview%20Coach.md) by Danny Graziosi
+- [The Negotiator](gpts/The%20Negotiator.md)  by ChatGPT
+- [Sous Chef](gpts/Sous%20Chef.md) by ChatGPT
+- [Tech Support Advisor](gpts/Tech%20Support%20Advisor.md) by ChatGPT
+- [Sticker Whiz](gpts/Sticker%20Whiz.md) by ChatGPT
 - [BabyAgi.txt](gpts/BabyAgi.txt.md) by Nicholas Dobos
 - [Take Code Captures](gpts/Take%20Code%20Captures.md) by oscaramos.dev
 - [Diffusion Master](gpts/Diffusion%20Master.md) by RUSLAN LICHENKO
 - [YT transcriber](gpts/YT%20transcriber.md) by gpt.swyx.io
 - [科技文章翻译](gpts/科技文章翻译.md) by Junmin Liu
-- [genz 4 meme](genz%204%20meme.md) by ChatGPT
-- [Math Mentor](gpts/Math%20Mentor.md) by ChatGPT
-- [Interview Coach](Interview%20Coach.md) by Danny Graziosi
-- [The Negotiator](gpts/The%20Negotiator.md)  by ChatGPT
-- [Sous Chef](gpts/Sous%20Chef.md) by ChatGPT
-- [Tech Support Advisor](gpts/Tech%20Support%20Advisor.md) by ChatGPT
-- [Sticker Whiz](gpts/Sticker%20Whiz.md) by ChatGPT
 - [Girlfriend Emma](gpts/Girlfriend%20Emma.md) by dddshop.com
 - [TherapistGPT](gpts/TherapistGPT.md) by David Boyle
-- [🎀My excellent classmates (Help with my homework!)](%F0%9F%8E%80My%20excellent%20classmates%20(Help%20with%20my%20homework!).md) by Kevin Ivery
-- [Moby Dick RPG](Moby%20Dick%20RPG.md) by word.studio
+- [🎀My excellent classmates (Help with my homework!)](gpts/%F0%9F%8E%80My%20excellent%20classmates%20(Help%20with%20my%20homework!).md) by Kevin Ivery
+- [Moby Dick RPG](gpts/Moby%20Dick%20RPG.md) by word.studio
 - [春霞つくし Tsukushi Harugasumi](gpts/%E6%98%A5%E9%9C%9E%E3%81%A4%E3%81%8F%E3%81%97%20Tsukushi%20Harugasumi.md)
 - [Canva](gpts/Canva.md) by community builder
 - [Midjourney Generator](gpts/Midjourney%20Generator.md) by Film Me Pty Ltd
@@ -38,7 +38,7 @@
 - [Game Time](gpts/Game%20Time.md) by ChatGPT
 - [Sales Cold Email Coach](gpts/Sales%20TCold%20TEmail%20TCoach.md) by Phu Hai Nghiem
 - [Grimoire](gpts/Grimoire.md) by Nicholas Dobos
-- [Trey Ratcliff's Photo Critique GPT](Trey%20Ratcliff%27s%20Photo%20Critique%20GPT.md) by Raymond Ratcliff
+- [Trey Ratcliff's Photo Critique GPT](gpts/Trey%20Ratcliff%27s%20Photo%20Critique%20GPT.md) by Raymond Ratcliff
 - [Coloring Book Hero](gpts/Coloring%20Book%20Hero.md) by ChatGPT
 - [Cosmic Dream](gpts/Cosmic%20Dream.md) by ChatGPT
 - [Hot Mods](gpts/Hot%20Mods.md) by ChatGPT
