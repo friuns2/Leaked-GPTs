@@ -1,4 +1,4 @@
-# CyberMonday GPTs Prompts Leaked
+# Cyber Monday GPTs Prompts Leaked
  Leaked GPTs System Prompts, Bypass the 25 message limit, use GPTs without plus subscription
 - [genz 4 meme](gpts/genz%204%20meme.md) by ChatGPT
 - [Math Mentor](gpts/Math%20Mentor.md) by ChatGPT
