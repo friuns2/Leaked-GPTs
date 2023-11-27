@@ -1,4 +1,4 @@
-# 🧑‍🎨 Wizlogo Logo Maker [Start Chat](https://gptcall.net/chat.html?dataurl=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%A7%91%E2%80%8D%F0%9F%8E%A8WizlogoLogoMaker.md)
+# 🧑‍🎨 Wizlogo Logo Maker [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%A7%91%E2%80%8D%F0%9F%8E%A8WizlogoLogoMaker.md)
 Source: https://chat.openai.com/g/g-LsuxNbRw5-wizlogo-logo-maker
 ```
 

@@ -1,4 +1,4 @@
-# 💺Seat Seeker GPT [Start Chat](https://gptcall.net/chat.html?dataurl=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%92%BASeatSeekerGPT.md)
+# 💺Seat Seeker GPT [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%92%BASeatSeekerGPT.md)
 Source: https://chat.openai.com/g/g-3AQM5NfzA-seat-seeker
 ```
 

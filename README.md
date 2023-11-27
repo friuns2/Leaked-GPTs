@@ -1,5 +1,5 @@
 # CyberMonday GPTs Prompts Leaked
-## Leaked GPTs System Prompts, Bypass the 25 message limit, use GPTs without plus subscription
+ Leaked GPTs System Prompts, Bypass the 25 message limit, use GPTs without plus subscription
 
 - [🌨 Harold the Weather Painter](gpts/🌨HaroldtheWeatherPainter.md)
 - [🍷 Vinobot](gpts/🍷Vinobot.md)
@@ -37,7 +37,6 @@
 - [🔮Text Adventure RGP (Have Fun🥳)](gpts/🔮TextAdventureRGPHaveFun🥳.md)
 - [🪽Paimon (Best Assistant in Genshin Impact)](gpts/🪽PaimonBestAssistantinGenshinImpact.md)
 - [❤️Dating with Raiden Shogun](gpts/❤️DatingwithRaidenShogun.md)
-- [☸ Buddha GPT](gpts/☸BuddhaGPT.md)
 - [🥬 IsHealthy? GPT](gpts/🥬IsHealthyGPT.md)
 - [⛲ Wellness Guide](gpts/⛲WellnessGuide.md)
 - [💛 Manifestation Coach](gpts/💛ManifestationCoach.md)

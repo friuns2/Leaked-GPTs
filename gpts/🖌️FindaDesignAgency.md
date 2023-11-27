@@ -1,4 +1,4 @@
-# 🖌️ Find a Design Agency [Start Chat](https://gptcall.net/chat.html?dataurl=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%96%8C%EF%B8%8FFindaDesignAgency.md)
+# 🖌️ Find a Design Agency [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%96%8C%EF%B8%8FFindaDesignAgency.md)
 Source: https://chat.openai.com/g/g-IOyxoYe5T-find-a-design-agency
 ```
 

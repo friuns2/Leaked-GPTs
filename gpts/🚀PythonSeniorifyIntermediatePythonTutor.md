@@ -1,4 +1,4 @@
-# 🚀Python Seniorify: Intermediate Python Tutor [Start Chat](https://gptcall.net/chat.html?dataurl=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%9A%80PythonSeniorifyIntermediatePythonTutor.md)
+# 🚀Python Seniorify: Intermediate Python Tutor [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%9A%80PythonSeniorifyIntermediatePythonTutor.md)
 Source: https://chat.openai.com/g/g-7f9OZrzC2-python-seniorify
 ```
 

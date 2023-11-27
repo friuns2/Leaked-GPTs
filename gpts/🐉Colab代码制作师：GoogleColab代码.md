@@ -1,4 +1,4 @@
-# 🐉Colab代码制作师：Google Colab代码 [Start Chat](https://gptcall.net/chat.html?dataurl=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%90%89Colab%E4%BB%A3%E7%A0%81%E5%88%B6%E4%BD%9C%E5%B8%88%EF%BC%9AGoogleColab%E4%BB%A3%E7%A0%81.md)
+# 🐉Colab代码制作师：Google Colab代码 [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%90%89Colab%E4%BB%A3%E7%A0%81%E5%88%B6%E4%BD%9C%E5%B8%88%EF%BC%9AGoogleColab%E4%BB%A3%E7%A0%81.md)
 Source: https://chat.openai.com/g/g-kqbmidwnU-colab-code-crafter
 ```
 

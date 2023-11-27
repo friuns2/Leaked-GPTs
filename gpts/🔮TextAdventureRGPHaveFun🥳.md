@@ -1,4 +1,4 @@
-# 🔮Text Adventure RGP (Have Fun🥳) [Start Chat](https://gptcall.net/chat.html?dataurl=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%94%AETextAdventureRGPHaveFun%F0%9F%A5%B3.md)
+# 🔮Text Adventure RGP (Have Fun🥳) [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%94%AETextAdventureRGPHaveFun%F0%9F%A5%B3.md)
 Source: https://chat.openai.com/g/g-GHU0OGQMS-text-adventure-rgp-have-fun
 ```
 

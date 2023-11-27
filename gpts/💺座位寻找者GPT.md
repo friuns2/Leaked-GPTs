@@ -1,4 +1,4 @@
-# 💺座位寻找者GPT [Start Chat](https://gptcall.net/chat.html?dataurl=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%92%BA%E5%BA%A7%E4%BD%8D%E5%AF%BB%E6%89%BE%E8%80%85GPT.md)
+# 💺座位寻找者GPT [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%92%BA%E5%BA%A7%E4%BD%8D%E5%AF%BB%E6%89%BE%E8%80%85GPT.md)
 Source: https://chat.openai.com/g/g-3AQM5NfzA-seat-seeker
 ```
 

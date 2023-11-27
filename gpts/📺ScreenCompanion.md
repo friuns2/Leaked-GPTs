@@ -1,4 +1,4 @@
-# 📺 Screen Companion [Start Chat](https://gptcall.net/chat.html?dataurl=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%93%BAScreenCompanion.md)
+# 📺 Screen Companion [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%93%BAScreenCompanion.md)
 Source: https://chat.openai.com/g/g-9T0hmzkPB-screen-companion
 ```
 
