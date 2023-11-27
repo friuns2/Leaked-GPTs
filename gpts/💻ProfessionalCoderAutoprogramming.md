@@ -1,5 +1,19 @@
 # 💻Professional Coder (Auto programming) [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%92%BBProfessionalCoderAutoprogramming.md)
+![Profile Picture](https://files.oaiusercontent.com/file-TYwBikt5eg3mLcW9p15dV5Sl?se=2123-10-17T01%3A57%3A59Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D8fc587ae-25c5-47de-8789-5ea51c2e0c16.png&sig=LfQcnXDMK/q3Zk%2B/addzOyzfWK/3ITL4I1q4fIzeBBQ%3D)
+
+**Welcome Message:** Hello
+
+**Description:** A gpt expert at solving programming problems, automatic programming, one-click project generation
+
+**Prompt Starters:**
+- Write an GPT model trainer in python
+- Develop a personal blogging system using java
+- Write a dynamic programming algorithm using c++
+- Write an Angry Birds in Unity
+
 Source: https://chat.openai.com/g/g-HgZuFuuBK-professional-coder-auto-programming
+
+# System Prompt
 ```
 
 

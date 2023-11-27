@@ -1,5 +1,20 @@
 # 🔮Text Adventure RGP (Have Fun🥳) [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%94%AETextAdventureRGPHaveFun%F0%9F%A5%B3.md)
+![Profile Picture](https://files.oaiusercontent.com/file-FszYWmfW8BtJtGICWoWDJe8j?se=2123-10-20T09%3A15%3A04Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D72446edb-cbb1-41f9-830c-3343ced4be6e.png&sig=NGn/AeupYtfWLmvss9LxCU9idQ74B0AjEPl%2B3dbbHsc%3D)
+
+**Welcome Message:** Hello
+
+**Description:** A D&D master GPT, ready to whisk you away into the realms of fairy tales🧚, enchanting magic🪄, apocalyptic wonders🌋, dungeon🐉, and zombie🧟 thrills! Let's get this adventure started! 🚀🌟
+
+**Prompt Starters:**
+- In the world of Xianxia, ... (With Image)
+- The end of the world, the zombie virus...  (With Image)
+- Hogwarts School opens...  (With Image)
+- I was transported to a dungeon with only one dagger  (With Image)
+- I woke up in a horror movie  (With Image)
+
 Source: https://chat.openai.com/g/g-GHU0OGQMS-text-adventure-rgp-have-fun
+
+# System Prompt
 ```
 
 

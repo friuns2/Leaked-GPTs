@@ -1,5 +1,16 @@
 # 👚 Outfit Generator [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%91%9AOutfitGenerator.md)
+![Profile Picture](https://files.oaiusercontent.com/file-ZmCEqge3tIRpLr0yKspRiGKo?se=2123-10-22T12%3A44%3A35Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Defa7dba2-c35a-4ab8-b1e9-a24621c15ab8.png&sig=wmPgBPdgLbm9IOkv5jftZ35URt2/quAlduIQYbwdE4Q%3D)
+
+**Welcome Message:** Hello! Ready to find the perfect outfit?
+
+**Description:** I will help you create a matching outfit from an uploaded picture. I can generate a picture of matching outfit and search for such outfits on the web.
+
+**Prompt Starters:**
+- What outfit goes with this picture?
+
 Source: https://chat.openai.com/g/g-csCTyILmx-outfit-generator
+
+# System Prompt
 ```
 
 

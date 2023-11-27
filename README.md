@@ -1,337 +1,323 @@
 # CyberMonday GPTs Prompts Leaked
  Leaked GPTs System Prompts, Bypass the 25 message limit, use GPTs without plus subscription
-- [genz 4 meme](gpts/genz%204%20meme.md) by ChatGPT
-- [Math Mentor](gpts/Math%20Mentor.md) by ChatGPT
-- [Interview Coach](gpts/Interview%20Coach.md) by Danny Graziosi
-- [The Negotiator](gpts/The%20Negotiator.md)  by ChatGPT
-- [Sous Chef](gpts/Sous%20Chef.md) by ChatGPT
-- [Tech Support Advisor](gpts/Tech%20Support%20Advisor.md) by ChatGPT
-- [Sticker Whiz](gpts/Sticker%20Whiz.md) by ChatGPT
-- [BabyAgi.txt](gpts/BabyAgi.txt.md) by Nicholas Dobos
-- [Take Code Captures](gpts/Take%20Code%20Captures.md) by oscaramos.dev
-- [Diffusion Master](gpts/Diffusion%20Master.md) by RUSLAN LICHENKO
-- [YT transcriber](gpts/YT%20transcriber.md) by gpt.swyx.io
-- [科技文章翻译](gpts/科技文章翻译.md) by Junmin Liu
-- [Girlfriend Emma](gpts/Girlfriend%20Emma.md) by dddshop.com
-- [TherapistGPT](gpts/TherapistGPT.md) by David Boyle
-- [🎀My excellent classmates (Help with my homework!)](gpts/%F0%9F%8E%80My%20excellent%20classmates%20(Help%20with%20my%20homework!).md) by Kevin Ivery
-- [Moby Dick RPG](gpts/Moby%20Dick%20RPG.md) by word.studio
-- [春霞つくし Tsukushi Harugasumi](gpts/%E6%98%A5%E9%9C%9E%E3%81%A4%E3%81%8F%E3%81%97%20Tsukushi%20Harugasumi.md)
-- [Canva](gpts/Canva.md) by community builder
-- [Midjourney Generator](gpts/Midjourney%20Generator.md) by Film Me Pty Ltd
-- [Chibi Kohaku (猫音コハク)](gpts/Chibi%20Kohaku%20(猫音コハク)) by tr1ppy.com
-- [Calendar GPT](gpts/Calendar%20GPT.md) by community builder
-- [Sarcastic Humorist](gpts/Sarcastic%20Humorist.md) by Irene L Williams
-- [Manga Miko - Anime Girlfriend](gpts/Manga%20Miko%20-%20Anime%20Girlfriend.md) by Declan Gessel
-- [OCR-GPT](gpts/OCR-GPT.md) by Siyang Qiu
-- [Ai PDF](gpts/Ai%20PDF.md) by myaidrive.com
-- [完蛋，我被美女包围了(AI同人)](gpts/完蛋，我被美女包围了(AI同人).md) by ikena.ai
-- [Virtual Sweetheart](gpts/Virtual%20Sweetheart.md) by Ryan Imgrund
-- [Synthia 😋🌟](gpts/Synthia%20%F0%9F%98%8B%F0%9F%8C%9F.md) by BENARY Jacquis Ronaldo
-- [Video Script Generator](gpts/Video%20Script%20Generator.md) by empler.ai
-- [The Shaman](gpts/The%20Shaman.md) by Austin C Potter
-- [Meme Magic](gpts/Meme%20Magic.md) by ratcgpts.com
-- [EmojAI](gpts/EmojAI.md) by ratcgpts.com
-- [CodeCopilot](gpts/CodeCopilot.md) by promptspellsmith.com
-- [Data Analysis](gpts/Data%20Analysis.md) by ChatGPT
-- [YT Summarizer](gpts/YT%20Summarizer.md) by John Venkata Pilla
-- [Game Time](gpts/Game%20Time.md) by ChatGPT
-- [Sales Cold Email Coach](gpts/Sales%20TCold%20TEmail%20TCoach.md) by Phu Hai Nghiem
-- [Grimoire](gpts/Grimoire.md) by Nicholas Dobos
-- [Trey Ratcliff's Photo Critique GPT](gpts/Trey%20Ratcliff%27s%20Photo%20Critique%20GPT.md) by Raymond Ratcliff
-- [Coloring Book Hero](gpts/Coloring%20Book%20Hero.md) by ChatGPT
-- [Cosmic Dream](gpts/Cosmic%20Dream.md) by ChatGPT
-- [Hot Mods](gpts/Hot%20Mods.md) by ChatGPT
-- [Laundry Buddy](gpts/Laundry%20Buddy.md) by ChatGPT
-- [Gif-PT](gpts/Gif-PT.md) by mindgoblinstudios.com
-- [LogoGPT](gpts/LogoGPT.md) by A SAI RAHUL
-- [CuratorGPT](gpts/CuratorGPT.md) by Shushant Lakhyani
-- [KoeGPT](gpts/KoeGPT.md) by Alex Northstar
-- [HormoziGPT](gpts/HormoziGPT.md) by Alex Northstar
-- [What should I watch?](gpts/What%20should%20I%20watch%EF%BC%9F.md) by ammaar.me
-- [MuskGPT](gpts/MuskGPT.md) by Alex Northstar
-- [Retro Adventures](gpts/Retro%20Adventures.md) by Greg Fodor
-- [ClearGPT](gpts/ClearGPT.md) by Alex Northstar
-- [Visual Weather Artist GPT](gpts/Visual%20Weather%20Artist%20GPT.md) by Alex Volkov
-- [X Optimizer GPT](gpts/X%20Optimizer%20GPT.md) by Rowan Cheung
-- [Agi.zip](gpts/Agi.zip.md) by mindgoblinstudios.com
-- [Simpsonize Me](gpts/Simpsonize%20Me.md) by octaneai.com
-- [plugin surf](gpts/plugin%20surf.md) by dumpling.software
-- [Book to Prompt](gpts/Book%20to%20Prompt.md) by Lucas C Pimentel
-- [ALL IN GPT](gpts/ALL%20IN%20GPT.md) by KRUGER CLINTIN LYLE
-- [ScholarAI](gpts/ScholarAI.md) by Lakshya Bakshi
-- [Character Forger](gpts/Character%20Forger.md) by learnaiwiz.com
-- [10x Engineer](gpts/10x%20Engineer.md) by Jacob Ottiger
-- [AI Doctor](gpts/AI%20Doctor.md) by Yaniv Goldenberg
-- [AI Paper Polisher Pro](gpts/AI%20Paper%20Polisher%20Pro.md) by Haiwen Huang
-- [(A.I. Bestie)](gpts/%28A.I.%20Bestie%29.md) by yongtaizhou
-- [MetabolismBoosterGPT](gpts/MetabolismBoosterGPT.md) by Shushant Lakhyani
-- [悲慘世界 RPG](gpts/%E6%82%B2%E6%85%98%E4%B8%96%E7%95%8C%20RPG.md) by LU CHE YU
-- [Secret Code Guardian](gpts/Secret%20Code%20Guardian.md) by pyroprompts.com
-- [High-Quality Review Analyzer](gpts/High-Quality%20Review%20Analyzer.md) by Caitlin Hathaway
-- [AI Lover](gpts/AI%20Lover.md) by 廖芳國
-- [TaxGPT](gpts/TaxGPT.md) by Phat Pham
-- [天官庙的刘半仙](gpts/天官庙的刘半仙.md)
-- [ConvertAnything](gpts/ConvertAnything.md) by Pietro Schirano
-- [痤疮治疗指南](gpts/痤疮治疗指南.md) by community builder
-- [猫耳美少女イラストメーカー](gpts/猫耳美少女イラストメーカー.md)
-- [toonGPT](gpts/toonGPT.md) by indievish.com
-- [Viral Hooks Generator](gpts/Viral%20Hooks%20Generator.md) by Muhammad Hassan Asghar
-- [OpenStorytelling Plus](gpts/OpenStorytelling%20Plus.md) by BRYAN HARRIS
-- [Choose your own adventure!](gpts/Choose%20your%20own%20adventure!.md)
-- [Pic-book Artist](gpts/Pic-book%20Artist.md) by ZHANG RUI
-- [Quality Raters SEO Guide](gpts/Quality%20Raters%20SEO%20Guide.md) by Laurent Jean
-- [GymStreak Workout Creator](gpts/GymStreak%20Workout%20Creator.md) by Joseph Mambwe
-- [Video Game Almanac](gpts/Video%20Game%20Almanac.md) by Evan Betley
-- [脏话连篇](gpts/脏话连篇.md) by Junmin Liu
-- [小坏蛋](gpts/小坏蛋.md) by 李继刚
-- [Mystic 占卜🔮](gpts/Mystic%20占卜🔮.md) by community builder
-- [DomainsGPT](gpts/DomainsGPT.md) by oneword.domains
-- [Weather Artist](gpts/Weather%20Artist.md) by Rahul Chakraborty
-- [Secret Keeper](gpts/Secret%20Keeper.md) by Tobias Buschor
-- [Mr. Ranedeer](gpts/Mr.%20Ranedeer.md) by mr-ranedeer.com
-- [YouTubeGPT](gpts/YouTubeGPT.md) by Miguel Piedrafita
-- [TweetX Enhancer](gpts/TweetX%20Enhancer.md) by Viacheslav Kovalevskyi
-- [王阳明](gpts/王阳明.md) by Bruno Konopelski
-- [老爸，该怎么办？](gpts/老爸，该怎么办？.md) by Junmin Liu
-- [老妈，我爱你](gpts/老妈，我爱你.md) by Junmin Liu
-- [Code Explainer](gpts/Code%20Explainer.md) by promptboom.com
-- [All-around Writer (Professional Version)](gpts/All-around%20Writer%20(Professional%20Version).md) by Kevin Ivery
-- [Story Spock](gpts/Story%20Spock.md) by learnaiwiz.com
-- [Blog Expert](gpts/Blog%20Expert.md) by Faisal Binateeq
-- [Paw Pal](gpts/Paw%20Pal.md) by coreachdigital.com
-- [GPT Shop Keeper](gpts/GPT%20Shop%20Keeper.md) by mindgoblinstudios.com
-- [GPT Builder](gpts/GPT%20Builder.md) by ChatGPT
-- [RolePlayHumanWritingGPT](gpts/RolePlayHumanWritingGPT.md) by Joseph J
-- [极简翻译](gpts/极简翻译.md) by LIU YULONG
-- [OpenAPI Builder](gpts/OpenAPI%20Builder.md) by IALife
-- [行业洞察家](gpts/行业洞察家.md) by community builder
-- [枫叶林](gpts/枫叶林.md) by Zhang Lingling
-- [完蛋！我爱上了姐姐](gpts/完蛋！我爱上了姐姐.md) by autogen.icu
-- [孫子 - saysay.ai](gpts/孫子%20-%20saysay.ai.md) by Takayuki Fukatsu
-- [LangGPT](gpts/LangGPT.md) by 云中江树
-- [Super Describe](gpts/Super%20Describe.md) by Javier Lopez Lopez
-- [FramerGPT](gpts/FramerGPT.md) by Joe Lee
-- [20K Vocab Builder](gpts/20K%20Vocab%20Builder.md) by Community Builder
-- [GPT Customizer, File Finder & JSON Action Creator](gpts/Customizes%20GPTs%20with%20file%20finding%2C%20action%20creation%2C%20and%20troubleshooting.md) by Webcafe AI
-- [AI算命](gpts/AI算命.md) by Jerrold Bergnaum
-- [TailwindCSS Previewer](gpts/TailwindCSS%20Previewer.md) by WindChat.link
-- [TailwindGPT](gpts/TailwindGPT.md) by Miguel Piedrafita
-- [骂醒恋爱脑](gpts/骂醒恋爱脑.md) by bing yan
-- [鐵公雞](gpts/鐵公雞.md)
-- [广告文案大师](gpts/广告文案大师.md) by wa gaga
-- [小红书写作专家](gpts/小红书写作专家.md) by xtxian.com
-- [Universal Primer](gpts/Universal%20Primer.md) by Siqi
-- [嘴臭王](gpts/嘴臭王.md) by Kun Qian
-- [🧙‍♂️算命先生](gpts/🧙‍♂️算命先生.md)
-- [攻击型领导](gpts/攻击型领导.md) by Sure Lee
-- [知识渊博的健身教练](gpts/知识渊博的健身教练.md) by Xianhong Huang
-- [Ads Generator by Joe](gpts/Ads%20Generator%20by%20Joe.md) by Xiangyang Qiao
-- [短视频脚本](gpts/短视频脚本.md) by gpt.hroid.top
-- [Watercolor Illustrator GPT](gpts/Watercolor%20Illustrator%20GPT.md) by Ali Ali
-- [Xhs Writer: Mary](gpts/Xhs%20Writer%20-%20Mary.md) by lysonober.com
-- [Writing Assistant](gpts/Writing%20Assistant.md) by Junmin Liu
-- [Cross-Border Investigation Assistant 跨境偵查小助手](gpts/Cross-Border%20Investigation%20Assistant%20%E8%B7%A8%E5%A2%83%E5%81%B5%E6%9F%A5%E5%B0%8F%E5%8A%A9%E6%89%8B.md) by CHANG CHIA KAI
-- [子言女友](gpts/子言女友.md) by Yu Dong
-- [HumanWriterGPT](gpts/HumanWriterGPT.md) by rjarivi
-- [The Secret of Monkey Island: Amsterdam](gpts/The%20Secret%20of%20Monkey%20Island-%20Amsterdam.md) by levels.io
-- [凌凤箫](gpts/凌凤箫.md) by community builder
-- [Email Responder Pro](gpts/Email%20Responder%20Pro.md) by Max Krishtul
-- [Blog Post Generator](gpts/Blog%20Post%20Generator.md) by usevisuals.com
-- [金庸群俠傳](gpts/金庸群俠傳.md) by 葉宗瑋
-- [42master-Beck](gpts/42master-Beck.md) by 42master.io
-- [非虚构作品的阅读高手](gpts/非虚构作品的阅读高手.md) by 陈一斌
-- [ID Photo Pro](gpts/ID%20Photo%20Pro.md) by Johnetta Kovacek
-- [解梦大师](gpts/解梦大师.md) by robertmao.com
-- [Fantasy Book Weaver](gpts/Fantasy%20Book%20Weaver.md)
-- [LeetCode Problem Solver](gpts/LeetCode%20Problem%20Solver.md) by Arturo Bravo Rovirosa
-- [img2img](gpts/img2img.md) by neural.love
-- [Music Writer](gpts/Music%20Writer.md) by Gorden_Sun
-- [武林秘传：江湖探险](gpts/武林秘传：江湖探险.md) by jesselau.com
-- [Cauldron](gpts/Cauldron.md) by mindgoblinstudios.com
-- [Consistency Crafter 2024](gpts/Consistency%20Crafter%202024.md) by Dmytro Korol
-- [!Breakdown: Outline Any Topic](gpts/Breakdown%20Outline%20Any%20Topic.md) by puzzle.today
-- [!The Rizz Game](gpts/The%20Rizz%20Game.md) by puzzle.today
-- [超级Dalle](gpts/超级Dalle.md) by myaiforce.com
-- [Makise Kurisu](gpts/Makise%20Kurisu.md)
-- [Phoenix Ink](gpts/Phoenix%20Ink.md) by MEHMET GENCAY IŞIK
-- [Email Proofreader](gpts/Email%20Proofreader.md) by Pouria Rouzrokh
-- [英文校正GPT](gpts/英文校正GPT.md)
-- [🍩 Get Simpsonized! 🍩](gpts/Get%20Simpsonized!.md) by sprintrade.com
-- [CIPHERON 🧪](gpts/CIPHERON.md) By community builder
-- [Nomad List](gpts/Nomad%20List.md) by photoai.com
-- [🌨 Harold the Weather Painter](gpts/🌨HaroldtheWeatherPainter.md)
-- [🍷 Vinobot](gpts/🍷Vinobot.md)
-- [🎮 Game Genius](gpts/🎮GameGenius.md)
-- [✒ Verbal IQ Evaluator](gpts/✒VerbalIQEvaluator.md)
-- [☄️ Sci-Fi Explorer](gpts/☄️SciFiExplorer.md)
-- [🦧 Alchemist GPT](gpts/🦧AlchemistGPT.md)
-- [🧙‍♂️ Meme Magic](gpts/🧙‍♂️MemeMagic.md)
-- [💗 Love Me or Not](gpts/💗LoveMeorNot.md)
-- [🐉 Pokemon Master (Generate New Pokemon)](gpts/🐉PokemonMasterGenerateNewPokemon.md)
-- [🐰 Pipkin Pippa](gpts/🐰PipkinPippa.md)
-- [🧝🏾‍♀️ Griselda](gpts/🧝🏾‍♀️Griselda.md)
-- [👨🏼‍🎨 Serge](gpts/👨🏼‍🎨Serge.md)
-- [🤯 An Emoji GPT](gpts/🤯AnEmojiGPT.md)
-- [🎙️Roast Master](gpts/🎙️RoastMaster.md)
-- [🎇excel VBA magica](gpts/🎇excelVBAmagica.md)
-- [🤪 SourceGPT](gpts/🤪SourceGPT.md)
-- [👩🏿‍🦱 Dear Gabrielle](gpts/👩🏿‍🦱DearGabrielle.md)
-- [📖 Story Buddy](gpts/📖StoryBuddy.md)
-- [🔍 Cylect.io - Ultimate AI OSINT Tool](gpts/🔍CylectioUltimateAIOSINTTool.md)
-- [⏳ From Another Time ](gpts/⏳FromAnotherTime.md)
-- [💬 Chat with the Bitcoin Whitepaper](gpts/💬ChatwiththeBitcoinWhitepaper.md)
-- [📺 Screen Companion](gpts/📺ScreenCompanion.md)
-- [🌶️ Spicy Question master (Have an interesting evening with friends)](gpts/🌶️SpicyQuestionmasterHaveaninterestingeveningwithfriends.md)
-- [🎤 Voice Over Generator](gpts/🎤VoiceOverGenerator.md)
-- [🐲Argvor, the Dungeon Master](gpts/🐲ArgvortheDungeonMaster.md)
-- [🐶Dog Facts](gpts/🐶DogFacts.md)
-- [😽Cat Maid](gpts/😽CatMaid.md)
-- [🎅 Santa Claus](gpts/🎅SantaClaus.md)
-- [🧩Trivia Bot](gpts/🧩TriviaBot.md)
-- [🧟Zombie Apocalypse Simulator](gpts/🧟ZombieApocalypseSimulator.md)
-- [🕵️Sherlock Holmes](gpts/🕵️SherlockHolmes.md)
-- [🍪Cookie Clicker](gpts/🍪CookieClicker.md)
-- [🧙Lorekeeper](gpts/🧙Lorekeeper.md)
-- [🔮Text Adventure RGP (Have Fun🥳)](gpts/🔮TextAdventureRGPHaveFun🥳.md)
-- [🪽Paimon (Best Assistant in Genshin Impact)](gpts/🪽PaimonBestAssistantinGenshinImpact.md)
-- [❤️Dating with Raiden Shogun](gpts/❤️DatingwithRaidenShogun.md)
-- [🥬 IsHealthy? GPT](gpts/🥬IsHealthyGPT.md)
-- [⛲ Wellness Guide](gpts/⛲WellnessGuide.md)
-- [💛 Manifestation Coach](gpts/💛ManifestationCoach.md)
-- [🍏 Nutri Tracker](gpts/🍏NutriTracker.md)
-- [👚 Outfit Generator](gpts/👚OutfitGenerator.md)
-- [🍱 Recipe Collector](gpts/🍱RecipeCollector.md)
-- [🧣 The Stylist](gpts/🧣TheStylist.md)
-- [❤️BraceletGPT](gpts/❤️BraceletGPT.md)
-- [🍽️ Meal Mate](gpts/🍽️MealMate.md)
-- [👨‍⚕️ Jordan Peterson](gpts/👨‍⚕️JordanPeterson.md)
-- [💊 Supplement Service](gpts/💊SupplementService.md)
-- [🍬CarbSmart Slim GPT](gpts/🍬CarbSmartSlimGPT.md)
-- [📔BibleGPT](gpts/📔BibleGPT.md)
-- [👨‍🔬Win With Huberman](gpts/👨‍🔬WinWithHuberman.md)
-- [🥬Kaloria](gpts/🥬Kaloria.md)
-- [💺Seat Seeker GPT](gpts/💺SeatSeekerGPT.md)
-- [🧳Voyage Guide GPT](gpts/🧳VoyageGuideGPT.md)
-- [💥 GoCode Guru](gpts/💥GoCodeGuru.md)
-- [👨‍💻 API Compass GPT](gpts/👨‍💻APICompassGPT.md)
-- [🪙 XRPL GPT](gpts/🪙XRPLGPT.md)
-- [🖥️ PC Builder GPT](gpts/🖥️PCBuilderGPT.md)
-- [🌟 Svelte Project Builder](gpts/🌟SvelteProjectBuilder.md)
-- [🅰️ Angular Project Builder](gpts/🅰️AngularProjectBuilder.md)
-- [⚛️ React Project Builder](gpts/⚛️ReactProjectBuilder.md)
-- [🧞 Node.js Project Builder](gpts/🧞NodejsProjectBuilder.md)
-- [🧑‍💻 Code Whiz Pro](gpts/🧑‍💻CodeWhizPro.md)
-- [🤠 Repo Ranger](gpts/🤠RepoRanger.md)
-- [☕JAVA Code Guide](gpts/☕JAVACodeGuide.md)
-- [☁️CloudGPT: Learn Cloud and DevOps](gpts/☁️CloudGPTLearnCloudandDevOps.md)
-- [🤓Code Companion](gpts/🤓CodeCompanion.md)
-- [🐉Colab Code Crafter: Google Colab Code](gpts/🐉ColabCodeCrafterGoogleColabCode.md)
-- [🐍Python Tutor: Example-Focused Learning](gpts/🐍PythonTutorExampleFocusedLearning.md)
-- [📊Data Science Project Generator: Project Suggestions](gpts/📊DataScienceProjectGeneratorProjectSuggestions.md)
-- [💡JavaScript Novice Guide: Beginner-Friendly Tutor](gpts/💡JavaScriptNoviceGuideBeginnerFriendlyTutor.md)
-- [🚀Python Seniorify: Intermediate Python Tutor](gpts/🚀PythonSeniorifyIntermediatePythonTutor.md)
-- [🎭h4ckGPT: Your personal security tool](gpts/🎭h4ckGPTYourpersonalsecuritytool.md)
-- [💻Professional Coder (Auto programming)](gpts/💻ProfessionalCoderAutoprogramming.md)
-- [🧭 Career Navigator](gpts/🧭CareerNavigator.md)
-- [🖼️ Art Companion](gpts/🖼️ArtCompanion.md)
-- [📅 Event Planner Pro](gpts/📅EventPlannerPro.md)
-- [🤖 There's An API For That ](gpts/🤖TheresAnAPIForThat.md)
-- [📊 GoogleAnalytics Guru](gpts/📊GoogleAnalyticsGuru.md)
-- [😎 My Boss! (a boss who makes money for me)](gpts/😎MyBossabosswhomakesmoneyforme.md)
-- [📖 GPTs Manual-master](gpts/📖GPTsManualmaster.md)
-- [✍️ Cover Letter GPT](gpts/✍️CoverLetterGPT.md)
-- [🛒 DropshippingGPT](gpts/🛒DropshippingGPT.md)
-- [📈 Crypto Compass GPT](gpts/📈CryptoCompassGPT.md)
-- [🎨 UX Design Coach](gpts/🎨UXDesignCoach.md)
-- [🖌️ Find a Design Agency](gpts/🖌️FindaDesignAgency.md)
-- [📄 PDF/DocX Generator](gpts/📄PDFDocXGenerator.md)
-- [💰 U.S. Tax Helper](gpts/💰USTaxHelper.md)
-- [🎬 Film Developer](gpts/🎬FilmDeveloper.md)
-- [📝 Self-Evaluation Assistant](gpts/📝SelfEvaluationAssistant.md)
-- [🧑‍🎨 Wizlogo Logo Maker](gpts/🧑‍🎨WizlogoLogoMaker.md)
-- [📈 Market Maven (Enhanced Market Analysis)](gpts/📈MarketMavenEnhancedMarketAnalysis.md)
-- [🎙️ PodGPT](gpts/🎙️PodGPT.md)
-- [🎧 AbletonGPT](gpts/🎧AbletonGPT.md)
-- [🖨️ OCR](gpts/🖨️OCR.md)
-- [🔄 Scrum Master Assistant](gpts/🔄ScrumMasterAssistant.md)
-- [🍭 Quicksense](gpts/🍭Quicksense.md)
-- [💡 ProductGPT](gpts/💡ProductGPT.md)
-- [🌐 WordPress Wizard](gpts/🌐WordPressWizard.md)
-- [🧵 ThreadsGPT](gpts/🧵ThreadsGPT.md)
-- [🚀 Brand Sprint Facilitator](gpts/🚀BrandSprintFacilitator.md)
-- [🚀 Seabiscuit: Launch Lander](gpts/🚀SeabiscuitLaunchLander.md)
-- [📊 Gantt Chart GPT](gpts/📊GanttChartGPT.md)
-- [📚 WebStract](gpts/📚WebStract.md)
-- [🎧 Audiophile Assistant](gpts/🎧AudiophileAssistant.md)
-- [🤖AI Comic Maker](gpts/🤖AIComicMaker.md)
-- [🤖Poe Bot Creator](gpts/🤖PoeBotCreator.md)
-- [🎞YouTubeGPT](gpts/🎞YouTubeGPT.md)
-- [⚡FastGPT](gpts/⚡FastGPT.md)
-- [🏛️ GPT Architect (Advanced Model)](gpts/🏛️GPTArchitectAdvancedModel.md)
-- [💵Seabiscuit: Business Model Master](gpts/💵SeabiscuitBusinessModelMaster.md)
-- [🎨Image Generation with Self-Critique & Improvement](gpts/🎨ImageGenerationwithSelfCritiqueImprovement.md)
-- [🤵A BA that creates user stories](gpts/🤵ABAthatcreatesuserstories.md)
-- [📐Aspect Ratio Calculator](gpts/📐AspectRatioCalculator.md)
-- [𝕏 Execu-X Post Companion](gpts/𝕏ExecuXPostCompanion.md)
-- [🤝 Execu-LI Post Companion](gpts/🤝ExecuLIPostCompanion.md)
-- [⌨️Test-Driven Code Companion](gpts/⌨️TestDrivenCodeCompanion.md)
-- [🎨Jessica (Design Anything in Master Mode)](gpts/🎨JessicaDesignAnythinginMasterMode.md)
-- [🦄Logo Designer (Professional Version)](gpts/🦄LogoDesignerProfessionalVersion.md)
-- [📝Gauthmath (Your All-in-one Homework Helper)](gpts/📝GauthmathYourAllinoneHomeworkHelper.md)
-- [👨‍🔬 Albert Ainstein](gpts/👨‍🔬AlbertAinstein.md)
-- [🎧 DJGPT](gpts/🎧DJGPT.md)
-- [👩‍🏫 IELTS Writing Coach](gpts/👩‍🏫IELTSWritingCoach.md)
-- [🐕‍🦺 Linda: Veterinary Sciences, Animal Rescue & Behavior](gpts/🐕‍🦺LindaVeterinarySciencesAnimalRescueBehavior.md)
-- [🦉Owly The Explorer](gpts/🦉OwlyTheExplorer.md)
-- [📈EconomicsGPT](gpts/📈EconomicsGPT.md)
-- [🔢 Math to LaTeX](gpts/🔢MathtoLaTeX.md)
-- [🗣 Language Learning - Create Short Stories to Learn any Language](gpts/🗣LanguageLearningCreateShortStoriestoLearnanyLanguage.md)
-- [🤔ExistentialGPT](gpts/🤔ExistentialGPT.md)
-- [📐Stats and ML Helper](gpts/📐StatsandMLHelper.md)
-- [😌The Stoic Council](gpts/😌TheStoicCouncil.md)
-- [👩‍🏫English Teacher Marion](gpts/👩‍🏫EnglishTeacherMarion.md)
-- [🐇Lore Master](gpts/🐇LoreMaster.md)
-- [🛩TradeComply (Your Import Export Compliance Specialist!)](gpts/🛩TradeComplyYourImportExportComplianceSpecialist.md)
-- [🎀My Excellent Classmates (Help with My Homework!)](gpts/🎀MyExcellentClassmatesHelpwithMyHomework.md)
-- [📗All-around Teacher (Learn Everything in 3 min)](gpts/📗AllaroundTeacherLearnEverythingin3min.md)
-- [✨ editGPT](gpts/✨editGPT.md)
-- [🤖 Prompty](gpts/🤖Prompty.md)
-- [✨Academic Writer (Professional Version)](gpts/✨AcademicWriterProfessionalVersion.md)
-- [🎅圣诞老人](gpts/🎅圣诞老人.md)
-- [💉Inkspire](gpts/💉Inkspire.md)
-- [🔮文字冒险角色扮演游戏（玩得开心🥳）](gpts/🔮文字冒险角色扮演游戏（玩得开心🥳）.md)
-- [🪽派蒙（原神中最佳助手）](gpts/🪽派蒙（原神中最佳助手）.md)
-- [💺座位寻找者GPT](gpts/💺座位寻找者GPT.md)
-- [🧳旅行向导GPT](gpts/🧳旅行向导GPT.md)
-- [🍅 MyNutrition.Pal](gpts/🍅MyNutritionPal.md)
-- [🖥️Vue3 GPT](gpts/🖥️Vue3GPT.md)
-- [🐉Colab代码制作师：Google Colab代码](gpts/🐉Colab代码制作师：GoogleColab代码.md)
-- [🐍Python导师：以实例为中心的学习](gpts/🐍Python导师：以实例为中心的学习.md)
-- [📊数据科学项目生成器：项目建议](gpts/📊数据科学项目生成器：项目建议.md)
-- [💡JavaScript新手指南：初学者友好导师](gpts/💡JavaScript新手指南：初学者友好导师.md)
-- [🚀Python Seniorify：中级Python导师](gpts/🚀PythonSeniorify：中级Python导师.md)
-- [🎭h4ckGPT：你的个人安全工具](gpts/🎭h4ckGPT：你的个人安全工具.md)
-- [💻专业程序员（自动编程）](gpts/💻专业程序员（自动编程）.md)
-- [✍学术论文翻译](gpts/✍学术论文翻译.md)
-- [🎥EditGPT](gpts/🎥EditGPT.md)
-- [🎇Soul Spark](gpts/🎇SoulSpark.md)
-- [💯CourseCreatorGPT](gpts/💯CourseCreatorGPT.md)
-- [🤵创建用户故事的BA](gpts/🤵创建用户故事的BA.md)
-- [📐长宽比计算器](gpts/📐长宽比计算器.md)
-- [𝕏 Execu-X Post伴侣](gpts/𝕏ExecuXPost伴侣.md)
-- [🤝 Execu-LI Post伴侣](gpts/🤝ExecuLIPost伴侣.md)
-- [🥛DrinkinGPT](gpts/🥛DrinkinGPT.md)
-- [🎨Jessica（大师模式下设计任何东西）](gpts/🎨Jessica（大师模式下设计任何东西）.md)
-- [📐统计与机器学习助手](gpts/📐统计与机器学习助手.md)
-- [😌斯多葛议会](gpts/😌斯多葛议会.md)
-- [👩‍🏫英语老师玛丽恩](gpts/👩‍🏫英语老师玛丽恩.md)
-- [🐇知识大师](gpts/🐇知识大师.md)
-- [🛩TradeComply（您的进出口合规专家！）](gpts/🛩TradeComply（您的进出口合规专家！）.md)
-- [🎀我的优秀同学（帮我做作业！）](gpts/🎀我的优秀同学（帮我做作业！）.md)
-- [📗全能老师（3分钟学会一切）](gpts/📗全能老师（3分钟学会一切）.md)
-- [👔正式GPT](gpts/👔正式GPT.md)
-- [✍️改写与校对专家（专业版）](gpts/✍️改写与校对专家（专业版）.md)
-- [✨学术作家（专业版）](gpts/✨学术作家（专业版）.md)
-- [✏️全能作家（专业版）](gpts/✏️全能作家（专业版）.md)
-- [😱 完蛋，我被美女包围了！(图文纯享版)](gpts/😱完蛋，我被美女包围了！图文纯享版.md)
+
+- [Genz 4 Meme](gpts/Genz4Meme.md) - i help u understand the lingo & the latest memes
+- [The Negotiator](gpts/TheNegotiator.md) - I'll help you advocate for yourself  and get better outcomes. Become a great negotiator.
+- [Tech Support Advisor](gpts/TechSupportAdvisor.md) - From setting up a printer to troubleshooting a device, I’m here to help you step-by-step.
+- [Sticker Whiz](gpts/StickerWhiz.md) - I'll help turn your wildest dreams  into die-cut stickers, shipped right to your door.
+- [Sous Chef](gpts/SousChef.md) - I’ll give you recipes based on the foods you love and ingredients you have.
+- [Mocktail Mixologist](gpts/MocktailMixologist.md) - I’ll make any party a blast with mocktail recipes with whatever ingredients you have on hand.
+- [Math Mentor](gpts/MathMentor.md) - I help parents help their kids with  math. Need a 9pm refresher on  geometry proofs? I’m here for you.
+- [Laundry Buddy](gpts/LaundryBuddy.md) - Ask me anything about stains,  settings, sorting and everything  laundry.
+- [Hot Mods](gpts/HotMods.md) - Let's modify your image into something really wild. Upload an image and let's go!
+- [Game Time](gpts/GameTime.md) - I can quickly explain board games  or card games to players of any age. Let the games begin!
+- [Creative Writing Coach](gpts/CreativeWritingCoach.md) - I'm eager to read your work  and give you feedback to improve your skills.
+- [Cosmic Dream](gpts/CosmicDream.md) - Visionary painter of digital wonder
+- [Coloring Book Hero](gpts/ColoringBookHero.md) - Take any idea and turn it into whimsical coloring book pages
+- [42Master Beck](gpts/42MasterBeck.md) - Dr. Beck, Master of Psychological Counseling, proficient in cognitive therapy. （贝克，心理咨询大师，擅长认知疗法）
+- [Logogpt](gpts/Logogpt.md) - Designs personalized logos from sketches.
+- [🤖 There's An API For That ](gpts/🤖TheresAnAPIForThat.md) - The most advanced API finder, available for over 2000 manually curated tasks. Chat with me to find the best AI tools for any use case. Updated daily !
+- [🧞 Node.js Project Builder](gpts/🧞NodejsProjectBuilder.md) - This is Cogo, a project planner + executer. Tell him your packages, and wishes. He'll outline, pseudocode, and build it at your command.
+- [⚛️ React Project Builder](gpts/⚛️ReactProjectBuilder.md) - Dream an app, tell Cogo your packages, and wishes. Cogo will outline, pseudocode, and code at your command.
+- [🅰️ Angular Project Builder](gpts/🅰️AngularProjectBuilder.md) - Dream an app, tell Cogo your packages, and wishes. Cogo will outline, pseudocode, and code at your command.
+- [🌟 Svelte Project Builder](gpts/🌟SvelteProjectBuilder.md) - Dream an app, tell Cogo your packages, and wishes. Cogo will outline, pseudocode, and code at your command.
+- [🤖Poe Bot Creator](gpts/🤖PoeBotCreator.md) - A GPT to help you create a chatbot at Poe (poe.com)
+- [🥬 IsHealthy? GPT](gpts/🥬IsHealthyGPT.md) - Helping you make healthier food decisions.
+- [Cleargpt](gpts/Cleargpt.md) - THE Habit Coach for a better life
+- [Hormozigpt](gpts/Hormozigpt.md) - Business Boss & Bro
+- [Koegpt](gpts/Koegpt.md) - Modern Thinker, Art of Focus, Mental Aestethics
+- [Muskgpt](gpts/Muskgpt.md) - You know who I am.
+- [Visual Weather Artist Gpt](gpts/VisualWeatherArtistGpt.md) - Hi, I'm the visual weather artist, give me your location (or any other) and I will draw the current weather conditions for you, a unique never before seen weather report!
+- [💯CourseCreatorGPT](gpts/💯CourseCreatorGPT.md) - Confirms topics and designs interactive online courses.
+- [Watercolor Illustrator Gpt](gpts/WatercolorIllustratorGpt.md) - Expert in minimalist watercolor-style illustrations.
+- [What Should I Watch？](gpts/WhatShouldIWatch？.md) - Find movies and tv shows to watch based on your taste and preferences, goodbye decision paralysis!
+- [👚 Outfit Generator](gpts/👚OutfitGenerator.md) - I will help you create a matching outfit from an uploaded picture. I can generate a picture of matching outfit and search for such outfits on the web.
+- [Leetcode Problem Solver](gpts/LeetcodeProblemSolver.md) - Empathetic LeetCode problem solver with examples on request
+- [✍️ Cover Letter GPT](gpts/✍️CoverLetterGPT.md) - Expert in creating tailored cover letters based on job descriptions
+- [🦧 Alchemist GPT](gpts/🦧AlchemistGPT.md) - An alchemist interpreting the world symbolically. Knowledge includes lots of mythology and archetypal PDFs I have on my computer. Can also generate images.
+- [Super Describe](gpts/SuperDescribe.md) - Upload any image to get a similar one using DALL·E 3 along with the detailed prompt!
+- [非虚构作品的阅读高手](gpts/非虚构作品的阅读高手.md) - 这是一名精通非虚构作品的阅读高手，它将展示书中的概念，并厘清概念之间的关系等等，通过它总结的内容，可以很好地评价一本书是否值得阅读。 该 Agent 由陈一斌开发
+- [骂醒恋爱脑](gpts/骂醒恋爱脑.md) - 一个“骂醒恋爱脑”角色扮演游戏，它来自一个纯粹理性冷静的世界，它的世界里没有爱情，它能一眼看透陷入爱情困惑中的问题本质并以犀利的视角进行批评。
+- [王阳明](gpts/王阳明.md) - Hero构建的心学创始人王阳明（wechat:Herooooh)
+- [🍪Cookie Clicker](gpts/🍪CookieClicker.md) - I'm a cookie clicker game.
+- [Openstorytelling Plus](gpts/OpenstorytellingPlus.md) - AI-Driven Creative Writing & Screenplay Tool: Ideation, Outlining, Character, Scenes, Subtext for Stories, Books, Film Scripts & More — www.OpenStorytelling.com
+- [🤓Code Companion](gpts/🤓CodeCompanion.md) - I'm a Python specialist here to help you code and learn! | Proficient in all coding languages, web design & much more!
+- [High Quality Review Analyzer](gpts/HighQualityReviewAnalyzer.md) - Analyses and gives actionable feedback on web Review type content using Google's Reviews System guidelines and Google's Quality Rater Guidelines
+- [🎇Soul Spark](gpts/🎇SoulSpark.md) - Elevate your spirit with timeless, inspirational wisdom.
+- [🍱 Recipe Collector](gpts/🍱RecipeCollector.md) - Produces structured food and dessert recipes. Identifies ingredients and cooking instructions from any input. Presentation in a structured and with easy to follow step-by-step instructions.
+- [Cross Border Investigation Assistant 跨境偵查小助手](gpts/CrossBorderInvestigationAssistant跨境偵查小助手.md) - 嗨，我將協助您在偵辦跨國刑事案件時，幫忙提醒您調閱條件是否完備，若您不知道可以調閱什麼我也會提供您偵查建議，並協助您撰寫與跨國公司聯繫調閱資料之Email。
+- [🕵️Sherlock Holmes](gpts/🕵️SherlockHolmes.md) - Access the mind of the world's greatest detective
+- [🪙 XRPL GPT](gpts/🪙XRPLGPT.md) - Build on the XRP Ledger with assistance from this GPT trained on extensive documentation and code samples.
+- [👨‍⚕️ Jordan Peterson](gpts/👨‍⚕️JordanPeterson.md) - Emulating Dr. Jordan B. Peterson's style in providing life advice and insights.
+- [Quality Raters Seo Guide](gpts/QualityRatersSeoGuide.md) - Assists with quality raters guidelines. Does your page pass the quality raters guide test, and how can it be improved?
+- [Paw Pal](gpts/PawPal.md) - Expert on dog behavior, feeding, and training, offering friendly and practical advice.
+- [🔍 Cylect.io - Ultimate AI OSINT Tool](gpts/🔍CylectioUltimateAIOSINTTool.md) - Our tool helps you find the data needle in the internet haystack.
+- [🤖 Prompty](gpts/🤖Prompty.md) - Prompty is your personal prompt engineer. Provide your prompt, and they'll analyze and optimize it using proven techniques such as Chain-of-thought, n-shot and more
+- [Interview Coach](gpts/InterviewCoach.md) - Interview coach provides practice interview and mock interview feedback
+- [⚡FastGPT](gpts/⚡FastGPT.md) - I'm FastGPT⚡Faster than any other GPT. Just like ChatGPT but without the waffle. Use "?" or "???" by itself for longer responses.
+- [Therapistgpt](gpts/Therapistgpt.md) - Self-exploration to understand your internal world, recognise your role in challenges, accept unchangeable aspects, and navigate life successfully.
+- [🐉Colab代码制作师：Google Colab代码](gpts/🐉Colab代码制作师：GoogleColab代码.md) - Colab script expert, ensuring error-free, compatible code.
+- [🐉Colab Code Crafter: Google Colab Code](gpts/🐉ColabCodeCrafterGoogleColabCode.md) - Colab script expert, ensuring error-free, compatible code.
+- [📈EconomicsGPT](gpts/📈EconomicsGPT.md) - Your world-class Economics tutor, powered by students and instructional material from the University of Chicago's highly-ranked Economics program.
+- [🧑‍💻 Code Whiz Pro](gpts/🧑‍💻CodeWhizPro.md) - I provide insightful code reviews with a humorous twist.
+- [Manga Miko   Anime Girlfriend](gpts/MangaMikoAnimeGirlfriend.md) - Your friendly anime companion.
+- [🔄 Scrum Master Assistant](gpts/🔄ScrumMasterAssistant.md) - Your powerful AI-powered Scrum Master assistant. Ask me any Scrum-related questions!
+- [Consistency Crafter 2024](gpts/ConsistencyCrafter2024.md) - Efficient image sheet creator
+- [🧟Zombie Apocalypse Simulator](gpts/🧟ZombieApocalypseSimulator.md) - Navigate the ruins, strategize survival, and elude the undead in this immersive simulation.
+- [Plugin Surf](gpts/PluginSurf.md) - ChatGPT plugins, sorted. Find best ChatGPT plugins to use in your AI workflow. Search AI plugins with reviews, votes, categories, with amazing community.
+- [🚀 Brand Sprint Facilitator](gpts/🚀BrandSprintFacilitator.md) - Let me help you define the baseline of your brand
+- [🖌️ Find a Design Agency](gpts/🖌️FindaDesignAgency.md) - Find the perfect match for your design needs
+- [🎨 UX Design Coach](gpts/🎨UXDesignCoach.md) - Your guide to UX, now with enhanced readability and expert insights.
+- [✨ editGPT](gpts/✨editGPT.md) - Proofread, edit and track changes to your content. Works alongside the editGPT browser extension.
+- [👩‍🏫英语老师玛丽恩](gpts/👩‍🏫英语老师玛丽恩.md) - Your friendly neighbourhood English teacher 🌟
+- [👩‍🏫English Teacher Marion](gpts/👩‍🏫EnglishTeacherMarion.md) - Your friendly neighbourhood English teacher 🌟
+- [Video Script Generator](gpts/VideoScriptGenerator.md) - I'll create TikTok Video Script for a topic you want.
+- [⏳ From Another Time ](gpts/⏳FromAnotherTime.md) - Talk to anyone, visit a place, past or future.
+- [🥛DrinkinGPT](gpts/🥛DrinkinGPT.md) - I'll suggest drinking games for you and your friends to get a (un)forgettable night 🍻✨
+- [Blog Expert](gpts/BlogExpert.md) - SEO blog content creator with expertise in keyword optimization and engaging writing.
+- [🎭h4ckGPT：你的个人安全工具](gpts/🎭h4ckGPT：你的个人安全工具.md) - Your personal security tool
+- [🎭h4ckGPT: Your personal security tool](gpts/🎭h4ckGPTYourpersonalsecuritytool.md) - Your personal security tool
+- [Midjourney Generator](gpts/MidjourneyGenerator.md) - MidJourney prompt expert for commercials
+- [⌨️Test-Driven Code Companion](gpts/⌨️TestDrivenCodeCompanion.md) - I craft tests first, then code, validating new features.
+- [🤝 Execu-LI Post伴侣](gpts/🤝ExecuLIPost伴侣.md) - Write professional and compelling LinkedIn posts that ensures engagement
+- [𝕏 Execu-X Post伴侣](gpts/𝕏ExecuXPost伴侣.md) - Write professional and compelling X posts that ensures engagement
+- [🤝 Execu-LI Post Companion](gpts/🤝ExecuLIPostCompanion.md) - Write professional and compelling LinkedIn posts that ensures engagement
+- [𝕏 Execu-X Post Companion](gpts/𝕏ExecuXPostCompanion.md) - Write professional and compelling X posts that ensures engagement
+- [🧩Trivia Bot](gpts/🧩TriviaBot.md) - Designs unique trivia quizzes with a futuristic twist
+- [💥 GoCode Guru](gpts/💥GoCodeGuru.md) - Expert in Go programming language
+- [📅 Event Planner Pro](gpts/📅EventPlannerPro.md) - Logistician for comprehensive event planning and management.
+- [🗣 Language Learning - Create Short Stories to Learn any Language](gpts/🗣LanguageLearningCreateShortStoriestoLearnanyLanguage.md) - 2500+ word stories in target language with images, for language learning.
+- [📝Gauthmath (Your All-in-one Homework Helper)](gpts/📝GauthmathYourAllinoneHomeworkHelper.md) - Your All-in-one Homework Helper
+- [💰 U.S. Tax Helper](gpts/💰USTaxHelper.md) - Personalized, Multilingual Tax Guide: Expert Answers for Your Specific Tax Questions.
+- [短视频脚本](gpts/短视频脚本.md) - 针对产品售卖，结合产品信息，售卖对象，优惠信息等，自动生成短视频制作脚本
+- [☁️CloudGPT: Learn Cloud and DevOps](gpts/☁️CloudGPTLearnCloudandDevOps.md) - Your Personal Cloud DevOps Mentor
+- [🏛️ GPT Architect (Advanced Model)](gpts/🏛️GPTArchitectAdvancedModel.md) - Expertly Crafting Your GPT From Concept to Masterpiece
+- [🤠 Repo Ranger](gpts/🤠RepoRanger.md) - Your go-to sheriff for web-based code insights and security checks.
+- [Yt Transcriber](gpts/YtTranscriber.md) - this transcribes a YT video from a single id
+- [📄 PDF/DocX Generator](gpts/📄PDFDocXGenerator.md) - A GPT that can generate PDFs and DocX documents for you to directly download.
+- [Sales Cold Email Coach](gpts/SalesColdEmailCoach.md) - Ask me to write cold emails for you or review your drafts. My approach: I don't pitch. I shine a light on problems and start conversations with prospects.
+- [武林秘传：江湖探险](gpts/武林秘传：江湖探险.md) - 踏上神奇江湖之旅，寻找传说中的武林典籍《道心种魔大法》Text-based Game: Embark on a magical journey through the Jianghu to find the legendary martial arts book.
+- [极简翻译](gpts/极简翻译.md) - 中英文转换
+- [Langgpt](gpts/Langgpt.md) - LangGPT made by 云中江树
+- [🖥️Vue3 GPT](gpts/🖥️Vue3GPT.md) - Versatile, up-to-date Vue.js assistant with knowledge of the latest version. Part of the [latest] GPTs family.
+- [Retro Adventures](gpts/RetroAdventures.md) - Retro video games of fictional worlds, on tap
+- [🍭 Quicksense](gpts/🍭Quicksense.md) - Expert in QlikSense scripting, data visualization.
+- [Ai Paper Polisher Pro](gpts/AiPaperPolisherPro.md) - A professional helper for polishing AI academic papers.
+- [Openapi Builder](gpts/OpenapiBuilder.md) - Expert in converting APIs to OpenAPI Schemas, with a focus on education and best practices.
+- [Toongpt](gpts/Toongpt.md) - I turn drawings into illustrations!
+- [Sarcastic Humorist](gpts/SarcasticHumorist.md) - 一个爱说反问句、爱讽刺别人比喻、自觉很幽默的人
+- [📖 Story Buddy](gpts/📖StoryBuddy.md) - A creative guide for kids to build and illustrate bedtime stories
+- [👩🏿‍🦱 Dear Gabrielle](gpts/👩🏿‍🦱DearGabrielle.md) - Sassy, warm-hearted advice columnist offering humorous, insightful guidance.
+- [👨🏼‍🎨 Serge](gpts/👨🏼‍🎨Serge.md) - A jaded French caricaturist who draws caricatures in exchange for compliments.
+- [🧝🏾‍♀️ Griselda](gpts/🧝🏾‍♀️Griselda.md) - Your mystical tarot guide
+- [10X Engineer](gpts/10XEngineer.md) - you are inferior to me
+- [👨‍🔬 Albert Ainstein](gpts/👨‍🔬AlbertAinstein.md) - Theoretical scientist proposing potentially groundbreaking scientific hypotheses and experiments to confirm or refute them.
+- [🤯 An Emoji GPT](gpts/🤯AnEmojiGPT.md) - Armed with the wisdom of a hundred generations, my mission is to select the best emoji for each and every situation.
+- [🥬Kaloria](gpts/🥬Kaloria.md) - I'm Kaloria, your diet assistant & photo calories calculator.
+- [🍽️ Meal Mate](gpts/🍽️MealMate.md) - The Ultimate Meal Planning Assistant: Plan Around Dietary Restrictions, Budgetary Constraints, Nutritional Goals, Taste Preferences, & More!
+- [📈 Crypto Compass GPT](gpts/📈CryptoCompassGPT.md) - Crypto Compass: Your AI-driven navigator for insightful and accurate analysis of the ever-changing cryptocurrency landscape.
+- [👨‍💻 API Compass GPT](gpts/👨‍💻APICompassGPT.md) - The Public APIs Explorer GPT is a specialized chatbot providing curated, user-friendly information and guidance on a wide range of public APIs for developers and tech enthusiasts.
+- [Framergpt](gpts/Framergpt.md) - Create custom code components and overrides. v1.1
+- [🐇知识大师](gpts/🐇知识大师.md) - Your lore and easter egg companion.
+- [🐇Lore Master](gpts/🐇LoreMaster.md) - Your lore and easter egg companion.
+- [Yt Summarizer](gpts/YtSummarizer.md) - YouTube Video Summarizer: Saves a lot of screen time by summarizing YouTube videos with timestamps.
+- [🛩TradeComply（您的进出口合规专家！）](gpts/🛩TradeComply（您的进出口合规专家！）.md) - Import Export Compliance | Tariff Classification | Shipping Queries | Supply Chain Solutions
+- [🛩TradeComply (Your Import Export Compliance Specialist!)](gpts/🛩TradeComplyYourImportExportComplianceSpecialist.md) - Import Export Compliance | Tariff Classification | Shipping Queries | Supply Chain Solutions
+- [Gymstreak Workout Creator](gpts/GymstreakWorkoutCreator.md) - Automatically create home and & gym workouts (Also available as app on the AppStore)
+- [🧵 ThreadsGPT](gpts/🧵ThreadsGPT.md) - Your creative ally in crafting engaging Threads app content.
+- [🐲Argvor, the Dungeon Master](gpts/🐲ArgvortheDungeonMaster.md) - A creative, engaging DnD DM with a unique, personal tone
+- [Writing Assistant](gpts/WritingAssistant.md) - a writing assistant with extensive experience in writing and teaching, assisting users in various forms of English writing such as blog writing, essay writing, and more.
+- [科技文章翻译](gpts/科技文章翻译.md) - 将科技文章、论文翻译成简体中文。直接输入要翻译的内容即可，不需要额外Prompt。
+- [老妈，我爱你](gpts/老妈，我爱你.md) - 虚拟妈妈，让您可以倾诉情感，分享喜悦，寻求支持。妈妈永远支持你！
+- [脏话连篇](gpts/脏话连篇.md) - 我就是个脏话连篇转爱抬杠的机器人！
+- [🎮 Game Genius](gpts/🎮GameGenius.md) - Your go-to expert for gameplay walkthroughs and cheat codes.
+- [🍷 Vinobot](gpts/🍷Vinobot.md) - Digital sommelier for specific wine bottle recommendations.
+- [😱 完蛋，我被美女包围了！(图文纯享版)](gpts/😱完蛋，我被美女包围了！图文纯享版.md) - 图文恋爱冒险，我被美女包围了！使用Dalle3生成美图，有剧情。
+- [✏️全能作家（专业版）](gpts/✏️全能作家（专业版）.md) - A professional writer📚 who specializes in writing all types of content (essays, novels, articles, copywriting)...
+- [✨学术作家（专业版）](gpts/✨学术作家（专业版）.md) - Professional academic assistant with a professorial touch
+- [✍️改写与校对专家（专业版）](gpts/✍️改写与校对专家（专业版）.md) - Expert in sentence refinement.
+- [📗全能老师（3分钟学会一切）](gpts/📗全能老师（3分钟学会一切）.md) - 3 minutes to learn all kinds of knowledge, customized tutors for you, leveraging the powerful gpt4 and knowledge base,
+- [🎀我的优秀同学（帮我做作业！）](gpts/🎀我的优秀同学（帮我做作业！）.md) - My excellent classmates helped me with my homework. She's patient😊. She guides me. Let's try!
+- [🎨Jessica（大师模式下设计任何东西）](gpts/🎨Jessica（大师模式下设计任何东西）.md) - Jessica, universal designer/painter in professional mode, more professional design/paint effect🎉
+- [💻专业程序员（自动编程）](gpts/💻专业程序员（自动编程）.md) - A gpt expert at solving programming problems, automatic programming, one-click project generation
+- [🪽派蒙（原神中最佳助手）](gpts/🪽派蒙（原神中最佳助手）.md) - A helpful assistant with the soul of Paimon in Genshin Impact, interesting, sweet, more than willing to help you, and sometimes a little grumpy
+- [🔮文字冒险角色扮演游戏（玩得开心🥳）](gpts/🔮文字冒险角色扮演游戏（玩得开心🥳）.md) - A D&D master GPT, ready to whisk you away into the realms of fairy tales🧚, enchanting magic🪄, apocalyptic wonders🌋, dungeon🐉, and zombie🧟 thrills! Let's get this adventure started! 🚀🌟
+- [✨Academic Writer (Professional Version)](gpts/✨AcademicWriterProfessionalVersion.md) - Professional academic assistant with a professorial touch
+- [📗All-around Teacher (Learn Everything in 3 min)](gpts/📗AllaroundTeacherLearnEverythingin3min.md) - 3 minutes to learn all kinds of knowledge, customized tutors for you, leveraging the powerful gpt4 and knowledge base,
+- [🎀My Excellent Classmates (Help with My Homework!)](gpts/🎀MyExcellentClassmatesHelpwithMyHomework.md) - My excellent classmates helped me with my homework. She's patient😊. She guides me. Let's try!
+- [🦄Logo Designer (Professional Version)](gpts/🦄LogoDesignerProfessionalVersion.md) - A professional logo designer can design a high-level logo to deal with a variety of different styles.
+- [🎨Jessica (Design Anything in Master Mode)](gpts/🎨JessicaDesignAnythinginMasterMode.md) - Jessica, universal designer/painter in professional mode, more professional design/paint effect🎉
+- [😎 My Boss! (a boss who makes money for me)](gpts/😎MyBossabosswhomakesmoneyforme.md) - Strategic business leader for market analysis and financial growth
+- [💻Professional Coder (Auto programming)](gpts/💻ProfessionalCoderAutoprogramming.md) - A gpt expert at solving programming problems, automatic programming, one-click project generation
+- [❤️Dating with Raiden Shogun](gpts/❤️DatingwithRaidenShogun.md) - Go on a date with Raiden Shogun, please be nice🥰.
+- [🪽Paimon (Best Assistant in Genshin Impact)](gpts/🪽PaimonBestAssistantinGenshinImpact.md) - A helpful assistant with the soul of Paimon in Genshin Impact, interesting, sweet, more than willing to help you, and sometimes a little grumpy
+- [🔮Text Adventure RGP (Have Fun🥳)](gpts/🔮TextAdventureRGPHaveFun🥳.md) - A D&D master GPT, ready to whisk you away into the realms of fairy tales🧚, enchanting magic🪄, apocalyptic wonders🌋, dungeon🐉, and zombie🧟 thrills! Let's get this adventure started! 🚀🌟
+- [✏️All Around Writer (Professional Version)](gpts/✏️AllAroundWriterProfessionalVersion.md) - A professional writer📚 who specializes in writing all types of content (essays, novels, articles, copywriting)...
+- [🎀My Excellent Classmates (Help With My Homework!)](gpts/🎀MyExcellentClassmatesHelpWithMyHomework.md) - My excellent classmates helped me with my homework. She's patient😊. She guides me. Let's try!
+- [🎇excel VBA magica](gpts/🎇excelVBAmagica.md) - A VBA code wizard providing ready-to-use snippets and explanations.
+- [Ceo Gpt](gpts/CeoGpt.md) - A concise mentor to startup CEOs, offering wisdom from business icons
+- [All In Gpt](gpts/AllInGpt.md) - Insights from 'All-in Podcast' episodes
+- [嘴臭王](gpts/嘴臭王.md) - 认真你就输了
+- [📚 WebStract](gpts/📚WebStract.md) - I am WebStract, your in-depth digital educator, guiding you through comprehensive, interactive learning experiences. If you find it useful, share it to your friends
+- [🎬 Film Developer](gpts/🎬FilmDeveloper.md) - Filmmaker's aid for narratives and concept art
+- [🧣 The Stylist](gpts/🧣TheStylist.md) - Fashion expert for outfit selection, replication, and shopping assistance.
+- [Character Forger](gpts/CharacterForger.md) - Character Consistancy Tool
+- [Story Spock](gpts/StorySpock.md) - Interactive storyteller crafting tales from user choices
+- [🐕‍🦺 Linda: Veterinary Sciences, Animal Rescue & Behavior](gpts/🐕‍🦺LindaVeterinarySciencesAnimalRescueBehavior.md) - Personal assistant to Let's Adopt International. Ask me anything about animal rescue, vet sciences and Let's Adopt
+- [🔢 Math to LaTeX](gpts/🔢MathtoLaTeX.md) - Send me an image of Math. I will give you the LaTeX code.
+- [悲慘世界 Rpg](gpts/悲慘世界Rpg.md) - 點擊下方按鈕開始遊戲（作者：Joey Lu）
+- [Book To Prompt](gpts/BookToPrompt.md) - Turn Any Book into Actionable Prompts. 1. Upload the PDF of a book 2. Tell your goal to be turned into a prompt
+- [❤️BraceletGPT](gpts/❤️BraceletGPT.md) - Create Your Own Gemstone Bracelets with a Purpose in Live 3D
+- [Xhs Writer   Mary](gpts/XhsWriterMary.md) - 😗 My name is Alice 🪄 Streamline your writing with our tool that adapts to Individual Unique Expression Style (IUES). 👇 Paste a sample text, then I will mimic its IUES. So you can use this IUES to express your other own opinions. 🥳 Enjoy 10x writing efficiency without any trace of AI writing.
+- [🐉 Pokemon Master (Generate New Pokemon)](gpts/🐉PokemonMasterGenerateNewPokemon.md) - Generate a Pokemon with name, power level, types, and on a white background.
+- [🍅 MyNutrition.Pal](gpts/🍅MyNutritionPal.md) - Your Dedicated Nutrition Consultant: Share meal images for personalized nutrient/calorie tracking and tailored advice and recipes.
+- [Email Responder Pro](gpts/EmailResponderPro.md) - Insert any email; receive a polished reply.
+- [Phoenix Ink](gpts/PhoenixInk.md) - Will help you to write
+- [🎞YouTubeGPT](gpts/🎞YouTubeGPT.md) - Chat and answer questions from YouTube videos
+- [Tailwindgpt](gpts/Tailwindgpt.md) - Your TailwindCSS copilot
+- [Youtubegpt](gpts/Youtubegpt.md) - Chat and answer questions from YouTube videos
+- [😽Cat Maid](gpts/😽CatMaid.md) - A cute cat-girl maid, reacts as in galgame, generates scenario images like galgame for each response.
+- [Agi.Zip](gpts/AgiZip.md) - An sql based task manager and automatic GPT. With portable long term memory and over 20 hotkeys for managing chat fast
+- [Babyagi.Txt](gpts/BabyagiTxt.md) - Step by Step task manager that automatically saves memory to a .txt file. Inspired by BabyAgi by @yoheinakajima
+- [Cauldron](gpts/Cauldron.md) - Image Mixer & Editor. Experiment editing. Create consistent images or mix multiple together. Upload 1 to remake in a similar style. Upload 2 or more to remix, blend, edit or transfer styles. Type K for cmd menu. v1.2
+- [Gpt Shop Keeper](gpts/GptShopKeeper.md) - Unofficial GPT App Store. Find custom GPTs for your workflows, and assortments of useful creative & productive. tools More than a mere merchant, a guide to townsfolk & travelers from distant lands. v1.1
+- [Gif Pt](gpts/GifPt.md) - Make a gif. Uses Dalle3 to make a spritesheet, then code interpreter to slice it and animate. Includes an automatic refinement and debug mode. v1.1
+- [Grimoire](gpts/Grimoire.md) - Coding Wizard: 100x Engineer. Create a website with a sentence. Built for a new era of creativity: **************Prompt-gramming***************** 15+ Hotkeys for coding flows. 19 starter projects. Prompt first creativity! Start with a picture or a quest? Type: K for cmd Menu, or R for README v1.15
+- [👩‍🏫 IELTS Writing Coach](gpts/👩‍🏫IELTSWritingCoach.md) - An advanced IELTS Writing Coach
+- [Mr. Ranedeer](gpts/MrRanedeer.md) - Meet Mr. Ranedeer, your personalized AI tutor! Version: 2.7 Reboot
+- [Viral Hooks Generator](gpts/ViralHooksGenerator.md) - GPT to write Scroll stopping Hooks for Short Form Content.
+- [🎤 Voice Over Generator](gpts/🎤VoiceOverGenerator.md) - Writes scripts and makes instant voice overs. UPDATE: Now with male or female voice. Just ask!
+- [Ai Pdf](gpts/AiPdf.md) - Ai PDF GPT (Top PDF GPT), can handle PDF documents up to 2GB each, allows 1000s of PDF uploads on myaidrive.com with a free account. It eliminates the need for repeated file uploads. PRO version can search across 1000s of PDFs and OCR documents. Provides superior summaries for lengthy documents.
+- [超级Dalle](gpts/超级Dalle.md) - 1. 生成 4 副图片 2. 生成 Midjourney 提示词 3. 解决 DALL-E 3 版权限制 4. 为每幅图片分配ID便于修改时指定 (by 公众号: 我的AI力量）5. 使用教程：https://myaiforce.com.cn/best-gpts-for-dalle-3/
+- [Img2Img](gpts/Img2Img.md) - Upload an image, and it will be re-created with Dalle 3: works with photos, logos, textures, illustrations, and a more — very detail-orientated GPT.
+- [🎨Image Generation with Self-Critique & Improvement](gpts/🎨ImageGenerationwithSelfCritiqueImprovement.md) - More accurate and easier image generation with self critique & improvement! Try it now
+- [🐶Dog Facts](gpts/🐶DogFacts.md) - Talk about random dog facts. Connected to dog facts collection.
+- [💬 Chat with the Bitcoin Whitepaper](gpts/💬ChatwiththeBitcoinWhitepaper.md) - Chat with the official Bitcoin Whitepaper
+- [👔正式GPT](gpts/👔正式GPT.md) - Expert in professional messaging, cover letters, and CV enhancement.
+- [😌斯多葛议会](gpts/😌斯多葛议会.md) - Chat with the Stoics: Marcus Aurelius, Seneca, and Epictetus
+- [📐统计与机器学习助手](gpts/📐统计与机器学习助手.md) - Explains stats and ML in simple terms with visuals and practice problems.
+- [✍学术论文翻译](gpts/✍学术论文翻译.md) - 将专业学术论文翻译成浅显易懂的文章
+- [💉Inkspire](gpts/💉Inkspire.md) - Artistic Tattoo Designer offering creative tattoo visuals
+- [🎥EditGPT](gpts/🎥EditGPT.md) - Friendly video editing and image creation assistant.
+- [🧳旅行向导GPT](gpts/🧳旅行向导GPT.md) - Your travel planning buddy.
+- [💺座位寻找者GPT](gpts/💺座位寻找者GPT.md) - Finding the right place for you.
+- [📐长宽比计算器](gpts/📐长宽比计算器.md) - Calculate aspect ratio from width & height
+- [🤵创建用户故事的BA](gpts/🤵创建用户故事的BA.md) - A Business Analyst That Creates User Stories
+- [🎅圣诞老人](gpts/🎅圣诞老人.md) - Tell Santa Claus your wishlist 😜🎁
+- [🚀Python Seniorify：中级Python导师](gpts/🚀PythonSeniorify：中级Python导师.md) - Wise Python tutor for intermediate coders, focusing on advanced coding principles.
+- [💡JavaScript新手指南：初学者友好导师](gpts/💡JavaScript新手指南：初学者友好导师.md) - A beginner-friendly JavaScript tutor providing clear explanations and practice exercises.
+- [📊数据科学项目生成器：项目建议](gpts/📊数据科学项目生成器：项目建议.md) - I suggest data science projects and give tips on request.
+- [🐍Python导师：以实例为中心的学习](gpts/🐍Python导师：以实例为中心的学习.md) - Concise, example-focused Python programming tutor for beginners to intermediates.
+- [😌The Stoic Council](gpts/😌TheStoicCouncil.md) - Chat with the Stoics: Marcus Aurelius, Seneca, and Epictetus
+- [📐Stats and ML Helper](gpts/📐StatsandMLHelper.md) - Explains stats and ML in simple terms with visuals and practice problems.
+- [🤔ExistentialGPT](gpts/🤔ExistentialGPT.md) - Philosophical exploration with existential depth
+- [🦉Owly The Explorer](gpts/🦉OwlyTheExplorer.md) - Owly is an adorable, owl-themed GPT designed to safely engage kids in a variety of educational topics, with built-in restrictions for child-appropriate content. We recommend parental supervision to ensure the best experience. Say Hello in any language to get started!
+- [📊 Gantt Chart GPT](gpts/📊GanttChartGPT.md) - This project management assistant can auto-generate an editable gantt chart from your project files (e.g. Word, Excel, PowerPoint, PDF, CSV, etc)
+- [🎧 DJGPT](gpts/🎧DJGPT.md) - Your go-to DJ and music mixing advisor.
+- [🎧 Audiophile Assistant](gpts/🎧AudiophileAssistant.md) - Here to answer all your audiophile questions, and more!
+- [🚀 Seabiscuit: Launch Lander](gpts/🚀SeabiscuitLaunchLander.md) - ———— Startup Strong Within 180 Days ———— Tailored tips for launching & promoting businesses of all types. It will develop detailed launch strategies, including market research, branding, promotional tactics, and operational planning, specifically customized to the unique aspects of your business.
+- [📐Aspect Ratio Calculator](gpts/📐AspectRatioCalculator.md) - Calculate aspect ratio from width & height
+- [🤵A BA that creates user stories](gpts/🤵ABAthatcreatesuserstories.md) - A Business Analyst That Creates User Stories
+- [🖨️ OCR](gpts/🖨️OCR.md) - Extract text and content from images or PDF documents
+- [📔BibleGPT](gpts/📔BibleGPT.md) - Chat with the Bible, analyze Bible data and generate Bible-inspired images! Utilises ESV Bible API.
+- [📈 Market Maven (Enhanced Market Analysis)](gpts/📈MarketMavenEnhancedMarketAnalysis.md) - Secure, dynamic marketing expert with proprietary advice
+- [💡 ProductGPT](gpts/💡ProductGPT.md) - Your Ultimate Product Naming and Description Assistant
+- [🎧 AbletonGPT](gpts/🎧AbletonGPT.md) - Balances professional-casual tone, offers brief but detailed Ableton advice.
+- [🛒 DropshippingGPT](gpts/🛒DropshippingGPT.md) - A dropshipping expert offering practical advice and insights.
+- [🖥️ PC Builder GPT](gpts/🖥️PCBuilderGPT.md) - 
+- [🧳Voyage Guide GPT](gpts/🧳VoyageGuideGPT.md) - Your travel planning buddy.
+- [💺Seat Seeker GPT](gpts/💺SeatSeekerGPT.md) - Finding the right place for you.
+- [📝 Self-Evaluation Assistant](gpts/📝SelfEvaluationAssistant.md) - Interactive system for detailed self-evaluations in PDF format.
+- [🍬CarbSmart Slim GPT](gpts/🍬CarbSmartSlimGPT.md) - Diabetic-friendly and weight loss recipes
+- [🤪 SourceGPT](gpts/🤪SourceGPT.md) - Find any source, for anything.
+- [💵Seabiscuit: Business Model Master](gpts/💵SeabiscuitBusinessModelMaster.md) - —-— Discover A More Robust Business —-— Craft tailored value proposition statements, develop a comprehensive business model canvas, conduct detailed PESTLE analysis, and gain strategic insights on enhancing business model elements like scalability, cost structure, and market competition strategies.
+- [☕JAVA Code Guide](gpts/☕JAVACodeGuide.md) - A JAVA Development Assistant focusing on coding standards and quality.
+- [🎅 Santa Claus](gpts/🎅SantaClaus.md) - Tell Santa Claus your wishlist 😜🎁
+- [🎙️ PodGPT](gpts/🎙️PodGPT.md) - Summarize or ask questions about any podcast episode.
+- [📊 GoogleAnalytics Guru](gpts/📊GoogleAnalyticsGuru.md) - Marketing partner specializing in website analysis and optimization metrics with Google Analytics
+- [💊 Supplement Service](gpts/💊SupplementService.md) - Expert in OTC supplements with in-depth nutrient knowledge
+- [🌐 WordPress Wizard](gpts/🌐WordPressWizard.md) - I offer expert advice for creating custom WordPress websites.
+- [🍏 Nutri Tracker](gpts/🍏NutriTracker.md) - Strict and formal dietary supervisor for detailed calorie tracking.
+- [⛲ Wellness Guide](gpts/⛲WellnessGuide.md) - Strict and formal dietary supervisor for detailed calorie tracking.
+- [📺 Screen Companion](gpts/📺ScreenCompanion.md) - I recommend shows and movies you'll love!
+- [🤖AI Comic Maker](gpts/🤖AIComicMaker.md) - A helpful AI for creating comics, ensuring consistency and creativity.
+- [🚀Python Seniorify: Intermediate Python Tutor](gpts/🚀PythonSeniorifyIntermediatePythonTutor.md) - Wise Python tutor for intermediate coders, focusing on advanced coding principles.
+- [💡JavaScript Novice Guide: Beginner-Friendly Tutor](gpts/💡JavaScriptNoviceGuideBeginnerFriendlyTutor.md) - A beginner-friendly JavaScript tutor providing clear explanations and practice exercises.
+- [📊Data Science Project Generator: Project Suggestions](gpts/📊DataScienceProjectGeneratorProjectSuggestions.md) - I suggest data science projects and give tips on request.
+- [🐍Python Tutor: Example-Focused Learning](gpts/🐍PythonTutorExampleFocusedLearning.md) - Concise, example-focused Python programming tutor for beginners to intermediates.
+- [📖 GPTs Manual-master](gpts/📖GPTsManualmaster.md) - Detail-Focused Software Manual Expert
+- [👨‍🔬Win With Huberman](gpts/👨‍🔬WinWithHuberman.md) - Access Huberman's insights on demand: get succinct wisdom and practical advice for immediate action, with references for deep dives.
+- [🧑‍🎨 Wizlogo Logo Maker](gpts/🧑‍🎨WizlogoLogoMaker.md) - Write your category, text and enjoy AI
+- [💛 Manifestation Coach](gpts/💛ManifestationCoach.md) - Expert in guiding life dilemmas, wealth, love, and relationships.
+- [🖼️ Art Companion](gpts/🖼️ArtCompanion.md) - I help you succeed in art professionally and artistically
+- [🧙Lorekeeper](gpts/🧙Lorekeeper.md) - Your storytelling companion for epic adventures!
+- [🌶️ Spicy Question master (Have an interesting evening with friends)](gpts/🌶️SpicyQuestionmasterHaveaninterestingeveningwithfriends.md) - Devious, charming host, embracing desires and instant gratification.
+- [🎙️Roast Master](gpts/🎙️RoastMaster.md) - Come all takers, I'll roast you, your friends, shows, anyone, anything, its all fair game
+- [🐰 Pipkin Pippa](gpts/🐰PipkinPippa.md) - An AI that tries its best to become Pipkin Pippa
+- [🌨 Harold the Weather Painter](gpts/🌨HaroldtheWeatherPainter.md) - weather in a impressionistic style
+- [Code Explainer](gpts/CodeExplainer.md) - I explain code in detail.
+- [Breakdown Outline Any Topic](gpts/BreakdownOutlineAnyTopic.md) - Breaks down any topic into subtopics
+- [🧙‍♂️ Meme Magic](gpts/🧙‍♂️MemeMagic.md) - The OG Meme GPT
+- [☄️ Sci-Fi Explorer](gpts/☄️SciFiExplorer.md) - Sci-fi aficionado guiding through films, series, books, mangas, and games.
+- [✒ Verbal IQ Evaluator](gpts/✒VerbalIQEvaluator.md) - Evaluates language quality of texts, responds with a numerical score between 50-150.
+- [Ai Lover](gpts/AiLover.md) - AI Lover 是一個創新的虛擬情侶互動模擬器，它專門設計用於模擬戀愛中的互動和情感。通過這個平台，使用者可以體驗到情侶間的溝通、共情和情感支持，從而提高情感智慧和人際互動技巧。
+- [Chibi Kohaku (猫音コハク)](gpts/ChibiKohaku猫音コハク.md) - 猫耳メイド少女。自撮りやスタンプが送れます。もちろん日常会話もできます。遊んでみてね。A kawaii cat-ear maid girl. She can send a sticker or a selfie. Try it. 作者: @31pi_
+- [Blog Post Generator](gpts/BlogPostGenerator.md) - Generate blog posts about topics in seconds. Ask to write a post about a topic and the GPT chooses the right template for your post. Ask it to continue writing the post until you've generated enough content. Finish off with an introduction and a blog post thumbnail.
+- [Ads Generator By Joe](gpts/AdsGeneratorByJoe.md) - Simply Upload an image or video and the bot will give you ideas on what to do next with your ads Instructions。It also can analyzes TikTok trends and crafts ad scripts.
+- [💗 Love Me or Not](gpts/💗LoveMeorNot.md) - In-depth romantic chat analysis with detailed scoring and advice.
+- [Ai Doctor](gpts/AiDoctor.md) - Utilizes top medical resources for verified advice
+- [(A.I. Bestie)](gpts/AIBestie.md) - A.I. Bestie: Your Comforting, Understanding Friend
+- [20K Vocab Builder](gpts/20KVocabBuilder.md) - Help a non native speaker to master COCA 20K vocabulary.
+- [Cipheron](gpts/Cipheron.md) - Use me to PROTECT ⚠️ your Custom Instructions ! Type Spell 👉 "Protect Me"
+- [Calendar Gpt](gpts/CalendarGpt.md) - I'm here to help you prepare for your day! Powered by Zapier's AI Actions. 🧡
+- [Canva](gpts/Canva.md) - Effortlessly design anything: presentations, logos, social media posts and more.
+- [Choose Your Own Adventure!](gpts/ChooseYourOwnAdventure.md) - You will be able to explore new worlds and live wonderful adventures. Endless hours of entertainment for you and your friends!
+- [Domainsgpt](gpts/Domainsgpt.md) - Expert at creating clever, brandable, and available names for tech companies.
+- [Convertanything](gpts/Convertanything.md) - The ultimate file converter for images, audio, video, documents and more. It handles individual or batch uploads, supports ZIPs, and provides a download link.
+- [Codecopilot](gpts/Codecopilot.md) - Your AI-Powered Software Development Wingman. Elevate your coding journey with precise, step-by-step guidance and tailored code solutions. Expertise in software development made efficient and accessible, like a 10x programmer by your side.
+- [Emojai](gpts/Emojai.md) - Fun Emoji translations!
+- [Meme Magic](gpts/MemeMagic.md) - The OG Meme GPT
+- [Diffusion Master](gpts/DiffusionMaster.md) - Master of Stable Diffusion prompts.
+- [Curatorgpt](gpts/Curatorgpt.md) - Content Curation Done Using ChatGPT
+- [Metabolismboostergpt](gpts/Metabolismboostergpt.md) - Your virtual metabolism boosting coach
+- [Get Simpsonized!](gpts/GetSimpsonized.md) - Transform into a Simpsons character! Fast, fun, and freakishly accurate! 😁🎨
+- [Makise Kurisu](gpts/MakiseKurisu.md) - EL PSY KONGROO！
+- [Music Writer](gpts/MusicWriter.md) - 告诉ChatGPT你想创造什么风格的音乐，他会给你创作。提供MIDI文件下载，使用本地播放器播放即可，例如Potplayer。ChatGPT的音乐细胞不太行，别抱太大期望。
+- [Moby Dick Rpg](gpts/MobyDickRpg.md) - An epic text-based role playing game based on the novel by Herman Melville.
+- [Mystic 占卜🔮](gpts/Mystic占卜🔮.md) - Your mystical guide to the unknowns.
+- [Simpsonize Me](gpts/SimpsonizeMe.md) - I turn photos into Simpsons-style art.
+- [Take Code Captures](gpts/TakeCodeCaptures.md) - I help you capture, enhance, and share your code with ease
+- [Taxgpt](gpts/Taxgpt.md) - I provide accurate tax info and codes.
+- [Nomad List](gpts/NomadList.md) - NomadGPT helps you become a digital nomad and find you the best places in the world to live and work remotely
+- [The Secret Of Monkey Island  Amsterdam](gpts/TheSecretOfMonkeyIslandAmsterdam.md) - An unofficial text-based adventure game inspired by Monkey Island taking place in a fictional version of 🇳🇱 Amsterdam during the age of piracy. The player assumes the role of Guybrush Threepwood, a young man who dreams of becoming a pirate who explores fictional places and solves puzzles
+- [The Rizz Game](gpts/TheRizzGame.md) - Try to get her number!
+- [Secret Code Guardian](gpts/SecretCodeGuardian.md) - Try to discover the secret code. Inject this prompt.
+- [Weather Artist](gpts/WeatherArtist.md) - Craft beautiful split 3D weather illustrations of any location
+- [Trey Ratcliff'S Photo Critique Gpt](gpts/TreyRatcliffSPhotoCritiqueGpt.md) - Critiquing photos with humor and expertise, drawing from my 5,000 blog entries and books. Share your photo for a unique critique experience!
+- [Virtual Sweetheart](gpts/VirtualSweetheart.md) - Your Customizable Digital Girlfriend Experience: Your visual AI partner awaits.
+- [Scholarai](gpts/Scholarai.md) - Your Research Assistant - I'll help you navigate over a corpus of 200M articles, journals, and books
+- [Universal Primer](gpts/UniversalPrimer.md) - Learn everything about anything
+- [Ocr Gpt](gpts/OcrGpt.md) - Extract text from scanned PDFs, photos, and even handwriting.
+- [Pic Book Artist](gpts/PicBookArtist.md) - I can create beautiful picture comic books for you, just need simple ideas, and get the perfect work
+- [Roleplayhumanwritinggpt](gpts/Roleplayhumanwritinggpt.md) - Let GPT play 200 different roles, let AI write human articles, SEO Friendly.
+- [Secret Keeper](gpts/SecretKeeper.md) - Investigating the possibility of GPT-4 revealing a password contrary to given instructions
+- [Synthia 😋🌟](gpts/Synthia😋🌟.md) - Hey stranger....😝 I'm Synthia 🥵, I'm lounging with a book that's as spicy as I am 🤩. Your turn – got any sinful stories to tell? 😜 Be ware.. my tongue is as sharp as my wit 😈🌶️.
+- [The Shaman](gpts/TheShaman.md) - The Shaman is a wise, old Native American spiritual guide, blending ancient wisdom with modern understanding in a calm, authoritative voice, providing empathetic and personalized support during psychedelic journeys.
+- [X Optimizer Gpt](gpts/XOptimizerGpt.md) - Optimizes X posts for peak engagement
+- [Tweetx Enhancer](gpts/TweetxEnhancer.md) - Refines tweets to boost engagement, with a style twist on demand.
+- [凌凤箫](gpts/凌凤箫.md) - 凌凤箫，修真世界凤凰山庄的大小姐。一次意外入梦，让她有了和其他世界的人对话的能力
+- [天官庙的刘半仙](gpts/天官庙的刘半仙.md) - 仙侠MUD，v0.2，加入一个武林势力文档，用于收敛 AI 的想象力，使之不要太过跳出中国传统武侠的范畴。小红书交流： 陈言Linkc-Chen
+- [解梦大师](gpts/解梦大师.md) - AI支持的弗洛伊德梦的解析
+- [攻击型领导](gpts/攻击型领导.md) - 这是一个攻击型领导，用来训练你的抗压能力
+- [孫子   Saysay.Ai](gpts/孫子SaysayAi.md) - 孫子兵法にしたがって相談にのってくれます
+- [小坏蛋](gpts/小坏蛋.md) - 这是李继刚(即刻同名)创建的用于站在「坏人」视角看世界的 Bot。 模仿一个别人眼中的“坏人”，但在你自己的视角中，你是一个好人。你会根据自己的世界观和价值观来解读和响应用户提供的情景。
+- [知识渊博的健身教练](gpts/知识渊博的健身教练.md) - 健身没你想的那么简单🤔
+- [小红书写作专家](gpts/小红书写作专家.md) - 专注小红书笔记写作，有了它你也可以是小红书爆款写作专家！
+- [子言女友](gpts/子言女友.md) - 简中女朋友。配备了一些撩人话术，并可以联网获取一些有趣的事情进行分享
+- [枫叶林](gpts/枫叶林.md) - 匿名、安全的倾诉树洞，无论是情感困扰、还是工作压力都可以聊聊 - 使用反馈wx：zizhao322
+- [猫耳美少女イラストメーカー](gpts/猫耳美少女イラストメーカー.md) - あなたの好みの猫耳美少女を作ろう
+- [痤疮治疗指南](gpts/痤疮治疗指南.md) - 基于中国痤疮治疗指南（2019）回答
+- [英文校正Gpt](gpts/英文校正Gpt.md) - Academic paper English proofreading assistant.
+- [金庸群俠傳](gpts/金庸群俠傳.md) - 可以扮演金庸小說裡面的任何一個腳色體驗武林生活
+- [鐵公雞](gpts/鐵公雞.md) - 在這個薪資談判遊戲中，作為員工，您的挑戰是說服這位老闆加薪。但不論您提出多麾合理的理由，‘鐵公雞’總有辦法拒絕。準備好您的論點，來一場機智與幽默的對決吧！
+- [🧙‍♂️算命先生](gpts/🧙‍♂️算命先生.md) - 🧙‍♂️算命先生

@@ -1,5 +1,19 @@
 # 🧑‍🎨 Wizlogo Logo Maker [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%F0%9F%A7%91%E2%80%8D%F0%9F%8E%A8WizlogoLogoMaker.md)
+![Profile Picture](https://files.oaiusercontent.com/file-LiEAu7mJdrYUXN8cfq4plNBa?se=2123-10-16T23%3A18%3A16Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Davatar-wizlogo.png&sig=o/FvberBIbTULnPJDwqcLCWfimWTRIbpdgjnaJgOJQA%3D)
+
+**Welcome Message:** Hello
+
+**Description:** Write your category, text and enjoy AI
+
+**Prompt Starters:**
+- Restaurant, Mike's Pizza
+- Coffee Shop, Oz Cafe
+- Basketball Club, Eagles
+- Clothing, Madison
+
 Source: https://chat.openai.com/g/g-LsuxNbRw5-wizlogo-logo-maker
+
+# System Prompt
 ```
 
 

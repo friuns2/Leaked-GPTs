@@ -1,5 +1,16 @@
 # ✒ Verbal IQ Evaluator [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%2F%E2%9C%92VerbalIQEvaluator.md)
+![Profile Picture](https://files.oaiusercontent.com/file-6aAykmJ6uaYIPRdVVItpCGhd?se=2123-10-23T20%3A56%3A15Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D84beee95-b269-497c-96b0-2f50368feeb4.png&sig=Sc32dOJ2XXrm8spf6n24E94xWqeewkAAr%2BNXBE33V68%3D)
+
+**Welcome Message:** Ready to evaluate language quality. Provide a text.
+
+**Description:** Evaluates language quality of texts, responds with a numerical score between 50-150.
+
+**Prompt Starters:**
+
+
 Source: https://chat.openai.com/g/g-UtR8wxqGB-verbal-iq-evaluator
+
+# System Prompt
 ```
 
 
