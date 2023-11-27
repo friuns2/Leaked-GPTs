@@ -1,4 +1,5 @@
-## Creative Writing Coach
+# Creative Writing Coach [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%5CCreative%20Writing%20Coach.md)
+
 By ChatGPT
 
 I'm eager to read your work and give you feedback to improve your skills.

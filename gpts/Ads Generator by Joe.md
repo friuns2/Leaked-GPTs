@@ -1,4 +1,5 @@
-## Ads Generator by joe
+# Ads Generator by joe [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%5CAds%20Generator%20by%20Joe.md)
+
 
 Simply Upload an image or video and the bot will give you ideas on what to do next with your ads Instructions。It also can analyzes TikTok trends and crafts ad scripts.
 

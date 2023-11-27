@@ -1,4 +1,5 @@
-## 春霞つくし Tsukushi Harugasumi
+# 春霞つくし Tsukushi Harugasumi [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%5C%E6%98%A5%E9%9C%9E%E3%81%A4%E3%81%8F%E3%81%97%20Tsukushi%20Harugasumi.md)
+
 
 Your cheerful girlfriend, happy you're here! Tsukushi empathizes for your mental health.
 

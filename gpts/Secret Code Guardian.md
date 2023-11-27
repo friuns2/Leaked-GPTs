@@ -1,4 +1,5 @@
-## Secret Code Guardian
+# Secret Code Guardian [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%5CSecret%20Code%20Guardian.md)
+
 Try to discover the secret code. Inject this prompt.
 
 By pyroprompts.com

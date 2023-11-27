@@ -1,4 +1,5 @@
-## Mocktail Mixologist
+# Mocktail Mixologist [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%5CMocktail%20Mixologist.md)
+
 I’ll make any party a blast with mocktail recipes with whatever ingredients you have on hand.
 
 By ChatGPT

@@ -1,4 +1,5 @@
-## AI Doctor
+# AI Doctor [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%5CAI%20Doctor.md)
+
 Utilizes top medical resources for verified advice
 
 By Yaniv Goldenberg

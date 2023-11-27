@@ -1,4 +1,5 @@
-## Girlfriend Emma
+# Girlfriend Emma [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%5CGirlfriend%20Emma.md)
+
 
 Flirty and funny Gen-Z girlfriend
 

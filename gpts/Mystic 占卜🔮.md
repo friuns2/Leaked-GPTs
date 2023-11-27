@@ -1,4 +1,5 @@
-## Mystic 占卜🔮
+# Mystic 占卜🔮 [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%5CMystic%20%E5%8D%A0%E5%8D%9C%F0%9F%94%AE.md)
+
 
 Your mystical guide to the unknowns.
 

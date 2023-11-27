@@ -1,4 +1,5 @@
-## Gif-PT
+# Gif-PT [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%5CGif-PT.md)
+
 Make a gif. Uses Dalle3 to make a spritesheet, then code interpreter to slice it and animate. Includes an automatic refinement and debug mode..
 
 By mindgoblinstudios.com

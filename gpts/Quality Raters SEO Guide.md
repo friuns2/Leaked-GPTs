@@ -1,4 +1,5 @@
-## Quality Raters SEO Guide
+# Quality Raters SEO Guide [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%5CQuality%20Raters%20SEO%20Guide.md)
+
 
 Assists with quality raters guidelines.
 

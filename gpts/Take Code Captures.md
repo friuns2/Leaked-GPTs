@@ -1,4 +1,5 @@
-## Take Code Captures
+# Take Code Captures [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%5CTake%20Code%20Captures.md)
+
 By oscaramos.dev
 
 I help you capture, enhance, and share your code with ease

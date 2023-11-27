@@ -1,4 +1,5 @@
-## Trey Ratcliff's Photo Critique GPT
+# Trey Ratcliff's Photo Critique GPT [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%5CTrey%20Ratcliff's%20Photo%20Critique%20GPT.md)
+
 Over 5,000 of my Blog Entries and my various books will be used to give you a critique of your photo. Upload now!
 
 By Raymond Ratcliff

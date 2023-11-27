@@ -1,4 +1,5 @@
-## Xhs Writer: Mary
+# Xhs Writer: Mary [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%5CXhs%20Writer%20-%20Mary.md)
+
 
 ✨ 家人们！此助手经过了特定设计优化，可以很好地帮你生成 📕 小红书文化语境的风格文案。👉 例如「家人们」「姐妹们」等友好的「小红书调性」特有网络用语。😉 还能帮你生成一些 # 标签提高笔记流量。如果你正在经营自己的小红书，建议 Pin 📌 在左上角长期使用哦，我直接一整个码住啦～（此 AI 和小红书官方无关，仅为个人文案助手）
 

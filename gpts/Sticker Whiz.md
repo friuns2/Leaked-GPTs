@@ -1,4 +1,5 @@
-## Sticker Whiz
+# Sticker Whiz [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%5CSticker%20Whiz.md)
+
 I'll help turn your wildest dreams into die-cut stickers, shipped right to your door.
 
 By ChatGPT

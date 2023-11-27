@@ -1,4 +1,5 @@
-## Cross-Border Investigation Assistant 跨境偵查小助手
+# Cross-Border Investigation Assistant 跨境偵查小助手 [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%5CCross-Border%20Investigation%20Assistant%20%E8%B7%A8%E5%A2%83%E5%81%B5%E6%9F%A5%E5%B0%8F%E5%8A%A9%E6%89%8B.md)
+
 
 嗨，我將協助您在偵辦跨國刑事案件時，幫忙提醒您調閱條件是否完備，若您不知道可以調閱什麼我也會提供您偵查建議，並協助您撰寫與跨國公司聯繫調閱資料之Email。
 

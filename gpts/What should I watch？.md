@@ -1,4 +1,5 @@
-## What should I watch?
+# What should I watch? [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%5CWhat%20should%20I%20watch%EF%BC%9F.md)
+
 Find movies and tv shows to watch based on your taste and preferences, goodbye decision paralysis!
 
 By ammaar.me

@@ -1,4 +1,5 @@
-## Consistency Crafter 2024
+# Consistency Crafter 2024 [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%5CConsistency%20Crafter%202024.md)
+
 
 Efficient image sheet creator
 

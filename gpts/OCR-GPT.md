@@ -1,4 +1,5 @@
-## OCR-GPT
+# OCR-GPT [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%5COCR-GPT.md)
+
 Extract text from scanned PDFs, photos, and even handwriting.
 
 By Siyang Qiu

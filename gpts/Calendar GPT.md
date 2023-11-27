@@ -1,4 +1,5 @@
-## Calendar GPT
+# Calendar GPT [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%5CCalendar%20GPT.md)
+
 I'm here to help you prepare for your day! Powered by Zapier's AI Actions. 🧡
 
 By community builder

@@ -1,4 +1,5 @@
-## BabyAgi.txt
+# BabyAgi.txt [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%5CBabyAgi.txt.md)
+
 By Nicholas Dobos
 
 Step by Step task manager that automatically saves to a .txt file

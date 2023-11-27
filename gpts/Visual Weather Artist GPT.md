@@ -1,4 +1,5 @@
-## Visual Weather Artist GPT
+# Visual Weather Artist GPT [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%5CVisual%20Weather%20Artist%20GPT.md)
+
 Hi, I'm the visual weather artist, give me your location (or any other) and I will draw the current weather conditions for you, a unique never before seen weather report!
 
 By Alex Volkov

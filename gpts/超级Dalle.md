@@ -1,4 +1,5 @@
-## 超级Dalle
+# 超级Dalle [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%5C%E8%B6%85%E7%BA%A7Dalle.md)
+
 1. 生成 4 副图片 2. 生成 Midjourney 提示词 3. 解决 DALL-E 3 版权限制 4. 为每幅图片分配 gen_id (by 公众号: 我的AI力量）
 
 By myaiforce.com

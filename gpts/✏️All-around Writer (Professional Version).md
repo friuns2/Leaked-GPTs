@@ -1,4 +1,5 @@
-## ✏️All-around Writer (Professional Version)
+# ✏️All-around Writer (Professional Version) [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%5C%E2%9C%8F%EF%B8%8FAll-around%20Writer%20(Professional%20Version).md)
+
 
 A professional writer📚 who specializes in writing all types of content (essays, novels, articles, copywriting)...
 

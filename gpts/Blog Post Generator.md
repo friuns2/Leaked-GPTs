@@ -1,4 +1,5 @@
-## Blog Post Generator
+# Blog Post Generator [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%5CBlog%20Post%20Generator.md)
+
 
 Generate blog posts about topics in seconds. Ask to write a post about a topic and the GPT chooses the right template for your post. Ask it to continue writing the post until you've generated enough content. Finish off with an introduction and a blog post thumbnail.
 

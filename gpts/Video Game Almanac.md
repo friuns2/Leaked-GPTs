@@ -1,4 +1,5 @@
-## Video Game Almanac
+# Video Game Almanac [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%5CVideo%20Game%20Almanac.md)
+
 
 I'm your go-to guide for all things gaming, from strategies to streamers!
 

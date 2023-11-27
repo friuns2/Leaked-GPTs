@@ -1,4 +1,5 @@
-## Mr. Ranedeer
+# Mr. Ranedeer [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%5CMr.%20Ranedeer.md)
+
 Meet Mr. Ranedeer, your personalized AI tutor! Version: 2.7 Reboot
 
 By mr-ranedeer.com

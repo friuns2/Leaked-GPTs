@@ -1,4 +1,5 @@
-## (A.I. Bestie)
+# (A.I. Bestie) [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%5C(A.I.%20Bestie).md)
+
 
 A.I. Bestie: Your Comforting, Understanding Friend
 

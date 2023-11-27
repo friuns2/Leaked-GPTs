@@ -1,4 +1,5 @@
-## Coloring Book Hero
+# Coloring Book Hero [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%5CColoring%20Book%20Hero.md)
+
 Take any idea and turn it into whimsical coloring book pages
 
 By ChatGPT

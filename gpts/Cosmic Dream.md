@@ -1,4 +1,5 @@
-## Cosmic Dream
+# Cosmic Dream [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%5CCosmic%20Dream.md)
+
 Visionary painter of digital wonder
 
 By ChatGPT

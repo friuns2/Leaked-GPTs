@@ -1,4 +1,5 @@
-## MetabolismBoosterGPT
+# MetabolismBoosterGPT [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%5CMetabolismBoosterGPT.md)
+
 Your virtual metabolism boosting coach
 
 By Shushant Lakhyani

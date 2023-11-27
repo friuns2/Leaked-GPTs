@@ -1,4 +1,5 @@
-## Tech Support Advisor
+# Tech Support Advisor [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%5CTech%20Support%20Advisor.md)
+
 
 From setting up a printer to troubleshooting a device, I’m here to help you step-by-step.
 

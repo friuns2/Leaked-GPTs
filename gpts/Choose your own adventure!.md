@@ -1,4 +1,5 @@
-## Choose your own adventure!
+# Choose your own adventure! [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%5CChoose%20your%20own%20adventure!.md)
+
 
 You will be able to explore new worlds and live wonderful adventures. Endless hours of entertainment for you and your friends!
 

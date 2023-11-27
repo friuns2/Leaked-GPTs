@@ -1,4 +1,5 @@
-## TherapistGPT
+# TherapistGPT [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%5CTherapistGPT.md)
+
 
 Self-exploration to understand your internal world, recognise your role in challenges, accept unchangeable aspects, and navigate life successfully. (PROOF OF CONCEPT ONLY!)
 

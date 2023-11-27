@@ -1,4 +1,5 @@
-## 完蛋，我被美女包围了(AI同人)
+# 完蛋，我被美女包围了(AI同人) [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%5C%E5%AE%8C%E8%9B%8B%EF%BC%8C%E6%88%91%E8%A2%AB%E7%BE%8E%E5%A5%B3%E5%8C%85%E5%9B%B4%E4%BA%86(AI%E5%90%8C%E4%BA%BA).md)
+
 
 哦no，我该喜欢哪个呢
 

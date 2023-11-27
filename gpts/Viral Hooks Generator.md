@@ -1,4 +1,5 @@
-## Viral Hooks Generator
+# Viral Hooks Generator [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%5CViral%20Hooks%20Generator.md)
+
 GPT to write Scroll stopping Hooks for Short Form Content.
 
 By Muhammad Hassan Asghar

@@ -1,4 +1,5 @@
-## Music Writer
+# Music Writer [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%5CMusic%20Writer.md)
+
 
 告诉ChatGPT你想创造什么风格的音乐，他会给你创作。提供MIDI文件下载，使用本地播放器播放即可，例如Potplayer。ChatGPT的音乐细胞不太行，别抱太大期望。
 

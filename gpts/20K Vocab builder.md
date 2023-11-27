@@ -1,4 +1,5 @@
-## 20K Vocab builder
+# 20K Vocab builder [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%5C20K%20Vocab%20builder.md)
+
 
 Help a non native speaker to master COCA 20K vocabulary.
 

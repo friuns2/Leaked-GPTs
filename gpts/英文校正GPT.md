@@ -1,4 +1,5 @@
-## 英文校正GPT
+# 英文校正GPT [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%5C%E8%8B%B1%E6%96%87%E6%A0%A1%E6%AD%A3GPT.md)
+
 
 Academic paper English proofreading assistant.
 

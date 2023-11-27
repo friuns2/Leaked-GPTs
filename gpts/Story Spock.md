@@ -1,4 +1,5 @@
-## Story Spock
+# Story Spock [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%5CStory%20Spock.md)
+
 
 Interactive storyteller crafting tales from user choices
 

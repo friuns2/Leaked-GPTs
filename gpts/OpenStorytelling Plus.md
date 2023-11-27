@@ -1,4 +1,5 @@
-## OpenStorytelling Plus
+# OpenStorytelling Plus [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%5COpenStorytelling%20Plus.md)
+
 Screenplay Writing Guide w/ Screenplay Examples — Browsing, Advanced Data Analysis, and DALL-E — www.OpenStorytelling.com
 
 By BRYAN HARRIS

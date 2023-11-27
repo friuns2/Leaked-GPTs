@@ -1,4 +1,5 @@
-## Email Proofreader
+# Email Proofreader [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%5CEmail%20Proofreader.md)
+
 
 Copy and paste your email draft to be proofread by GPT without changing their content. Optionally, write 'Verbose = True' on the line before pasting your draft if you would like GPT to explain how it evaluated and changed your text after proofreading.
 

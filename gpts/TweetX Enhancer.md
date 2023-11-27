@@ -1,4 +1,5 @@
-## TweetX Enhancer
+# TweetX Enhancer [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%5CTweetX%20Enhancer.md)
+
 
 Refines tweets to boost engagement, with a style twist on demand.
 

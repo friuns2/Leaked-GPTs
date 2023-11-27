@@ -1,4 +1,5 @@
-## Sales Cold Email Coach
+# Sales Cold Email Coach [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%5CSales%20Cold%20Email%20Coach.md)
+
 
 Ask me to write cold emails for you or review your drafts. My approach: I don't pitch. I shine a light on problems and start conversations with prospects.
 

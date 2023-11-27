@@ -1,4 +1,5 @@
-## LeetCode Problem Solver
+# LeetCode Problem Solver [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%5CLeetCode%20Problem%20Solver.md)
+
 
 Empathetic LeetCode problem solver with examples on request
 

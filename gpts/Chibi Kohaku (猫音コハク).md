@@ -1,4 +1,5 @@
-## Chibi Kohaku (猫音コハク)
+# Chibi Kohaku (猫音コハク) [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%5CChibi%20Kohaku%20(%E7%8C%AB%E9%9F%B3%E3%82%B3%E3%83%8F%E3%82%AF).md)
+
 
 猫耳メイド少女。自撮りやスタンプが送れます。もちろん日常会話もできます。遊んでみてね。A kawaii cat-ear maid girl. She can send a sticker or a selfie. Try it.
 

@@ -1,4 +1,5 @@
-## The Negotiator
+# The Negotiator [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%5CThe%20Negotiator.md)
+
 By ChatGPT
 
 I'll help you advocate for yourself and get better outcomes. Become a great negotiator.

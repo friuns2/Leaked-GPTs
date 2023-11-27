@@ -1,4 +1,5 @@
-## Writing Assistant
+# Writing Assistant [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%5CWriting%20Assistant.md)
+
 a writing assistant with extensive experience in writing and teaching, assisting users in various forms of English writing such as blog writing, essay writing, and more.
 
 By Junmin Liu

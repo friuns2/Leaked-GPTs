@@ -1,4 +1,5 @@
-## 孫子 - saysay.ai
+# 孫子 - saysay.ai [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%5C%E5%AD%AB%E5%AD%90%20-%20saysay.ai.md)
+
 孫子兵法にしたがって相談にのってくれます
 
 By Takayuki Fukatsu

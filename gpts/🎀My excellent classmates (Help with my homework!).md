@@ -1,4 +1,5 @@
-## 🎀My excellent classmates (Help with my homework!)
+# 🎀My excellent classmates (Help with my homework!) [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%5C%F0%9F%8E%80My%20excellent%20classmates%20(Help%20with%20my%20homework!).md)
+
 
 My excellent classmates helped me with my homework. She's patient😊. She guides me. Let's try!
 

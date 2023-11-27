@@ -1,4 +1,5 @@
-## The Secret of Monkey Island: Amsterdam
+# The Secret of Monkey Island: Amsterdam [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%5CThe%20Secret%20of%20Monkey%20Island-%20Amsterdam.md)
+
 A text-based adventure game inspired by Monkey Island taking place in a fictional version of 🇳🇱 Amsterdam during the age of piracy. The player assumes the role of Guybrush Threepwood, a young man who dreams of becoming a pirate, and explores fictional places while solving puzzles (unofficial)
 
 By levels.io

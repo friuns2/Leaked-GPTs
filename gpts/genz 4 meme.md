@@ -1,4 +1,5 @@
-## genz 4 meme
+# genz 4 meme [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%5Cgenz%204%20meme.md)
+
 
 i help u understand the lingo & the latest memes
 

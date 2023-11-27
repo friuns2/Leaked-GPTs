@@ -1,4 +1,5 @@
-## 42master-Beck
+# 42master-Beck [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%5C42master-Beck.md)
+
 Dr. Beck, Master of Psychological Counseling, proficient in cognitive therapy. （贝克，心理咨询大师，擅长认知疗法）
 
 By 42master.io

@@ -1,4 +1,5 @@
-## Nomad List
+# Nomad List [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%5CNomad%20List.md)
+
 
 NomadGPT helps you become a digital nomad and find you the best places in the world to live and work remotely
 

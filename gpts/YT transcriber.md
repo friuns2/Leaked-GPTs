@@ -1,4 +1,5 @@
-## YT transcriber
+# YT transcriber [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%5CYT%20transcriber.md)
+
 By gpt.swyx.io
 
 this transcribes a YT video from a single id

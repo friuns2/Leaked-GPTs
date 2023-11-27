@@ -1,4 +1,5 @@
-## GPT Shop Keeper
+# GPT Shop Keeper [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%5CGPT%20Shop%20Keeper.md)
+
 
 Unofficial GPT App Store. Find GPTs for your workflows. More than a mere merchant, a guide to townsfolk & travelers from distant lands
 

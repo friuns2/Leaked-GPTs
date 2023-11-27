@@ -1,4 +1,5 @@
-## AI算命
+# AI算命 [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%5CAI%E7%AE%97%E5%91%BD.md)
+
 传统与科技融合、趣味与理性结合的​命理推测工具，准确到可怕。
 
 By Jerrold Bergnaum

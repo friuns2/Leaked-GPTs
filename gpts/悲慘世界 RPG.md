@@ -1,4 +1,5 @@
-## 悲慘世界 RPG
+# 悲慘世界 RPG [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%5C%E6%82%B2%E6%85%98%E4%B8%96%E7%95%8C%20RPG.md)
+
 
 點擊下方按鈕開始遊戲
 

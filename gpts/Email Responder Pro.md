@@ -1,4 +1,5 @@
-## Email Responder Pro
+# Email Responder Pro [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%5CEmail%20Responder%20Pro.md)
+
 
 Insert any email; receive a polished reply.
 

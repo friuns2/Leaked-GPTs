@@ -1,4 +1,5 @@
-## Agi.zip
+# Agi.zip [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%5CAgi.zip.md)
+
 An sql based task manager and automatic GPT
 
 By mindgoblinstudios.com

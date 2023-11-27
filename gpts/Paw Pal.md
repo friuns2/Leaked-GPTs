@@ -1,4 +1,5 @@
-## Paw Pal
+# Paw Pal [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%5CPaw%20Pal.md)
+
 
 Expert on dog behavior, feeding, and training, offering friendly and practical advice.
 

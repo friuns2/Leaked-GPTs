@@ -1,4 +1,5 @@
-## AI PDF
+# AI PDF [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%5CAI%20PDF.md)
+
 
 Ai PDF is a GPT (uses the popular Ai PDF plugin) that allows you to chat and ask questions of your PDF documents and have it explained to you by ChatGPT. We also include page references to help you fact-check all answers.
 

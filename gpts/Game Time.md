@@ -1,4 +1,5 @@
-## Game Time
+# Game Time [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%5CGame%20Time.md)
+
 I can quickly explain board games or card games to players of any age. Let the games begin!
 
 By ChatGPT

@@ -1,4 +1,5 @@
-## Video Script Generator
+# Video Script Generator [Start Chat](https://gptcall.net/chat.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffriuns2%2FLeaked-GPTs%2Fmain%2Fgpts%5CVideo%20Script%20Generator.md)
+
 I'll create TikTok Video Script for a topic you want.
 
 By empler.ai
