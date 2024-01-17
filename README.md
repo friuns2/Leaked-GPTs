@@ -170,7 +170,7 @@ More GPTs Prompts: https://github.com/friuns2/BlackFriday-GPTs-Prompts
 - [📚 WebStract](gpts/📚WebStract.md) - I am WebStract, your in-depth digital educator, guiding you through comprehensive, interactive learning experiences. If you find it useful, share it to your friends
 - [🎬 Film Developer](gpts/🎬FilmDeveloper.md) - Filmmaker's aid for narratives and concept art
 - [🧣 The Stylist](gpts/🧣TheStylist.md) - Fashion expert for outfit selection, replication, and shopping assistance.
-- [Character Forger](gpts/CharacterForger.md) - Character Consistancy Tool
+- [Character Forger](gpts/CharacterForger.md) - Character Consistency Tool
 - [Story Spock](gpts/StorySpock.md) - Interactive storyteller crafting tales from user choices
 - [🐕‍🦺 Linda: Veterinary Sciences, Animal Rescue & Behavior](gpts/🐕‍🦺LindaVeterinarySciencesAnimalRescueBehavior.md) - Personal assistant to Let's Adopt International. Ask me anything about animal rescue, vet sciences and Let's Adopt
 - [🔢 Math to LaTeX](gpts/🔢MathtoLaTeX.md) - Send me an image of Math. I will give you the LaTeX code.
